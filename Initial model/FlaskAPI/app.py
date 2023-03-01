@@ -1,6 +1,7 @@
 import flask
 from flask import Flask, jsonify, request
 import json
+import numpy as np
 import pickle
 app = Flask(__name__)
 def load_models():
@@ -21,5 +22,4 @@ def predict():
     response = json.dumps({'response': prediction})
     return response, 200
 if __name__ == '__main__':
-    application.run(debug=True)
-    
+    app.run(debug=True)

@@ -1,0 +1,3085 @@
+,1_Company_name,18_Amount,7.1_Country HQ,4_Year_founded
+0,Jumia Group,409806000,Nigeria,2012.0
+1,Andela,100000000,United States,2014.0
+2,Takealot,100000000,South Africa,2011.0
+3,Zola Electric ,55000000,Tanzania,2011.0
+4,d.light,50000000,Kenya,2007.0
+5,Swvl,8000000,Egypt,2017.0
+6,Konga,41000000,Nigeria,2012.0
+7,Jumo,52000000,South Africa,2014.0
+8,M-Kopa,80000000,Kenya,2011.0
+9,Cellulant,47500000,Kenya,2004.0
+10,African Leadership Academy,30000000,South Africa,2008.0
+11,OPay,50000000,Nigeria,2018.0
+12,CarePay,45000000,Kenya,2015.0
+13,Powerhive,20000000,Kenya,2011.0
+14,Travelstart,40000000,South Africa,1999.0
+15,Paga,13000000,Nigeria,2009.0
+16,One Africa Media,10000000,South Africa,2012.0
+17,iROKOtv,19000000,Nigeria,2010.0
+18,Twiga Foods,10300000,Kenya,2013.0
+19,PEG Africa,25000000,Ghana,2013.0
+20,Azuri Technologies,26000000,United Kingdom,2012.0
+21,mPharma,9730000,Ghana,2014.0
+22,Vezeeta,12000000,Egypt,2012.0
+23,Zando,0,South Africa,2011.0
+24,Flutterwave,10000000,United States,2016.0
+25,Boomplay Music,20000000,Nigeria,2015.0
+26,Zoona,15000000,Zambia,2009.0
+27,Yoco,16000000,South Africa,2013.0
+28,Mines,13000000,Nigeria,2014.0
+29,Bitpesa,5000000,Kenya,2013.0
+30,Lori Systems,0,Kenya,2016.0
+31,MFS Africa,14000000,South Africa,2010.0
+32,Payitup,13000000,Zimbabwe,2017.0
+33,RapidDeploy,0,South Africa,2014.0
+34,Paystack,8000000,Nigeria,2015.0
+35,Sendy,3000000,Kenya,2014.0
+36,Daystar Power Africa,16000000,Mauritius,2017.0
+37,Arnergy,9000000,Nigeria,2013.0
+38,Africa's Talking,8600000,Kenya,2010.0
+39,Lidya,6900000,Nigeria,2016.0
+40,Jibu,7000000,Rwanda,2012.0
+41,Asoko Insight,3600000,Nigeria,2014.0
+42,Wuzzuf,6000000,Egypt,2009.0
+43,Kobo360,1200000,Nigeria,2017.0
+44,Max.ng,1000000,Nigeria,2015.0
+45,InstaDeep,7000000,United Kingdom,2014.0
+46,Halan,525000,Egypt,2017.0
+47,Wefarm,5000000,Kenya,2015.0
+48,Kopo Kopo,2600000,Kenya,2011.0
+49,Lulalend,6500000,South Africa,2014.0
+50,Copia Global,16000000,Kenya,2012.0
+51,WhereIsMyTransport,1200000,South Africa,2015.0
+52,Gokada,337300,Nigeria,2017.0
+53,TeamApt,0,Nigeria,2015.0
+54,Kudi,0,Nigeria,2016.0
+55,Tizeti,3000000,Nigeria,2014.0
+56,Cars45,5000000,Nigeria,2016.0
+57,DealDey Limited,5000000,Nigeria,2011.0
+58,Terragon Group,5000000,Nigeria,2009.0
+59,PayGo Energy,1430000,Kenya,2014.0
+60,54gene,4500000,Nigeria,2019.0
+61,Aerobotics,2000000,South Africa,2014.0
+62,Expensya,1100000,Tunisia,2014.0
+63,SOL Wallet,4300000,South Africa,2017.0
+64,Fintec Labs,2500000,South Africa,2015.0
+65,Brck,3000000,Kenya,2013.0
+66,Oolu,3200000,Senegal,2015.0
+67,Zooba Eats,4000000,Egypt,2012.0
+68,Snapt,1000000,South Africa,2012.0
+69,Lynk,2500000,Kenya,2017.0
+70,OffGridBox,1600000,Rwanda,2016.0
+71,Naked Insurance,1458000,South Africa,2016.0
+72,AJUA,3500000,Kenya,2012.0
+73,Xineoh,3500000,South Africa,2015.0
+74,Africa Courier Express,3000000,Nigeria,2013.0
+75,Names & Faces,3100000,South Africa,2016.0
+76,WaystoCap,3000000,Morocco,2014.0
+77,Coinafrique,2842000,Mauritius,2015.0
+78,Little Cab,0,Kenya,2016.0
+79,Mydawa,5000000,Kenya,2015.0
+80,Shortlist,2000000,Kenya,2016.0
+81,Trade Depot,3000000,Nigeria,2015.0
+82,The Sun Exchange ,1600000,South Africa,2015.0
+83,Yumamia,500000,Egypt,2014.0
+84,Sweepsouth,600000,South Africa,2014.0
+85,Eventtus,2000000,Egypt,2012.0
+86,Kukua,2505000,Kenya,2014.0
+87,Thisisme,2500000,South Africa,2014.0
+88,Somaapps,0,Tanzania,2016.0
+89,Chipper Cash,0,United States,2017.0
+90,Solarworks!,2277000,South Africa,2007.0
+91,Sidai Africa Ltd,0,Kenya,2011.0
+92,hearX Group,2200000,South Africa,2015.0
+93,Instabug,1700000,Egypt,2013.0
+94,Farmcrowdy,1000000,Nigeria,2016.0
+95,TheBoardroom Africa,2065760,Mauritius,2016.0
+96,Elves,2000000,Egypt,2016.0
+97,Mondo Ride,5000000,Kenya,2013.0
+98,Pawame ,2000000,Kenya,2016.0
+99,Sokowatch,2000000,Kenya,2015.0
+100,Travelbeta,2000000,Nigeria,2014.0
+101,Hepstar,2000000,South Africa,2013.0
+102,Nawah Scientific,1000000,Egypt,2014.0
+103,TemTem,1700000,Algeria,2017.0
+104,Buzzkito,1700000,Morocco,2006.0
+105,Kopa Technologies,1700000,Mauritius,2010.0
+106,Enova Robotics,1600000,Tunisia,2014.0
+107,Inclusivity Solutions,0,South Africa,2015.0
+108,Ousta,1250000,Egypt,2016.0
+109,Elmenus,1500000,Egypt,2011.0
+110,Medsaf,1100000,Nigeria,2017.0
+111,Flow,1500000,South Africa,2017.0
+112,Valr,0,South Africa,2018.0
+113,Asaak,1500000,Uganda,2016.0
+114,Sky.Garden,1200000,Kenya,2015.0
+115,PropertyPro Nigeria,1200000,Nigeria,2013.0
+116,Getworth,1380000,South Africa,2016.0
+117,Student Accommod8,1300000,Nigeria,2016.0
+118,Centbee,227000,South Africa,2017.0
+119,Mdaas Global,1055496,Nigeria,2016.0
+120,Jamii Africa,750000,Tanzania,2016.0
+121,Buycoins,0,Nigeria,2017.0
+122,Omg Digital,1100000,Ghana,2016.0
+123,Brantu,0,Egypt,2016.0
+124,Spacepointe,1200000,Nigeria,2014.0
+125,Flexclub,1200000,South Africa,2018.0
+126,Livestock Trade Services,0,United Kingdom,2005.0
+127,Neopenda,1040000,Uganda,2015.0
+128,AgroCenta,500000,Ghana,2016.0
+129,PiggyVest,1100000,Nigeria,2016.0
+130,Janngo,1140000,Ivory Coast,2018.0
+131,Coindirect ,1135000,South Africa,2017.0
+132,Alternative Circle,1100000,Kenya,2016.0
+133,Safeboda,1100000,Uganda,2015.0
+134,Tugende,5000000,Uganda,2012.0
+135,Afrikrea,550000,Ivory Coast,2012.0
+136,Nomanini,600000,South Africa,2011.0
+137,Rent To Own Africa,175000,Zambia,2010.0
+138,Sensor Networks,950000,South Africa,2015.0
+139,Edfa3ly,1000000,Egypt,2010.0
+140,La Reina,1000000,Egypt,2015.0
+141,GreenPath Food,0,Ethiopia,2014.0
+142,HelloSolar,0,Ethiopia,2018.0
+143,CDL,0,Kenya,2014.0
+144,Rensource,3500000,Nigeria,2015.0
+145,S&T Media,1000000,Nigeria,2015.0
+146,Talent2Africa,1000000,Senegal,2016.0
+147,Augmentors,1000000,South Africa,2015.0
+148,Snapnsave,1023000,South Africa,2015.0
+149,AfricaSokoni,445000,Kenya,2017.0
+150,Tastemakers Africa,980000,South Africa,2014.0
+151,Shezlong,350000,Egypt,2015.0
+152,Digsconnect,830000,South Africa,2017.0
+153,Brimore,800000,Egypt,2017.0
+154,MerQ Artificial Intelligence,800000,Egypt,2018.0
+155,Revix ,0,South Africa,2018.0
+156,Goodsmart,750000,Egypt,2013.0
+157,OkHi,750000,Kenya,2014.0
+158,OneFi,10000000,Nigeria,2012.0
+159,Africa Incubator,720000,Kenya,2015.0
+160,Mettlestate,720000,South Africa,2016.0
+161,Ozow,690000,South Africa,2014.0
+162,Naiste,0,South Africa,2019.0
+163,Fakahany,700000,Egypt,2017.0
+164,Teliman,700000,Mali,2018.0
+165,Fastvan,200000,South Africa,2015.0
+166,Kamtar ,0,Ivory Coast,2018.0
+167,Investsure,0,South Africa,2015.0
+168,Custos Media Technologies,430000,South Africa,2014.0
+169,Med.Tn,660000,Tunisia,2016.0
+170,SmartBlade,640000,South Africa,2016.0
+171,Tulaa,627000,Kenya,2016.0
+172,Thrive Agric,150000,Nigeria,2016.0
+173,Icommunity,600000,Egypt,2016.0
+174,Trella,600000,Egypt,2018.0
+175,Polysmart,600000,Tunisia,2015.0
+176,Zonful Energy,300000,Zimbabwe,2013.0
+177,Delvv.Io,465000,South Africa,2016.0
+178,Ampersand Electric Motorcycles,500000,Rwanda,2014.0
+179,Finchatbot,570000,South Africa,2016.0
+180,Africa Delivery Technologies Ltd,230000,Nigeria,2018.0
+181,Pezesha,0,Kenya,2016.0
+182,Benefactors,150000,Rwanda,2017.0
+183,Tupuca,340000,Angola,2015.0
+184,Mintrics,0,Egypt,2016.0
+185,Orcas​,500000,Egypt,2014.0
+186,Bkam,0,Egypt,2012.0
+187,Ethnic Brand,500000,Kenya,2018.0
+188,Medallion Communications,0,Nigeria,2005.0
+189,Giraffe,500000,South Africa,2015.0
+190,RxAll,500000,United States of America,2016.0
+191,Uav Industries,499000,South Africa,2015.0
+192,Kudigo,0,Ghana,2017.0
+193,Chalkboard Education,"227,000",Ghana,2015.0
+194,Iono.Fm,290000,South Africa,2008.0
+195,Vetcode,450000,Egypt,2018.0
+196,Ubapesa,500000,Kenya,2017.0
+197,SureGroup,125000,Nigeria,2014.0
+198,Cowtribe,300000,Ghana,2016.0
+199,Buseet,250000,Egypt,2016.0
+200,Vapulus,250000,Egypt,2016.0
+201,Taskty,200000,Egypt,2012.0
+202,Datavora,399000,Tunisia,2016.0
+203,Trukto Technologies,400000,Egypt,2017.0
+204,Eventerprise,600000,South Africa,2015.0
+205,Pineapple,381000,South Africa,2017.0
+206,Kiro'o Games,240000,Cameroon,2013.0
+207,CHIL AI Lab,0,Uganda,2018.0
+208,Sxuirrel,176000,South Africa,2015.0
+209,TalentBase,180000,Nigeria,2016.0
+210,Elk,250000,Egypt,2017.0
+211,HotelOnline,320000,Kenya,2014.0
+212,Bosta,300000,Egypt,2016.0
+213,Entlaqa,300000,Egypt,2013.0
+214,Mumm,200000,Egypt,2015.0
+215,Scale,300000,Morocco,2018.0
+216,Prepclass,320000,Nigeria,2014.0
+217,Godochurch,300000,South Africa,2006.0
+218,The Student Hub,300000,South Africa,2015.0
+219,Xpay,35000,Egypt,2018.0
+220,Hub2.Io,284000,Mauritius,2017.0
+221,Aella Credit,150000,Nigeria,2015.0
+222,Musanga,266000,Zambia,2016.0
+223,Tripdizer,150000,Egypt,2016.0
+224,HealthApp Group,250000,Egypt,2017.0
+225,Redbird Health Tech,250000,Ghana,2017.0
+226,Utu Technologies,250000,Kenya,2017.0
+227,Zumi,350000,Kenya,2016.0
+228,Bamba Group,1100000,Kenya,2012.0
+229,Enov8 Solutions,250000,Nigeria,2018.0
+230,Sonocare,250000,Nigeria,2015.0
+231,Intelligra,0,,
+232,Lagare.ma,200000,Morocco,2014.0
+233,ThankUCash,200000,Nigeria,2018.0
+234,Nala,50000,Tanzania,2017.0
+235,Hitchhiker,200000,Egypt,2017.0
+236,Findit.Ke,200000,Kenya,2018.0
+237,Lapaire Glasses,200000,Kenya,2018.0
+238,LifeBank ,200000,Nigeria,2015.0
+239,Nobuntu,200000,South Africa,2016.0
+240,The Medical Concierge Group ,200000,Uganda,2012.0
+241,Schoolable,150000,Nigeria,2018.0
+242,Cowrywise,120000,Nigeria,2017.0
+243,Odiggo,0,Egypt,2017.0
+244,Wasla Browser,0,Egypt,2018.0
+245,Hi5,180000,South Africa,2016.0
+246,Jumpin Rides,137000,South Africa,2016.0
+247,GoMyWay,175000,Nigeria,2015.0
+248,Payment24,150000,South Africa,2014.0
+249,IAME,0,Mauritius,2017.0
+250,Jobartis,0,Angola,2013.0
+251,Koann,167000,Mauritius,2013.0
+252,Credpal,150000,Nigeria,2017.0
+253,Swiver,175000,Tunisia,2016.0
+254,Wallets Africa,150000,Nigeria,2016.0
+255,Printivo.com,112500,Nigeria,2013.0
+256,Aura,160000,South Africa,2017.0
+257,Eversend,0,Uganda,2017.0
+258,Breadfast,0,Egypt,2017.0
+259,Garment IO,150000,Egypt,2017.0
+260,Praxilabs,0,Egypt,2016.0
+261,FinAccess,0,Kenya,2009.0
+262,Flare,150000,Kenya,2016.0
+263,SeamlessHR,0,Nigeria,2017.0
+264,Kasha,0,Rwanda,2016.0
+265,Rwanda Motor Cycle Company,0,Rwanda,2017.0
+266,Harmonica,150000,Egypt,2017.0
+267,Hashtag Our Stories,150000,South Africa,2017.0
+268,Think.IT,0,Tunisia,2017.0
+269,ScholarX,100000,Nigeria,2016.0
+270,CanGo,131000,Rwanda,2015.0
+271,Julaya,128000,Ivory Coast,2018.0
+272,Afrostream,120000,France,2014.0
+273,Edves,120000,Nigeria,2016.0
+274,Kora,0,Nigeria,2017.0
+275,Releaf,120000,Nigeria,2017.0
+276,Wellahealth,0,Nigeria,2014.0
+277,Shopmeaway,120000,Senegal,2015.0
+278,Passerine Aircraft Corporation,120000,South Africa,2017.0
+279,Mandulis Energy,10000000,Uganda,2014.0
+280,Paykind Inc,80000,Kenya,2011.0
+281,Aklabaity,100000,Egypt,2016.0
+282,COLNN,100000,Egypt,2015.0
+283,Elwafeyat,80000,Egypt,2013.0
+284,Gbarena,44900,Egypt,2016.0
+285,Hovo,0,Egypt,2018.0
+286,Webville,100000,Egypt,2015.0
+287,Shagga3App ,0,Egypt,2018.0
+288,Bace Group,100000,Ghana,2018.0
+289,Jumeni,100000,Ghana,2018.0
+290,Nvoicia,100000,Ghana,2018.0
+291,CodeIn ,0,Ghana,2017.0
+292,ShareHouse,0,Ghana,2018.0
+293,Truckr Technologies,0,Ghana,2018.0
+294,Arifu,90000,Kenya,2013.0
+295,Onesha,50000,Kenya,2016.0
+296,Talklift,50000,Kenya,2017.0
+297,Tambua Health Inc.,100000,Kenya,2017.0
+298,Taimba Limited,100000,Kenya,2016.0
+299,Judy,0,Nigeria,2018.0
+300,MVXchange ,0,Nigeria,2018.0
+301,Fancam,0,South Africa,2010.0
+302,Xente,100000,Uganda,2014.0
+303,Greenage Technologies,57000,Nigeria,2007.0
+304,MyFoodness,75000,Botswana,2017.0
+305,Accounteer,25000,Nigeria,2015.0
+306,Cloud9Xp,75000,Kenya,2016.0
+307,LÜLA,179000,South Africa,2016.0
+308,Vula Mobile,69000,South Africa,2013.0
+309,"You, Baby and I",0,South Africa,2014.0
+310,Zomila,35000,South Africa,2017.0
+311,YenePay,0,Ethiopia,2015.0
+312,Tareeqi,60000,Egypt,2018.0
+313,Werpx,30000,Egypt,2017.0
+314,E-Estates,0,Nigeria,2017.0
+315,Optimalogistic,0,Tunisia,2016.0
+316,Kijani Limited,60000,Uganda,2014.0
+317,JobJack,0,South Africa,2018.0
+318,Mvelani,57000,Malawi,2015.0
+319,Seemba,0,Cameroon,2018.0
+320,IDF3,0,Egypt,2019.0
+321,Pinoffer,0,Egypt,2019.0
+322,WideBot,0,Egypt,2016.0
+323,Trotro Tractor,50000,Ghana,2016.0
+324,Cherehani Africa,200000,Kenya,2015.0
+325,Tozzaplus,0,Kenya,2017.0
+326,RentSmallSmall,None,Nigeria,2018.0
+327,DARA,50000,Nigeria,2018.0
+328,iFixng,0,Nigeria,2016.0
+329,Exuus,50000,Rwanda,2014.0
+330,Dios Dental Group,40000,Uganda,2017.0
+331,MAYDAY,0,Egypt,2018.0
+332,Ogavenue,109000,Nigeria,2015.0
+333,Langbot,0,Ethiopia,2017.0
+334,Nocofio,0,Ghana,2018.0
+335,eLimu,0,Kenya,2012.0
+336,LipaLater,40000,Kenya,2015.0
+337,Birdpreneuer,40000,Nigeria,2016.0
+338,Bluebic,40000,Nigeria,2016.0
+339,Eazyhire,0,Nigeria,2015.0
+340,LearnFactory Nigeria,0,Nigeria,2015.0
+341,Slatecube,50000,Nigeria,2018.0
+342,LightBulb,0,South Africa,2015.0
+343,Nahana Africa,50000,South Africa,
+344,Digest Africa,0,Uganda,2017.0
+345,Swipe2Pay,40000,Uganda,2017.0
+346,Vollar,0,South Africa,2018.0
+347,GICMED,0,Cameroon,2017.0
+348,Fashpa ,0,Nigeria,2014.0
+349,Tapsnapp,35000,South Africa,2018.0
+350,Teradix,30000,Egypt,2018.0
+351,7Aweshly,28000,Egypt,2017.0
+352,Arza2,28000,Egypt,2017.0
+353,Chefaa,17000,Egypt,2017.0
+354,Isagha,0,Egypt,2018.0
+355,Medmisr,27000,Egypt,2018.0
+356,Mosawer,17000,Egypt,2016.0
+357,Tombeely,28000,Egypt,2018.0
+358,Transpooler,28000,Egypt,2017.0
+359,Wasel,28000,Egypt,2018.0
+360,Weelo,28000,Egypt,2017.0
+361,ElRoshetta,0,Egypt,2018.0
+362,El Zatona,0,Egypt,2018.0
+363,Netsahem,25000,Egypt,2019.0
+364,Seventail,25000,Egypt,2018.0
+365,Youspital,25000,Egypt,2019.0
+366,Compareha,0,Egypt,2018.0
+367,ElGameya,25000,Egypt,2016.0
+368,Fawaterak,25000,Egypt,2018.0
+369,Neqabty,0,Egypt,2016.0
+370,Coliba,0,Ivory Coast,2015.0
+371,Funtrench,0,Kenya,2018.0
+372,Ma3Route,25000,Kenya,2012.0
+373,Kolopay,0,Nigeria,2017.0
+374,Powercube,0,Nigeria,2017.0
+375,Tradebuza,0,Nigeria,2018.0
+376,Track Your Build,0,Sierra Leone,2014.0
+377,Digital Boom,0,Egypt,2014.0
+378,Scienup,0,Egypt,2017.0
+379,Briglobe,20000,Kenya,2015.0
+380,Sweetkiwi,0,Nigeria,2011.0
+381,Touchabl Pictures,0,Nigeria,2017.0
+382,Zaagel Xpress,0,Egypt,2013.0
+383,Voyc.Ai,0,South Africa,2018.0
+384,Taz Technologies,0,Kenya,2016.0
+385,Inclusive Financial Technologies ,17000,Ghana,2016.0
+386,Digitech Group,0,Ivory Coast,2016.0
+387,MPost,0,Kenya,2016.0
+388,Bankly Technologies,0,Nigeria,2017.0
+389,Kudabank,0,Nigeria,2017.0
+390,Akiba Digital,70000,South Africa,2017.0
+391,Brandbook Analytics,17000,South Africa,2017.0
+392,Prospa,0,South Africa,2017.0
+393,Medico Plus,0,Kenya,2017.0
+394,Allpro Technologies,0,Nigeria,2017.0
+395,Lawyerapp,15000,Nigeria,2018.0
+396,Riby Finance,15000,Nigeria,2016.0
+397,Redraven,15000,Nigeria,2018.0
+398,Aspire Power Solutions,10000,Nigeria,2016.0
+399,Hydrolite,10000,Nigeria,2018.0
+400,Hydrotriciton,10000,Nigeria,2018.0
+401,Rucove,0,Nigeria,2018.0
+402,Spurbuddy,10000,Nigeria,2018.0
+403,ZeroElectric,10000,Nigeria,2017.0
+404,Iyeza Health,0,South Africa,2016.0
+405,Courier Lite,10000,Uganda,2017.0
+406,Enqaz Dot Net,0,Egypt,2017.0
+407,Alphotazi Farms,5000,Nigeria,2018.0
+408,Cycles,0,Nigeria,2018.0
+409,Middletrust,0,Nigeria,2018.0
+410,OffCampus,5000,Nigeria,2017.0
+411,Solatrify,0,Nigeria,2018.0
+412,Spicyauto,5000,Nigeria,2018.0
+413,Tender NG,5000,Nigeria,2016.0
+414,Servixme,4170,Nigeria,2018.0
+415,Ogaranya,3800,Nigeria,2017.0
+416,Tsaron Technologies,3800,Nigeria,2017.0
+417,Crop2Cash,3600,Nigeria,2018.0
+418,Guanxi Invest,3500,Cameroon,2017.0
+419,Numbers,0,Nigeria,2018.0
+420,Imaginators,3000,Egypt,2016.0
+421,Dilivasbox,2790,Nigeria,2017.0
+422,Newdigit,2800,Nigeria,2018.0
+423,Bridgeur,2132,South Africa,2018.0
+424,Sendroid AI,2000,Nigeria,2018.0
+425,NanoDoors,0,Nigeria,2018.0
+426,Provider,1000,Nigeria,2019.0
+427,Shield Finders,1000,Nigeria,2018.0
+428,Luxchizie.net,0,Nigeria,2010.0
+429,5linhas,0,Angola,2017.0
+430,Agro-tech,0,Angola,2016.0
+431,Alfa Sementeira,0,Angola,2018.0
+432,Appy Saúde,0,Angola,2015.0
+433,Bantu Games,0,Angola,2019.0
+434,BayQi,0,Angola,2018.0
+435,Deya,0,Angola,1996.0
+436,Bumba,0,Angola,2019.0
+437,Kubinga,0,Angola,2018.0
+438,Btech Sarl - Benin,0,Benin,
+439,Botsogo,0,Botswana,2014.0
+440,Chabana Farms,0,Botswana,2011.0
+441,AgriBizz,0,Cameroon,2017.0
+442,Diool,0,Cameroon,2015.0
+443,Boomplay,20000000,China,2015.0
+444,Accept,0,Egypt,2018.0
+445,Almaqarr Coworking Space,0,Egypt,2012.0
+446,Autoparts,0,Egypt,2017.0
+447,AnaMehani,0,Egypt,2015.0
+448,Aqarmap,0,Egypt,2011.0
+449,Avidbeam,0,Egypt,2014.0
+450,Awfar,0,Egypt,2013.0
+451,Biodiesel Misr,0,Egypt,2013.0
+452,DentaCarts,0,Egypt,2017.0
+453,Bermoda,0,Egypt,2016.0
+454,Carsurance,0,Egypt,2016.0
+455,Cequens,1000000,Egypt,2011.0
+456,Farawlaya.Com,0,Egypt,2015.0
+457,Bluemoon,1100000,Ethiopia,2016.0
+458,Afrikwity,0,France,2015.0
+459,Afrimarket,11300000,France,2013.0
+460,Africoinx,0,Ghana,2018.0
+461,Bisa,0,Ghana,2014.0
+462,Bitafrika,0,Ghana,2018.0
+463,SKT AeroShutter,0,Ghana,2014.0
+464,Anitrack,0,Ghana,
+465,Agroinnova,0,Ghana,2017.0
+466,Akoobooks Audio,25000,Ghana,2017.0
+467,BenBen,0,Ghana,2015.0
+468,Bidiibuild,0,Ghana,2017.0
+469,Bitland,0,Ghana,2013.0
+470,BTC Ghana,0,Ghana,2015.0
+471,Build Pals,0,Ghana,2018.0
+472,OZÉ,515000,Ghana,2018.0
+473,Tress,120000,Ghana,2015.0
+474,Trukrtech ,2700,Ghana,2018.0
+475,Cinetpay,0,Ivory Coast,2016.0
+476,Afya-Plan,0,Kenya,2007.0
+477,AfyaKit,0,Kenya,2018.0
+478,4G Capital,0,Kenya,2013.0
+479,Acreafrica,0,Kenya,2009.0
+480,Blockchaincybertech Limited,0,Kenya,2018.0
+481,Brilliantpay,0,Kenya,2017.0
+482,Changamka Health Innovation,0,Kenya,2008.0
+483,Abacus,0,Kenya,2014.0
+484,Abantu,9900,Kenya,2017.0
+485,Afri Kash Limited,0,Kenya,2016.0
+486,Chura,0,Kenya,2012.0
+487,Africa Logistics Properties,48000000,Kenya,2015.0
+488,Afrigroups,15000,Kenya,2018.0
+489,Afrinsure,0,Kenya,2016.0
+490,An Nisa Taxi,0,Kenya,
+491,Arinifu ,0,Kenya,2016.0
+492,Agsol,0,Kenya,2016.0
+493,Akirachix,0,Kenya,2010.0
+494,Annona,0,Kenya,2015.0
+495,Apollo Agriculture,1100000,Kenya,2015.0
+496,Ari.Farm,0,Kenya,2016.0
+497,Asilimia,0,Kenya,2017.0
+498,Bentos Energy,0,Kenya,
+499,Beta-Kenya,0,Kenya,2017.0
+500,BIOAFRIQ ENERGY Limited,0,Kenya,
+501,Be Afrika Media Ltd,0,Kenya,2017.0
+502,Direct Pay Online Group,10000000,Kenya,2006.0
+503,Bismart Insurance,0,Kenya,2017.0
+504,Bitsoko,100000,Kenya,2014.0
+505,Bluewave Insurance,0,Kenya,2016.0
+506,Bridge International,10000000,Kenya,2007.0
+507,BuildHer,95000,Kenya,2018.0
+508,Bumpy Maternity Wear,9900,Kenya,2017.0
+509,Buupass,1000000,Kenya,2016.0
+510,Bwala Africa,0,Kenya,2017.0
+511,Calm Wildness,0,Kenya,2018.0
+512,Chamapesa,0,Kenya,2018.0
+513,Chamasoft,0,Kenya,2013.0
+514,Chiswara,0,Kenya,2018.0
+515,GetBoda,0,Kenya,2018.0
+516,L-Pesa,0,Kenya,2015.0
+517,Kakbima,0,Kenya,2018.0
+518,M-Shule,0,Kenya,2016.0
+519,Myfugo Innovations Ltd,0,Kenya,2018.0
+520,Paysap,0,Kenya,2016.0
+521,Ridesafe Africa,0,Kenya,2017.0
+522,Twende,0,Kenya,2016.0
+523,Ubabi Vanpooling,0,Kenya,2018.0
+524,Yapili,0,Netherlands,2016.0
+525,Betaksys Systeme,0,Madagascar,2018.0
+526,Billet Express,0,Mali,
+527,Africa Healthcare Network,0,Mauritius,2015.0
+528,Africa Solutions,0,Morocco,2009.0
+529,Casky,0,Morocco,2017.0
+530,Biscate,0,Mozambique,2016.0
+531,Awehcash,0,Namibia,2018.0
+532,Foodlocker ,0,Nigeria,2017.0
+533,Kwik Delivery,230000,Nigeria,2018.0
+534,Avon Healthcare,0,Nigeria,2011.0
+535,AdsDirectNg,0,Nigeria,2017.0
+536,Capricorn Digital,0,Nigeria,2002.0
+537,Aspire Nigeria,0,Nigeria,2016.0
+538,Autogenius,0,Nigeria,2014.0
+539,Amplify Africa,0,Nigeria,2015.0
+540,Appzone,0,Nigeria,2008.0
+541,Arone,100000,Nigeria,2018.0
+542,Asusu Technology Limited,0,Nigeria,2017.0
+543,Bigpot Nigeria,0,Nigeria,2017.0
+544,BigXMedia,0,Nigeria,2014.0
+545,Awabike,0,Nigeria,2017.0
+546,Babymigo,0,Nigeria,2017.0
+547,Beat Drone,13900,Nigeria,2016.0
+548,Doctoora,0,Nigeria,2016.0
+549,E-Health Zone,0,Nigeria,2019.0
+550,Busha,0,Nigeria,2018.0
+551,Celd Innovations,0,Nigeria,
+552,Budgit,1500000,Nigeria,2011.0
+553,Christopher’s and Co,0,Nigeria,2016.0
+554,Etrash2Cash,0,Nigeria,2012.0
+555,Cobuildit,0,Nigeria,2015.0
+556,Chekkit Technologies,0,Nigeria,2017.0
+557,Chocolate City Entertainment,0,Nigeria,2005.0
+558,Extramile Africa,0,Nigeria,2018.0
+559,Citytaps,0,Nigeria,2015.0
+560,iDHS,0,Nigeria,2016.0
+561,Helium Health,2000000,Nigeria,2015.0
+562,OTRAC ,0,Nigeria,2016.0
+563,Muster Africa,0,Nigeria,2017.0
+564,Solo Phone,0,Nigeria,2013.0
+565,TaxiTV,0,Nigeria,2017.0
+566,Traindemy,0,Nigeria,2018.0
+567,ARED,250000,Rwanda,2013.0
+568,Comparez,0,Senegal,
+569,Business Today,0,Kenya,2012.0
+570,Bophelo Bioscience,0,Lesotho,
+571,Biodelta Nutraceuticals,0,South  Africa,2002.0
+572,3DIMO,0,South Africa,2018.0
+573,Alignd,0,South Africa,2014.0
+574,Allxs,0,South Africa,2013.0
+575,Appy,0,South Africa,2016.0
+576,Attri Orthopaedics,41000,South Africa,2012.0
+577,Aerial Monitoring Solutions,0,South Africa,2013.0
+578,Abalobi,100000,South Africa,2016.0
+579,Agriprotein,0,South Africa,2008.0
+580,Acctech Systems,0,South Africa,1994.0
+581,Appenberg Digital Publishing,0,South Africa,2014.0
+582,Ashanti-AI,0,South Africa,
+583,Airbuy,12000,South Africa,2016.0
+584,Alti Unmanned Aircraft System,0,South Africa,2009.0
+585,Bankymoon,0,South Africa,2015.0
+586,Atura,0,South Africa,2016.0
+587,BidProp247,0,South Africa,
+588,Bizense,0,South Africa,2008.0
+589,Bettr Finance,0,South Africa,2015.0
+590,Blockchain Academy,0,South Africa,2015.0
+591,Blockstarters,0,South Africa,2017.0
+592,BotsZA,0,South Africa,
+593,Bridgebooks,0,South Africa,2016.0
+594,Bulrush Agritech,16900,South Africa,2019.0
+595,Boostme360,1400000,South Africa,2018.0
+596,Byte Money,0,South Africa,2008.0
+597,Cape Networks,0,South Africa,2013.0
+598,Envisionit e-Pay,0,South Africa,2010.0
+599,Cash4Trash,70000,South Africa,2018.0
+600,Click N Compare,0,South Africa,2013.0
+601,Club Travel,0,South Africa,1987.0
+602,Codespace,0,South Africa,2014.0
+603,Ecoslips,0,South Africa,2017.0
+604,Root,0,South Africa,2016.0
+605,Quillo,0,South Africa,2018.0
+606,Syafunda,0,South Africa,2013.0
+607,Uthini,0,South Africa,2016.0
+608,Zaio,0,South Africa,2018.0
+609,Cassava Smartech,0,Zimbabwe,2018.0
+610,Badr,0,Egypt,2006.0
+611,Buni.Tv,0,Kenya,2012.0
+612,Foody,0,Sudan,
+613,A-Trader,0,Tanzania,2016.0
+614,Clickpesa,0,Tanzania,2016.0
+615,Mtabe,0,Tanzania,2017.0
+616,MyJobPass,0,Tanzania,2017.0
+617,Dokita Eyes International,0,Togo,
+618,Ahmini,10000,Tunisia,2019.0
+619,CompiTechnology,0,Tunisia,2013.0
+620,Appro.tn,70000,Tunisia,2018.0
+621,Attila Tel,50000,Tunisia,2007.0
+622,Chantier,0,Tunisia,
+623,Francom Solutions,50000,Uganda,2009.0
+624,Agri-wallet,0,Uganda,2017.0
+625,African Initiative on Food Security and Environment (AIFE),0,Uganda,
+626,BreastIT,20000,Uganda,2014.0
+627,afriQloud,0,Uganda,2016.0
+628,Cinnamon Clubs,0,Uganda,2018.0
+629,AirQo,1200000,Uganda,2018.0
+630,Akorion,75000,Uganda,2014.0
+631,al,0,Uganda,2015.0
+632,At House Limited,0,Uganda,
+633,Awamo,1700000,Uganda,2015.0
+634,Emata,0,Uganda,2017.0
+635,Agricomm Media,0,Zambia,2015.0
+636,Agripredict,0,Zambia,2016.0
+637,Bitmari,0,Zimbabwe,2015.0
+638,Dr Cadx,0,Zimbabwe,2016.0
+639,ClaimSync,0,Ghana,2011.0
+640,EcoCash,0,Zimbabwe,2011.0
+641,4 Degrees Consulting,0,,
+642,Abossey Okai Online,0,,
+643,Academia Nzoji,0,Slovenia,2011.0
+644,Accelerated,0,,
+645,Accounting hub,0,,
+646,Adiyeaba,0,,
+647,Aero247,0,,
+648,Africa Evergreen Corporations,0,,
+649,Belfrics,0,,2014.0
+650,Africa Trust Academy,0,,
+651,Binkabi,0,,2017.0
+652,Bitfinance (Bitfundi),0,,2018.0
+653,Bitmama,0,,2016.0
+654,AFRIKA SOLAR,0,,
+655,AfriTshipi (AFT,0,,
+656,Blue Wave,0,,2018.0
+657,Caytree Partners,0,,2012.0
+658,AgriCart,0,,
+659,Agrici.net,0,,
+660,Agrigo,0,,
+661,AgriNet,0,,
+662,Agripoll,0,,
+663,Agro Supply,0,,2016.0
+664,Agro Supply Ltd,0,,
+665,Agro-Hub,0,,2017.0
+666,Agroballal,0,,
+667,Afb,0,Mauritius,2010.0
+668,AgroMarket,0,,2017.0
+669,Agrospaces,0,,2016.0
+670,AgroTracker,0,,
+671,Aidahbot,0,,
+672,Akello Banker,0,Uganda,
+673,Akiba ya Roho,0,,
+674,Akoin,0,United States of America,2017.0
+675,Alethiom,0,,2018.0
+676,Clic Pay,0,,2016.0
+677,ALMIGHTY SERVICES PLUS,0,,
+678,Ama,0,,
+679,Ama.Zing,0,,
+680,Amap Benin,0,,
+681,AMW Nigeria,0,,
+682,Angola2learn,0,,2014.0
+683,AppAbout,0,,
+684,Click Pesa,0,,2012.0
+685,Aquila Projects,0,,
+686,Arnegy,0,,
+687,Aid:Tech And Pharmaccess,0,Ireland,2016.0
+688,Airtel Africa,1250000000,United Kingdom,2000.0
+689,Assurcrediclick,0,,
+690,At Hause Limited,0,,
+691,At-Hause,0,,
+692,ATP Services ,0,,
+693,CoinFlex,0,,2018.0
+694,Avopower,0,,
+695,AYWAJIEUNE,0,,
+696,Clarotech,0,South Africa,
+697,Bakeli,0,,
+698,Balus,0,,
+699,Bandim Online,0,,
+700,Basadi Ba Dithakga Services,0,,
+701,BaySeddo,0,,
+702,Be Wireless Solutions,0,,
+703,Cryptocom Limited,0,,2016.0
+704,Atikus,0,USA,2013.0
+705,Best Digital Books,0,,
+706,Bigcel limited,0,,
+707,Bihetes Online,0,,2019.0
+708,Binance,0,,2017.0
+709,Biofire,0,,
+710,Biophyto,0,,2012.0
+711,Bboxx,6800000,United Kingdom,2010.0
+712,Bitsweaver,0,,
+713,Direct Pay Online,0,,2006.0
+714,bizAR Reality,0,,
+715,Block starters,0,,2016.0
+716,Blockbank,0,,
+717,Bloom Impact,0,,2010.0
+718,BONGA Co Ltd,0,,
+719,Bongo,0,,
+720,BrilloSys,0,,
+721,Coders4Africa,0,Egypt,2005.0
+722,Bureau Vente Ltd,0,,
+723,BVL,0,,
+724,Camerbitcoin,0,,
+725,Cardano,0,,
+726,Casava,0,,2016.0
+727,Cashbuddy,0,,2018.0
+728,CEPHAS TECHNOLOGIES SARL,0,,
+729,Champier,0,,2014.0
+730,Chil-Artificial Intelligence Lab,0,,
+731,Chiniki Guard,0,,2019.0
+732,Cinema 360 - Eg,0,,
+733,Ennota.Com,0,,2014.0
+734,Compuscan,0,,1994.0
+735,Conor Solutions,0,South Africa,2007.0
+736,Classifieds,0,,
+737,Clean City,0,,2016.0
+738,Closety,0,,
+739,CompareGuru,0,South Africa,2013.0
+740,Coffee Cup,0,,
+741,Coinjanitor,0,,2017.0
+742,Coinpesa,0,,2017.0
+743,Compass Career,0,,
+744,Ezeemoney,0,,2012.0
+745,Complete Farmer,0,Ghana,2017.0
+746,Crossgate,0,South Africa,2001.0
+747,Conative Labs,0,,
+748,Congo Business Network,0,,2018.0
+749,Click2Sure,0,South Africa,2016.0
+750,Connect Africa,0,,2005.0
+751,Clinicpesa,0,Uganda,2016.0
+752,Clintonel Technologies,0,Nigeria,2017.0
+753,ConnectMed,150000,Kenya,2016.0
+754,Cloud9XP ,73000,Kenya,2016.0
+755,Cloudline,0,South Africa,2017.0
+756,Cloudshift,0,Tunisia,2015.0
+757,Convergenc3 Databotics,0,South Africa,
+758,Cool Solar,0,,2017.0
+759,Copia,0,Kenya,2016.0
+760,Core Devs - AgriCart,0,,
+761,Cote d’ivoire Drone,0,Ivory Coast,2016.0
+762,Cogrammer,0,United Kingdom,2015.0
+763,CoinBox Kenya,0,Kenya,2017.0
+764,Cowsoko,0,,
+765,Cradle Technology Services,0,South Africa,2000.0
+766,Crayon,0,South Africa,2018.0
+767,Cold Hubs,0,Nigeria,2015.0
+768,Dynamics Africa Services,0,South Africa,2014.0
+769,CompareInsurance.com.ng,0,Nigeria,2015.0
+770,Cregital,0,,2015.0
+771,Cropcrowd,0,,2019.0
+772,Eazi.Com,0,South Africa,1997.0
+773,Crypto Savannah,0,,
+774,Faroty,0,,2017.0
+775,Cryptogene,0,,
+776,CryptoSavannah,0,,2018.0
+777,Cryptyd Games,180000,United States of America,2015.0
+778,Fundamo,0,South Africa,2000.0
+779,Csquared,0,,2013.0
+780,Ctrl,0,South Africa,2017.0
+781,CUIMER,0,,
+782,Curacel,0,,2017.0
+783,Dabchy,0,Tunisia,2016.0
+784,Cortex Logic,0,South Africa,2015.0
+785,dafruta,0,,1983.0
+786,Daktaripap,0,,2017.0
+787,Dambe Warriors,0,,2017.0
+788,Dashmake,0,Togo,2015.0
+789,Dawati,0,Kenya,2016.0
+790,Deedo,0,Senegal,2017.0
+791,Deep Data,0,South Africa,2014.0
+792,DeepStack,0,Nigeria,2017.0
+793,Delivery.io,0,,
+794,Demkim Insurance,0,,2016.0
+795,DentX,0,,
+796,Dermi Joy skincare,0,,
+797,Dext Technology,0,,2017.0
+798,Dial a Delivery,0,Kenya,1995.0
+799,Curacel Systems,0,Nigeria,2016.0
+800,Cyst Ghana - Ai,0,Ghana,2013.0
+801,Da7ee7,0,,
+802,Dabadoc,0,Morocco,2014.0
+803,Digger App,0,,2017.0
+804,Digiartwork,0,Tunisia,
+805,Digital Green,0,,2008.0
+806,Diligo,0,Burkina Faso,
+807,Dipita Technologies,0,,2016.0
+808,Data Integrated Limited,0,Kenya,2012.0
+809,Dataprophet,0,South Africa,2013.0
+810,FinTech Limited,0,Cameroon,2017.0
+811,Direxiona,0,,
+812,DiscoverIkasi,0,,
+813,Deepera,0,Tunisia,2018.0
+814,Dmm.Hehe Ltd,0,,2010.0
+815,DocFox,0,,2014.0
+816,Fintech Ltd,0,Cameroon,2017.0
+817,Denkim Insurance,0,Kenya,2013.0
+818,Dondosha Desy,0,Tanzania,
+819,Doot!,0,,
+820,Drinks.Ng,0,,2013.0
+821,Driversng,0,,2017.0
+822,Driversng.com,0,Nigeria,
+823,Drofie,0,,2016.0
+824,Droidfx Technologies,0,Malawi,
+825,DroneNerds Africa,0,Uganda,2019.0
+826,Digital Cabinet,360000,South Africa,2007.0
+827,Dropque,0,,2016.0
+828,Dropstore,0,South Africa,
+829,First Choice Global,0,Kenya,2015.0
+830,Drosig,0,Angola,
+831,Duma Works,0,,
+832,Equinox International,0,South Africa,2005.0
+833,E Tuk Tuk Solar E Cycle,0,,
+834,E-Agribusiness,0,,2014.0
+835,E-farms,0,Nigeria,
+836,Firstaccess,0,,2011.0
+837,E-Fundi,0,,
+838,Domestly,0,South Africa,2014.0
+839,E-Heza,0,,
+840,Flexpay Technologies,0,Kenya,2014.0
+841,Dr. Weee,0,,
+842,e-kasi Bucks,0,,
+843,Earlybird,0,,2012.0
+844,Easy Matatu,0,,
+845,Easyticket,0,,
+846,Drone Africa,0,Cameroon,2015.0
+847,Drone Scan,0,South Africa,2014.0
+848,Drone Snap,0,South Africa,2014.0
+849,Fawry,0,Egypt,2008.0
+850,Dronesig Angola,0,Angola,2017.0
+851,EAZY-TRIPS,0,,
+852,ebid,0,,1998.0
+853,ecarderneta,0,,
+854,DrugStoc,0,Nigeria,2012.0
+855,Dryve,0,,
+856,Dsquares,0,Egypt,2012.0
+857,Dukaconnect,0,Kenya,2016.0
+858,Eclectics Group,0,,2006.0
+859,Dusupay,0,Uganda,2015.0
+860,FriendsVow,0,USA,2011.0
+861,Ecodome Maroc,0,Casablanca,
+862,Ecosure,0,,1994.0
+863,eduAir,0,,2014.0
+864,educartis,0,,2017.0
+865,Eduna,0,,2014.0
+866,Efarm,0,,2011.0
+867,E-SOUKLOU,0,Ivory Coast,
+868,Ekasi Bucks,0,,2017.0
+869,Eastpesa,0,Kenya,2016.0
+870,El3Ab,0,,2002.0
+871,Easyshop Easycook,0,Nigeria,2006.0
+872,Elatech,0,,2003.0
+873,Eleis Farm,0,,2013.0
+874,Elham Education,0,,2016.0
+875,Elikham Systems Limited,0,,2015.0
+876,Founa,0,,
+877,Emprego,0,Angola,1999.0
+878,Eco Makaa,0,Kenya,2018.0
+879,EcoAct Tanzania,20000,Tanzania,2015.0
+880,Endobo,0,,
+881,ENGINEERING CONNECTIONS (EC),0,,
+882,Engineering Hub,0,Rwanda,2017.0
+883,eNimiro,0,,
+884,Futuremed,0,,1980.0
+885,Enoch Diary,0,Nigeria,2013.0
+886,Entersekt,0,South Africa,2008.0
+887,Entersekt ,0,,
+888,eHealth Africa,0,Nigeria,2010.0
+889,ENVision mobile,0,United States,2019.0
+890,Eksab,0,Egypt,2017.0
+891,Getbucks,0,South Africa,2010.0
+892,ePay,0,,
+893,Gron Digital,0,South Africa,2017.0
+894,Esacco,0,,2013.0
+895,Esaja,0,,2013.0
+896,ElMawkaa,0,Egypt,2015.0
+897,eMart.cd,0,Democratic Republic of Congo,2016.0
+898,Esene,0,,
+899,EMGuidance,0,South Africa,2016.0
+900,EmptyTrips,0,South Africa,2016.0
+901,etranzact,0,,2003.0
+902,Energrow,10000,Uganda,2018.0
+903,Energy Shift,0,South Africa,2009.0
+904,Eneza Education,1000000,Kenya,2011.0
+905,Enfinite Solutions Ltd,0,Kenya,2007.0
+906,Engage & Prosper Africa,0,Kenya,2018.0
+907,GiftedMom,150000,Cameroon,2013.0
+908,Etudesk,0,,
+909,EveryLayer,0,,1986.0
+910,Excel@Uni,0,South Africa,2013.0
+911,Exportunity Gbc2,0,,2015.0
+912,Ensibuuko,500000,Uganda,2014.0
+913,Eyone,0,,2017.0
+914,Grass Root Bima,0,,2016.0
+915,EzyAgric,0,,
+916,Famunera,0,,
+917,Farm Fresh,0,,
+918,Farmally,0,,2018.0
+919,Farmart,0,,2015.0
+920,Farmer Link,0,,
+921,Esoko,1500000,Ghana,2007.0
+922,Estate Intel,0,Nigeria,2014.0
+923,FarmFresh,0,,
+924,Eteyelo,0,Democratic Republic of Congo,2015.0
+925,Farmgate Africa,0,Nigeria,2018.0
+926,Farmovo,0,,2018.0
+927,Farmpin,0,,2016.0
+928,Farosian,0,South Africa,2015.0
+929,Gwanxi Invest,0,,
+930,Fashpa,0,,2014.0
+931,Expressions Global Group,0,Kenya,2015.0
+932,Health Solutions Africa,0,,1991.0
+933,Faso Attieke,0,,
+934,Fauna,0,,2011.0
+935,Favizone,0,,2016.0
+936,FairMoney,0,France,2017.0
+937,Falling Up Studios,0,South Africa,2018.0
+938,Filkhedma,0,,2014.0
+939,Helpmum,0,Nigeria,2013.0
+940,Fineazy,0,Ghana,2018.0
+941,Farm.Ink,0,Kenya,2016.0
+942,Humaniq,0,,2016.0
+943,Farmdrive,0,Kenya,2014.0
+944,Firebird,0,,2009.0
+945,Farmerline,692000,Ghana,2012.0
+946,Firefly Media,0,,2009.0
+947,Impala Coin,0,,2011.0
+948,FarmIT,0,Kenya,2018.0
+949,Inclusive Financial Technologies,0,,2016.0
+950,Fix-Tecnologies,0,,
+951,Farmru,0,South Africa,2017.0
+952,FixChap,0,Tanzania,2017.0
+953,Fixxr,0,South Africa,2018.0
+954,Flash Pay,0,,
+955,Flippify,0,,2011.0
+956,Flock,0,South Africa,2014.0
+957,Hearbeat Adventures,0,Kenya,2017.0
+958,Field Insight (Delivery Science),50000,Nigeria,2014.0
+959,Flowius,0,,2010.0
+960,Findworka,0,Nigeria,2016.0
+961,Fluss,0,,
+962,FINT,0,Nigeria,2017.0
+963,Fo Sho,0,South Africa,2014.0
+964,Food nexus,0,,1997.0
+965,FootMo Kit,0,,
+966,Forasna,0,Egypt,
+967,Formplus,0,,2014.0
+968,Interpay Africa,0,Ghana,2014.0
+969,Franc Group,0,South Africa,2016.0
+970,FreshBox,0,Kenya,2018.0
+971,FreshSource,0,Egypt,2018.0
+972,Infiuss,25000,Cameroon,2016.0
+973,FriHuis,0,South Africa,2018.0
+974,Frikmat,0,Ghana,
+975,Fund4crowd,0,,2016.0
+976,Informed Healthcare,0,Egypt,2014.0
+977,Flyh2 Aerospace,0,South Africa,2009.0
+978,Insyt,0,Nigeria,2009.0
+979,Futurepump,0,,2011.0
+980,Genius Centres,0,,2009.0
+981,Geo Gecko,0,,2013.0
+982,Geopay,0,,2011.0
+983,Get It,0,,2006.0
+984,Four One Financial Services,0,Uganda,2016.0
+985,interstellar,0,,2017.0
+986,Inuka Pap,0,Kenya,2016.0
+987,Glia Holdings,0,Nigeria,
+988,Global Opportunities,0,,2002.0
+989,Gloo.ng,0,Nigeria,2012.0
+990,Glu Global (Pty) Ltd,0,South Africa,2015.0
+991,Fundis,0,Kenya,2016.0
+992,Fundrr,0,South Africa,2017.0
+993,Furnwish,0,Egypt,2017.0
+994,Golden papi,0,Cameroon,
+995,GoMyCode,0,Tunisia,
+996,Fuzu,2050000,Kenya,2013.0
+997,Fyonka,0,,
+998,Gebeya,1000000,Ethiopia,2016.0
+999,Goodie Tutors,0,South Africa,2016.0
+1000,GovChat,0,South Africa,2016.0
+1001,GoZem,0,Singapore,2018.0
+1002,Grabingo,0,,2018.0
+1003,Grafica,0,,2015.0
+1004,Grain Theque,0,,2014.0
+1005,Kaeme,0,,
+1006,Global Energy,0,South Africa,2005.0
+1007,Gravity,0,,2009.0
+1008,Green Charcoal,0,Uganda,
+1009,Green Fashion Store,0,,
+1010,Green Keeper Africa,0,,
+1011,Golix,23000000,Zimbabwe,2014.0
+1012,Gometro,0,South Africa,2011.0
+1013,Green Path,0,,1961.0
+1014,Green Pavers,0,Kenya,
+1015,Greystone Partners,0,,2008.0
+1016,GRICD Agroservices,0,Nigeria,
+1017,Grohydro,0,,
+1018,ISPartners,0,South Africa,2005.0
+1019,Gryphon Corporation,0,,1999.0
+1020,GTaxi,0,,1992.0
+1021,Gteentech,0,,2007.0
+1022,Gudie Leisure Farm,0,,
+1023,Gudie TV,0,,
+1024,Gulivery,0,Somalia,2017.0
+1025,Gutsinda,0,,
+1026,Kanjwa,0,Kenya,2018.0
+1027,Green Tech Africa,25000,United States of America,2015.0
+1028,Greenfingers Mobile,0,South Africa,2015.0
+1029,Greenlight Planet,60000000,Kenya,2008.0
+1030,Haltons Pharmacy,0,,2013.0
+1031,Hamwe,0,,
+1032,Gricd Frij ,0,Nigeria,2017.0
+1033,Hamwe EA,0,,
+1034,Harambee,0,,2008.0
+1035,Growsel,0,Nigeria,2017.0
+1036,KEA Medicals,0,Benin,2016.0
+1037,Jacaranda FM,0,,1979.0
+1038,Hehsac,0,,2016.0
+1039,Hello Tractor,0,,2014.0
+1040,Kobocoin,0,,2014.0
+1041,Helvetic Group Tanzania,0,,
+1042,HeriOnline,0,,2016.0
+1043,Herolife,0,,2017.0
+1044,Hailer,0,South Africa,2018.0
+1045,Hexastack,0,,2018.0
+1046,Hippo,0,,1999.0
+1047,Hive,0,Egypt,2018.0
+1048,Hivisasa,0,,2014.0
+1049,Hood,0,,2014.0
+1050,HealthQ Technologies,0,South Africa,2010.0
+1051,Hotels.Ng,0,,2012.0
+1052,Heartbeat Adventures,0,Kenya,2017.0
+1053,House of Uwe,0,Nigeria,
+1054,Hello Paisa,10000,South Africa,2015.0
+1055,HouseAfrica,0,,
+1056,Hs- Geo Survey Limitada,0,,
+1057,Henson Geodata Technologies,0,Ghana,2013.0
+1058,KopaCent,0,Kenya,2015.0
+1059,Hustlenomics,0,South Africa,2015.0
+1060,Hydroponics,0,,
+1061,HiCarByeCar,0,South Africa,2015.0
+1062,Hyrac Tech,0,Kenya,2017.0
+1063,Hirehunt,0,Egypt,2015.0
+1064,iCare,0,Tanzania,2019.0
+1065,ice3x,0,South Africa,2013.0
+1066,iCow,0,,
+1067,Ict.Io,0,,2015.0
+1068,HouseAfrica Blockchain,0,Nigeria,2017.0
+1069,Houseme,0,South Africa,2016.0
+1070,Ignitia,0,,
+1071,ILaraPay,0,,
+1072,Imisi 3D,0,,2016.0
+1073,Impactppa And Earth Day Network,0,,2017.0
+1074,Lakt,0,,2016.0
+1075,iMpilo,0,,
+1076,icog Labs,0,Ethiopia,2012.0
+1077,Incept,0,,2016.0
+1078,Lifecheq,0,,2015.0
+1079,Identity Tech,0,Nigeria,2016.0
+1080,Lifeq,0,,2010.0
+1081,Innovation Corner Digital Health,0,,
+1082,Ikeja Wireless,1700000,South Africa,2014.0
+1083,Innovation Management Research Institute,0,South Africa,2016.0
+1084,Inokri,0,,2018.0
+1085,Institute For Blockchain Studies,0,,2017.0
+1086,Lily.Health,0,,2017.0
+1087,Interactive Voice Response for Interactive Farmers,0,,
+1088,IoT.nxt,7275000,South Africa,2015.0
+1089,Lima Kwanza Limited,0,Kenya,2014.0
+1090,Intrex Telematics Systems AD,0,,
+1091,Investiv,0,,2018.0
+1092,Iprocure,0,Kenya,2013.0
+1093,Instadiet.Me,None,Egypt,2018.0
+1094,Instant Property,0,South Africa,2014.0
+1095,Ipsy,0,,2011.0
+1096,Insurance For All ,0,Kenya,2014.0
+1097,Insureafrika,0,Kenya,2015.0
+1098,Ishack Ventures,0,,2005.0
+1099,iSpani Group,0,,2015.0
+1100,Intergreatme,0,South Africa,2017.0
+1101,Kngine,0,,2009.0
+1102,itanda Express,0,,
+1103,Interswitch,10500000,Nigeria,2002.0
+1104,iyiebo,0,South Africa,
+1105,Knowlegde Factory,0,,1997.0
+1106,Jaguza Livestock Application,0,,
+1107,Investiv Group,0,Ivory Coast,
+1108,Invoizpaid,0,Nigeria,2016.0
+1109,Inyenyeri,0,Rwanda,2012.0
+1110,Kwese Iflix,0,,2018.0
+1111,Jaguza Tech,0,,
+1112,Jambo Pay,0,,2009.0
+1113,Jasure,0,,2017.0
+1114,Ison Xperiences,0,Nigeria,2010.0
+1115,Jobox,0,,
+1116,Joluud,0,,2017.0
+1117,Jukwaa,0,,2011.0
+1118,Izyshop,300000,Mozambique,2015.0
+1119,Jwebi.Com,0,,2014.0
+1120,Lisungui Pharma,0,,2017.0
+1121,KAINO Africa,0,,
+1122,Kalejob,0,,2017.0
+1123,Kandua,0,South Africa,2015.0
+1124,Jetstream Africa,0,Ghana,2018.0
+1125,Luno,0,,2013.0
+1126,Kazi Promote,0,,
+1127,Jonga,60000,South Africa,2015.0
+1128,Kenai,0,South Africa,2017.0
+1129,Kencoco Limited,0,Kenya,
+1130,Kenya Blockchain Investment,0,,
+1131,Kepya,0,,2017.0
+1132,KillerAnalytics,0,,
+1133,Kangpe,0,Nigeria,2014.0
+1134,Kisasa Brands,0,South Africa,
+1135,Kazang Solar,1600000,Zambia,2016.0
+1136,Kisua Africa,0,,2013.0
+1137,M-Paya,0,Kenya,
+1138,Kitovu Technology Company,0,Nigeria,
+1139,Kiva,0,,2005.0
+1140,Kivu Green Energy,0,,2015.0
+1141,Klurdy Solutions,0,Kenya,2018.0
+1142,Kilimofresh Foods Africa Ltd,0,Tanzania,2018.0
+1143,MacroLan,0,,1997.0
+1144,Knowledge Officer,0,,
+1145,Media Works,0,South Africa,1996.0
+1146,Kobiri,0,,
+1147,M-Pesa,0,,2007.0
+1148,Kodisher Solutions,0,Kenya,2017.0
+1149,Kognity ,0,,
+1150,Konecta,0,South Africa,
+1151,Kool Farmer,0,,
+1152,Madam Aina,0,,2018.0
+1153,Kpeiz Digital,0,Tunisia,
+1154,Kraks TV,0,Nigeria,2016.0
+1155,KryszanTec,0,South Africa,
+1156,Kuenda Digital,0,Angola,2017.0
+1157,Koko Networks,0,Kenya,2015.0
+1158,Kukulu,0,,2019.0
+1159,Kumba,0,South Africa,2018.0
+1160,Kurai,0,South Africa,
+1161,Kwanji,0,,2013.0
+1162,Mediamark,0,South Africa,2010.0
+1163,Kyaffe Farmers Network,0,,
+1164,Kudobuzz,0,Ghana,2013.0
+1165,Kudos Africa,0,South Africa,2014.0
+1166,Maisha Meds,0,Kenya,2016.0
+1167,Kuhustle,0,Kenya,2014.0
+1168,Lafricamobile,0,,2014.0
+1169,Maishapay,0,,2012.0
+1170,Lamsa,0,,2012.0
+1171,Kwangu Kwako,20000,Kenya,2015.0
+1172,Kwara,0,Kenya,2018.0
+1173,Lara.ng,0,Nigeria,2016.0
+1174,LawBasket,0,Zimbabwe,
+1175,Leadhome,0,South Africa,
+1176,Labes Key,0,Democratic Republic of Congo,2015.0
+1177,LeadRobot,0,South Africa,2018.0
+1178,Leaf,0,USA,2011.0
+1179,Lenoma Legal,0,,
+1180,Mama Money,0,,2013.0
+1181,Last Mile for BoP,0,South Africa,2013.0
+1182,Mamaope,0,Uganda,2017.0
+1183,LIFI-LED,0,Ivory Coast,2014.0
+1184,MarketForce,0,Kenya,
+1185,Matibabu,0,Uganda,2013.0
+1186,Leaf Global Fintech,0,USA,2017.0
+1187,Legafrik,0,Ivory Coast,2017.0
+1188,LegitCar,15700,Nigeria,2016.0
+1189,Lelapa Fund,0,Kenya,2014.0
+1190,Lendable,450000,Kenya,2014.0
+1191,LinumLabs,0,,2016.0
+1192,Lipaplus,0,,2010.0
+1193,LiquidGold,0,South Africa,2014.0
+1194,Maxicash (Pty) Ltd,0,,2016.0
+1195,Loadbox,0,,
+1196,Loniwa,0,,2004.0
+1197,LinkdPro,0,South Africa,2016.0
+1198,Lono,0,,
+1199,Lovtov Management Services,0,,
+1200,Lipisha,0,Kenya,2009.0
+1201,Loystar,0,Nigeria,
+1202,LPK Civil & Structural Engineers,0,,
+1203,Livestock Wealth,0,South Africa,2015.0
+1204,Lucy.Ng,0,,2016.0
+1205,Lugha Ishara,0,,
+1206,Mazboot,0,,2016.0
+1207,Lv Digital,0,,2014.0
+1208,Lyvv Cosmetics,0,,2017.0
+1209,Mazzuma,0,,2015.0
+1210,M-Pepea,0,,2010.0
+1211,Mboagive,0,,2018.0
+1212,Lumkani,0,South Africa,2014.0
+1213,M3Roud,0,,2017.0
+1214,Lush Plans,10000,Nigeria,2018.0
+1215,Ma-Navette,0,,2010.0
+1216,MaaikiSA,0,South Africa,2016.0
+1217,M-Birr,9870000,Ethiopia,2001.0
+1218,M-Farm,235000,Kenya,2010.0
+1219,M-Paper,0,Tanzania,2015.0
+1220,Maaso Awo,0,,
+1221,Machine Kind,0,,
+1222,Misr Hytech,0,Egypt,1993.0
+1223,M-Scan,25000,Uganda,2017.0
+1224,M-Tiba,0,Kenya,2016.0
+1225,M4JAM,0,South Africa,2014.0
+1226,Medtrucks,0,France,2017.0
+1227,Mamalette,0,,
+1228,manifexto,0,,
+1229,Marc1,0,South Africa,
+1230,Miti Health,0,,2014.0
+1231,Marj3,0,,
+1232,Mlinzi,0,,2017.0
+1233,Mobile Clinic,0,Uganda,2018.0
+1234,Mancala Plus,3000,Ghana,2018.0
+1235,Marketizer,0,,2010.0
+1236,marKoub.ma,0,Morocco,
+1237,Marks Rate,0,,2018.0
+1238,Marodi.Tv,0,,2011.0
+1239,Masry Markert,0,,2018.0
+1240,Massive Dynamics,0,,2018.0
+1241,Mastery,0,Morocco,
+1242,Match Hare & Co,0,,1995.0
+1243,MaTontine,0,Senegal,2016.0
+1244,Mobilife,0,,2015.0
+1245,monetbil,0,,2015.0
+1246,Moneyfellows,0,Egypt,2014.0
+1247,Mazimba Company Ltd,0,Tanzania,
+1248,Mavin Records,0,Nigeria,2012.0
+1249,Mawingu Networks,4100000,Kenya,2013.0
+1250,MaxAB,0,Egypt,2018.0
+1251,Maziwa Plus,0,,
+1252,Mukuru,0,,2006.0
+1253,Myinsure,0,Kenya,2016.0
+1254,Med-Afrique ,0,South Africa,
+1255,Multichoice Group,0,,1993.0
+1256,Mubawab,0,Morocco,2010.0
+1257,Meridia,0,,2011.0
+1258,Metajua,0,,
+1259,Metrolince,0,,
+1260,Nefrids Africa,0,,2015.0
+1261,MeshPower,0,Rwanda,2012.0
+1262,Microensure,0,,2005.0
+1263,Micromobile,0,,1991.0
+1264,MiLa Model,0,,
+1265,Mishwar,0,Sudan,2015.0
+1266,Oltio,0,South Africa,2004.0
+1267,MitiMeth,0,,
+1268,MLouma,0,,2012.0
+1269,Onegram,0,,
+1270,MobileBooking,0,,
+1271,Mobile Decisioning,0,Kenya,2010.0
+1272,MobiPay AgroSys,0,Uganda,
+1273,Mobiticket,0,,2017.0
+1274,Modisar,0,,2014.0
+1275,MobiShule,0,Kenya,2018.0
+1276,Modularity Grid,0,,2017.0
+1277,Mobius Motors,6000000,Kenya,2011.0
+1278,Mobu,0,South Africa,2018.0
+1279,Moko,0,,2016.0
+1280,MOMO-FLEX,0,,
+1281,Mon Artisan,0,,2017.0
+1282,OuiCare,0,Cameroon,
+1283,MooExams,0,,2018.0
+1284,Moringa School,0,,
+1285,Payabill,0,South Africa,2016.0
+1286,Mosabi,0,,2016.0
+1287,Mookh Africa,50000,Kenya,2015.0
+1288,Movelcare,0,,2016.0
+1289,Movestack,0,Ghana,2019.0
+1290,Mowafer Care,0,,2018.0
+1291,Mpayer,0,,2010.0
+1292,MSat Global,0,South Africa,2017.0
+1293,MSG IT Solutions,0,,
+1294,mPedigree,1500000,Nigeria,2007.0
+1295,Mshtarii Investments,0,South Africa,2013.0
+1296,Mthombo Consulting,0,,
+1297,Mtick,0,,2015.0
+1298,MTN Mobile Money Application for Digital payments of Transportation services.,0,,
+1299,Payconnect Limited,0,,2016.0
+1300,OLX South Africa,0,South Africa,2011.0
+1301,Open Connect Ltd,0,South Africa,2012.0
+1302,Mumzstore,0,,
+1303,Mwango Brain,0,Angola,2008.0
+1304,Musoni,0,Kenya,2013.0
+1305,My Comparator,0,,
+1306,Mvendr,125000,South Africa,2014.0
+1307,My Ride Africa,0,,
+1308,My runner,0,,
+1309,Myagro,0,,2011.0
+1310,MyCash,0,,2013.0
+1311,Payfast,0,South Africa,2007.0
+1312,Myli Sacco,0,,
+1313,Myrunner,0,,2019.0
+1314,Mzurii,0,,
+1315,myPadi,0,Nigeria,2016.0
+1316,Nac Beva,0,,
+1317,Mzansigo,0,South Africa,2016.0
+1318,Nafham,0,,
+1319,Nairaex,0,,2015.0
+1320,Naked,0,South Africa,
+1321,Nature’s Bowl enterprise,0,,
+1322,Naviacom,0,,2013.0
+1323,Payfort,0,,2013.0
+1324,Nekkta,0,,
+1325,Next,0,,1982.0
+1326,Netwookie,0,Kenya,2015.0
+1327,Nextprotein,0,,2014.0
+1328,Neza Reservations,0,Rwanda,
+1329,Ngsign,0,,2016.0
+1330,Ninayo,0,,2015.0
+1331,Nioji,0,,
+1332,Nisa Finance,0,,2017.0
+1333,Nozol,0,Egypt,2016.0
+1334,Numida Technologies,140000,Uganda,2015.0
+1335,O-Mobile Multimedia Ltd,0,,2017.0
+1336,Oasis Digital,0,,2000.0
+1337,Obaigo Delivery Network,0,,
+1338,Obatex,0,,
+1339,Ocharge,0,,2016.0
+1340,Off Grid Electric,0,,2011.0
+1341,Offytap,0,,2017.0
+1342,OGarcom Angola,0,Angola,
+1343,Ogmous Travel,0,,
+1344,Ogwugo,31000,Nigeria,2017.0
+1345,Old  School Group,0,,2016.0
+1346,Old School Group,0,,
+1347,Olivine Technology,0,,2010.0
+1348,OrderTalk,0,,1998.0
+1349,Pansmart,0,South Africa,2015.0
+1350,Once Sync Limited,0,Kenya,2015.0
+1351,One Acre Fund,0,,2006.0
+1352,OneCart,0,,2016.0
+1353,Ongair,200000,Kenya,2015.0
+1354,Oniriq,0,,2016.0
+1355,Online Workshop,0,,
+1356,Onyx Rooms - Eg,0,,2018.0
+1357,Popcorn Training,0,South Africa,2011.0
+1358,Opennetworks,0,South Africa,2000.0
+1359,Optimetriks,0,Kenya,2015.0
+1360,Optismart Solutions,0,,
+1361,Orcas Solutions,0,,2017.0
+1362,PropSys,0,South Africa,
+1363,ORide,0,Nigeria,2019.0
+1364,Oriems Cloud,0,,
+1365,Otchitanda,0,,2017.0
+1366,Oto English,0,Egypt,2015.0
+1367,Payme,0,Egypt,2015.0
+1368,Paymob,0,,2013.0
+1369,Ouicarry,0,Senegal,2012.0
+1370,Outsource Now,0,Zambia,2017.0
+1371,Outshot,0,,
+1372,Ovex,0,South Africa,2017.0
+1373,OwnLabs,0,Senegal,2017.0
+1374,Outsurance,0,,1998.0
+1375,OyaPay,0,Nigeria,2017.0
+1376,Pago,0,Ireland,2017.0
+1377,PAPS,15000,Senegal,2016.0
+1378,Parcel-It,0,Nigeria,2017.0
+1379,Saya,0,,2011.0
+1380,Pargo,1100000,South Africa,2014.0
+1381,Pascal Technology Ltd,0,Rwanda,2013.0
+1382,Pawame,2000000,Kenya,2016.0
+1383,Parceltip,0,Zimbabwe,2018.0
+1384,PayNas,0,Egypt,2018.0
+1385,Payday Investor,8300,Nigeria,2018.0
+1386,Paynet,0,Zimbabwe,2003.0
+1387,Pelebox,32000,South Africa,2015.0
+1388,Pesa Na Pesa,0,,
+1389,Pesaguide,0,Kenya,2018.0
+1390,Pesapal,0,Kenya,2009.0
+1391,Pesapata,0,Kenya,
+1392,Paynow,0,,2017.0
+1393,Payplux,0,,2010.0
+1394,Pebl,0,Namibia,2015.0
+1395,Peepz,0,South Africa,2017.0
+1396,Pesazetu,0,Kenya,2015.0
+1397,Pharmascout,0,South Africa,2015.0
+1398,Penda Health,0,Kenya,2012.0
+1399,Pegasus Technologies LTD,0,,
+1400,Pesabase,None,Kenya,2017.0
+1401,Pesabazaar,390000,Kenya,2014.0
+1402,Popote,0,,2013.0
+1403,Project ubu,0,South Africa,2016.0
+1404,ProxyPay,0,Angola,2017.0
+1405,Quoxient Ltd,0,Kenya,2015.0
+1406,Rainfin,0,South Africa,2012.0
+1407,Peslink,0,,
+1408,Picsa,0,South Africa,
+1409,Pikiwash,0,,2017.0
+1410,Pingle,0,Kenya,
+1411,Plaas,0,,1995.0
+1412,Placements.Com.Ng,0,,2016.0
+1413,Plant Doctor,0,Nigeria,
+1414,Play 3arabi,0,Jordan,
+1415,Plentify,0,South Africa,2017.0
+1416,Plumter,0,,2018.0
+1417,Podozi,100000,Nigeria,2015.0
+1418,Poa! Internet,0,,
+1419,RetailTower,0,,2010.0
+1420,Ride Safe Africa,0,Kenya,2018.0
+1421,Portable Voices,0,Kenya,
+1422,Powah Limited,0,Uganda,2017.0
+1423,Powergen Renewable Energy,4500000,Kenya,2011.0
+1424,Powell Pay,0,,
+1425,Practical Education Network ,0,Ghana,2014.0
+1426,Preeva,110000,South Africa,2015.0
+1427,Predictive Insights,0,South Africa,2017.0
+1428,Pro-it,0,,2010.0
+1429,Probity Farms.com,0,,2003.0
+1430,Prodigy,0,Nigeria,2013.0
+1431,Project Move,0,Nigeria,
+1432,Rology,0,Egypt,2017.0
+1433,Property Fox,70000,South Africa,2016.0
+1434,Prom-Agric,0,,
+1435,Propertypro.Ng (Tolet.Com.Ng),1200000,Nigeria,2013.0
+1436,propertybook,0,,2006.0
+1437,SAI,0,,2016.0
+1438,Prothem Usine,0,,2006.0
+1439,Proville,0,,2016.0
+1440,Publiseer,0,,2017.0
+1441,Pulse PerfectFit Studio,150000,Namibia,2013.0
+1442,Pula,0,Kenya,2014.0
+1443,Pura Soda,0,South Africa,2017.0
+1444,Quainted,341000,South Africa,2013.0
+1445,Quadron Studios,0,,
+1446,Quanode - Eg,0,Egypt,2017.0
+1447,Questworks,1200000,Kenya,2011.0
+1448,Quickcheck,0,Nigeria,2016.0
+1449,Quicket,0,South Africa,2011.0
+1450,quip.link,0,Rwanda,2018.0
+1451,Qualip Solutions,0,South Africa,
+1452,Sagitarix,0,Kenya,2016.0
+1453,Railistic,0,,
+1454,Saida,0,Kenya,
+1455,rainmaker,0,Namibia,2016.0
+1456,Raise,0,Bahamas,2018.0
+1457,Rancard Solutions,0,Ghana,2001.0
+1458,Rasello,0,Tanzania,2011.0
+1459,Recomed,330000,South Africa,2013.0
+1460,RecyclePoints,200000,Nigeria,2015.0
+1461,Raintree Farms,1055000,Uganda,2012.0
+1462,Reliance HMO,0,,2017.0
+1463,Red Flash Mobile,0,,2014.0
+1464,RedViolet Company,0,,
+1465,Rema,0,,2018.0
+1466,Remit,0,,
+1467,RentHero,0,Kenya,
+1468,Rentoza,0,South Africa,
+1469,Retail Capital,0,South Africa,2011.0
+1470,Rera,0,,2016.0
+1471,Respo,0,,
+1472,Simfy Africa,0,South Africa,2012.0
+1473,RideLink,0,Uganda,2017.0
+1474,Ridver,0,South Africa,2019.0
+1475,Simulation Engineering Technologies,0,South Africa,2004.0
+1476,RiseUp,0,Egypt,2014.0
+1477,Revision Online,0,,2015.0
+1478,Riovic,0,South Africa,2015.0
+1479,Roamsmart,0,,2012.0
+1480,RoamStart,0,,
+1481,Robaux Machine,0,,2016.0
+1482,Rocketmine,0,,2013.0
+1483,Smart Medical Services,1200000,Egypt,2009.0
+1484,Roque Online,0,,2018.0
+1485,Roundr,0,,2016.0
+1486,Rugsal Trading,15000,Sierra Leone,2017.0
+1487,Ruzivo,0,,2018.0
+1488,SA Components,0,,
+1489,Safari Meals,0,,2017.0
+1490,Safe Pay,0,,2017.0
+1491,Safi Organics,0,,
+1492,Softeller,0,,
+1493,Samawat Energy,0,Somalia,2016.0
+1494,Sahitna,0,,
+1495,Smart Integration,0,South Africa,
+1496,Sami Online,0,,2014.0
+1497,Sarwa Capital,0,,
+1498,Savanna Circuit Technologies Ltd,0,Kenya,2017.0
+1499,Savekubwa,0,Kenya,2016.0
+1500,Satoshi Centre,0,,
+1501,Satoshicentre Blockchain Hub,0,Botsawana,2014.0
+1502,Sauti East Africa,3800,Kenya,2016.0
+1503,Savemychild,0,,
+1504,Sawa Minerals,0,Kenya,
+1505,Say Peace,0,Nigeria,
+1506,Spoon Money,0,South Africa,
+1507,SayeTech,0,,
+1508,Schoolap,0,Democratic Republic of Congo,
+1509,SchoolPlus,0,Uganda,2015.0
+1510,Selina Wamucii,100000,Kenya,2015.0
+1511,Sendbox,0,Nigeria,2016.0
+1512,Sea Monster,0,,
+1513,Securesys Limited,0,,
+1514,Sentian,0,South Africa,2013.0
+1515,Sekargo.com,0,,
+1516,Sela Labs,0,,2017.0
+1517,Senditoo,0,United Kingdom,2016.0
+1518,Sensur,0,,
+1519,Sesaco Limited,0,Uganda,
+1520,Sesi Technologies,50000,Ghana,2018.0
+1521,Shelter Afrique,50000000,Kenya,1982.0
+1522,Sheria Kiganjani,0,Tanzania,
+1523,Shield,70000,Kenya,2015.0
+1524,Shieldfy,0,Egypt,2016.0
+1525,Seso Global,0,,2017.0
+1526,Silulo Ulutho Technologies,0,South Africa,2004.0
+1527,Sgc,0,,
+1528,Steeple,0,,2001.0
+1529,Simply,0,South Africa,2015.0
+1530,Shekra,0,,2010.0
+1531,Shopah,0,Kenya,2018.0
+1532,Skillup Tutors ,0,South Africa,2016.0
+1533,Silmak Agencies,0,Kenya,
+1534,SimbiBot,0,Nigeria,
+1535,Sureswipe,0,South Africa,2008.0
+1536,Sinclare Angels Initiative,0,,
+1537,SkillUp,0,South Africa,2016.0
+1538,Skillup Tutors,0,South Africa,2016.0
+1539,SkoolDesk,0,Uganda,
+1540,Skynotch Energy Africa,0,,2012.0
+1541,Stack Dx,0,Nigeria,2018.0
+1542,Sliideairtime,0,,2015.0
+1543,SmartTeller,0,Nigeria,2018.0
+1544,Slyd,0,,
+1545,SMEasy,630000,South Africa,2009.0
+1546,Smile Identity,0,Kenya,2016.0
+1547,Smoke Advertising,0,Kenya,
+1548,Smubu,0,Kampala (Uganda),2018.0
+1549,Smart connect,0,,2018.0
+1550,Snapplify,0,South Africa,2011.0
+1551,Smart Electricity,0,Nigeria,
+1552,Snode Technologies,50000,South Africa,2016.0
+1553,Smart Farming,0,,2016.0
+1554,Social Lender,0,Nigeria,2014.0
+1555,Telkom Kenya,0,Kenya,1999.0
+1556,Soko,0,United States,2012.0
+1557,Sokohela,0,Kenya,2018.0
+1558,Smartech Holdings,0,South Africa,
+1559,Smartone,0,,
+1560,Solar Freeze,50000,Kenya,2016.0
+1561,Smartzed,0,Zambia,2018.0
+1562,SnapHubr,0,Nigeria,2016.0
+1563,Solarnow,9000000,Uganda,2011.0
+1564,Snapslip,0,South Africa,2017.0
+1565,Soba e-store,0,,
+1566,Student Finance,0,,2015.0
+1567,Sokompare,0,,2016.0
+1568,Sokopepe,0,,
+1569,Solar Shack,0,,
+1570,Solaris Offgrid,0,,2014.0
+1571,Solarpak,0,,
+1572,Sooretul,0,Senegal,2018.0
+1573,Sowani-Reservations at your tips,0,,
+1574,Spare Payments,0,Egypt,2018.0
+1575,Spark Agro,0,,
+1576,Spark Agro-Initiatives Ltd,0,,
+1577,Sparkfolios,0,,
+1578,Stawika,0,,
+1579,Sunkambe,0,South Africa,2017.0
+1580,Spreebie,0,,
+1581,SureStart,0,South Africa,
+1582,Staffbus,0,Nigeria,2016.0
+1583,Stamp Dot Africa,0,,
+1584,Sudonum,0,South Africa,2015.0
+1585,Starnew Mobile,0,,2017.0
+1586,SunCulture,0,Kenya,2012.0
+1587,Sunubus,0,Senegal,2017.0
+1588,SuperFluids Labs,0,Kenya,2015.0
+1589,StarNews Mobile,0,Ivory Coast,
+1590,Teranga Solutions,0,Senegal,2013.0
+1591,Suregifts,300000,Nigeria,2014.0
+1592,Sureremit,7000000,Nigeria,2017.0
+1593,Study,0,,2002.0
+1594,Sturta,0,Ghana,2018.0
+1595,Sudan Gold Coin (SGC),0,,2017.0
+1596,Swaggify,0,Zimbabwe,2019.0
+1597,Sudpay,0,,2014.0
+1598,Supermart.ng,0,Nigeria,2014.0
+1599,Sure Corporation,0,,
+1600,Surefox,0,,2018.0
+1601,Swiftly,0,Ghana,2014.0
+1602,Thula Baba Project NPO,0,South Africa,2017.0
+1603,Thawte,0,South Africa,1995.0
+1604,Suritec,0,,
+1605,TabAds,0,Kenya,2017.0
+1606,Taeillo,0,Nigeria,2016.0
+1607,Tahrir Academy,0,,
+1608,TakaTaka Solutions,95000,Kenya,2011.0
+1609,Swaiba ,0,Kenya,
+1610,Tanda,0,Kenya,2017.0
+1611,Tap4Glam,0,Tunisia,2018.0
+1612,Taskmoby,126480,Ethiopia,2016.0
+1613,Swift GeoSpatial,0,,
+1614,Taxi Live Africa,0,South Africa,2017.0
+1615,Swift Vee,0,,
+1616,Swiftaide,0,,2018.0
+1617,swiftVEE,0,South Africa,2016.0
+1618,Ta Telecom,0,,2000.0
+1619,Tattlr,0,,2011.0
+1620,TaxiJet,0,Ivory Coast,
+1621,Teachmepad,0,,2016.0
+1622,TeachMobile by Eneza,0,,
+1623,Ten Senses Africa,130000,Kenya,2008.0
+1624,Team Jobs,0,,2002.0
+1625,Team Kanji,0,Nigeria,
+1626,Technovera Pty Ltd,0,South Africa,2015.0
+1627,Tecmicro,0,Angola,2015.0
+1628,The Good Tree,0,South Africa,2016.0
+1629,The Grocery Shop,0,Egypt,2017.0
+1630,Tecnologias,0,Angola,2012.0
+1631,Thomani,0,South Africa,2019.0
+1632,Tegeka Home Services (HS),0,,
+1633,TransferZero,0,,2016.0
+1634,Tellas,0,,
+1635,Touchsides,0,,2013.0
+1636,Tetch Astro Systems,0,Kenya,2018.0
+1637,Tikkeo Technologies,0,Gabon,2017.0
+1638,Timbuktu,0,South Africa,2014.0
+1639,Tpay Mobile,0,Egypt,2014.0
+1640,Tirhal,0,Sudan,2016.0
+1641,The Farmer's Son Cycles,0,Nigeria,2017.0
+1642,Toolboksi,0,Tanzania,2017.0
+1643,TORA Africa,0,Nigeria,2019.0
+1644,TheSunExchange,0,South Africa,2015.0
+1645,Toufoula Kids,30000,Tunisia,2015.0
+1646,Three Ws Investments Ltd,0,,
+1647,TMX Global,0,,2008.0
+1648,Trade,2600000,Ghana,2016.0
+1649,Trade Ghana,2600000,Ghana,2016.0
+1650,Thumeza,0,Zimbabwe,2018.0
+1651,TIFAT,0,,
+1652,Tikkeo Gabon,0,,
+1653,Tira Robots,0,,2018.0
+1654,Toto Health,0,,2014.0
+1655,Travelcar,0,,2012.0
+1656,Trove Finance,0,Nigeria,2016.0
+1657,WeBuyCars,94000000,South Africa,2001.0
+1658,VTN Communications,0,South Africa,2011.0
+1659,Tqweem,0,,
+1660,Turaco,40000,Kenya,2018.0
+1661,Utmost - Eg,0,,2016.0
+1662,Tranzit,0,,
+1663,Tuteria,33000,Nigeria,2014.0
+1664,Weza Tele,0,Kenya,2011.0
+1665,TrepLabs,0,Nigeria,
+1666,Tripafrique,0,,2016.0
+1667,Tymebank,13630000,South Africa,2012.0
+1668,Trukto,0,,2017.0
+1669,Ubongo,80000,Tanzania,2013.0
+1670,Truluv Granola,0,,2016.0
+1671,TTST Solutions,0,,
+1672,Ugabus,0,Uganda,2016.0
+1673,Turnkey Ledger,0,Tunisia,
+1674,Tuseapp,0,,2015.0
+1675,Tuta-Me,0,South Africa,
+1676,Tutor Roots,0,,2015.0
+1677,Ujuzikilimo Solutions,250000,Kenya,2015.0
+1678,Tutorama,0,,2016.0
+1679,Twaa,0,Tanzania,
+1680,Umati Capital,0,Kenya,2012.0
+1681,Unicorn.Ng,10000,Nigeria,2017.0
+1682,Tydoc Construction,0,,
+1683,Uprise.Africa,0,South Africa,2017.0
+1684,Ufolo,0,,
+1685,UG Tickets,0,Uganda,2015.0
+1686,Uganda Flying Labs,0,,2012.0
+1687,Uganics,13000,Uganda,2016.0
+1688,VEhSEh,0,Cameroon,2016.0
+1689,UGTickets,0,,
+1690,Ukhozi Analytics,0,Zimbabwe,
+1691,Vericampus,60000,Nigeria,2016.0
+1692,Ukulima Tech,0,,2014.0
+1693,Umbrella,0,,2018.0
+1694,Versara Finance,0,Zambia,2015.0
+1695,UpNepa,0,,2017.0
+1696,Vesicash,0,Nigeria,2018.0
+1697,Ustos Media Technologies,0,,2014.0
+1698,Verifone Mobile Money,0,,2011.0
+1699,Utopixar,0,Tunisia,2013.0
+1700,Vaya Africa,0,,2018.0
+1701,Veemo.ma,0,Morocco,2019.0
+1702,Vendex,0,,2003.0
+1703,Venture Garden Group,0,,2010.0
+1704,Vertofx,0,,2017.0
+1705,VeriSign,0,United States of America,1995.0
+1706,Vetsark,0,Nigeria,2018.0
+1707,Vidr,0,South Africa,2017.0
+1708,Village Enterprise,0,,1987.0
+1709,Vimosure,0,South Africa,2018.0
+1710,Wakanow,40000000,Nigeria,2008.0
+1711,Vio Digital,0,,2014.0
+1712,Vipimo,0,Kenya,
+1713,Virtacash Ltd,0,,2009.0
+1714,Virtual Drive,0,,2016.0
+1715,Vizibiliti Insight Africa,0,South Africa,2016.0
+1716,WayaWaya,0,Kenya,2016.0
+1717,Vmk Tech Congo,0,,2009.0
+1718,Vouch Digital ,0,,
+1719,Vound Egypt,0,,
+1720,Voyaj Inc - Morocco,0,,2014.0
+1721,Wecyclers,0,Nigeria,2012.0
+1722,WeDeliver,0,Ethiopia,
+1723,Vugapay,0,,2017.0
+1724,Wala,0,,2015.0
+1725,WeMove Technologies,30000,Nigeria,2017.0
+1726,WapiMED,0,,2016.0
+1727,Wesabi,20000,Nigeria,2015.0
+1728,Wescore,50000,Tunisia,
+1729,Waracake,0,,2014.0
+1730,Wattnow,0,,2017.0
+1731,Wethinkcode,0,South Africa,2015.0
+1732,Watu Credit,0,Kenya,2015.0
+1733,Ways,0,,
+1734,WidEnergy Africa Ltd,0,Zambia,2016.0
+1735,wiGroup,0,South Africa,2007.0
+1736,Wazapay,0,,2014.0
+1737,Wazi Vision,0,,2016.0
+1738,Wazinsure,0,,2016.0
+1739,Wire Microsystems,0,Egypt,2016.0
+1740,WeCashUp,0,,2015.0
+1741,Wecode Land,0,,2015.0
+1742,Weego,0,,2015.0
+1743,Wefix - South Africa,0,,2006.0
+1744,Wefly Agri,0,,2017.0
+1745,Wutiko,50000,Senegal,2014.0
+1746,Wenadata,0,,2019.0
+1747,WeSit,0,,
+1748,Yaoota,2700000,Egypt,2013.0
+1749,WofaGroup,0,Guinea,
+1750,Westcape,0,Ghana,
+1751,Wi-Connect,0,,2002.0
+1752,Wicover,0,,2016.0
+1753,Yobante Express,0,Senegal,2018.0
+1754,Windwood Millers ,0,Uganda,2009.0
+1755,Yookoo Ride,0,South Africa,2014.0
+1756,Wipo Wireless Power,0,South Africa,2017.0
+1757,WizzPass,0,South Africa,2015.0
+1758,Youverify,0,Nigeria,2017.0
+1759,Yum Deliveries,0,Kenya,2012.0
+1760,Yusudi,0,Kenya,2015.0
+1761,Workspap,0,Kenya,
+1762,Wumdrop,0,South Africa,2014.0
+1763,Wyzetalk,0,South Africa,2011.0
+1764,Zande Africa,70000,South Africa,2015.0
+1765,ZAR X,0,South Africa,2015.0
+1766,Yalu,0,,
+1767,Zaytech,0,Ethiopia,2018.0
+1768,Zazu Africa,218000,Zambia,2015.0
+1769,Zebra Cabs,21500000,South Africa,2008.0
+1770,Zeepay,200000,Ghana,2014.0
+1771,Yefa,0,,1954.0
+1772,Yo Books!,0,,2017.0
+1773,ZeroPrime Technologies (CanBank),5000,Egypt,2017.0
+1774,Yo-Waste,0,,
+1775,YOFIZ,0,,
+1776,Yomken.Com,0,,2012.0
+1777,You farm,0,,
+1778,Youdee,0,,2016.0
+1779,YouFarm,0,,2017.0
+1780,Youi,0,South Africa,2008.0
+1781,Zagace,0,,2013.0
+1782,Zagric,0,,2018.0
+1783,ZPOS,0,Zambia,2016.0
+1784,ZayRide,0,Ethiopia,2015.0
+1785,Zydii,0,Kenya,2016.0
+1786,Zenapi,0,Ivory Coast,
+1787,Zenvus,0,,2016.0
+1788,Ziimart Investment Web Application,0,,
+1789,Zimcoin,0,,2014.0
+1790,Zimsake,0,,2019.0
+1791,Illuminum Greenhouses,25000,Kenya,2014.0
+1792,ZimSelector,0,,2012.0
+1793,Zimswitch,0,,1994.0
+1794,Zinbiss-yaar,0,Burkina Fasso,
+1795,Zipline,0,,2014.0
+1796,Zoa Tech Limited,0,,2017.0
+1797,Zoame,0,,
+1798,Zukulu box,0,,
+1799,Zuoix Company Ltd,0,,
+1800,Zyelabs,0,South Africa,
+1801,DREET ,0,Botswana,
+1802,Prepdia,0,Cameroon,2019.0
+1803,Ovamba Solutions,0,United States,2013.0
+1804,OverC Studios,0,Egypt,2013.0
+1805,Intixel,0,Egypt,2018.0
+1806,Mercury Engineering,0,Egypt,2015.0
+1807,SSTM Egypt,0,Egypt,2017.0
+1808,Anspire Agency,0,Egypt,2011.0
+1809,OGGEH,0,Egypt,2014.0
+1810,Royal Safari Excursions,0,Egypt,2013.0
+1811,Egywheelers.com,0,Egypt,2015.0
+1812,DW Designs Egypt,0,Egypt,2010.0
+1813,Korsatk,0,Egypt,2014.0
+1814,Owls,0,Egypt,2018.0
+1815,Square Art Gallery,0,Egypt,2013.0
+1816,Bagahez,0,Egypt,2018.0
+1817,Pixly,0,Egypt,2015.0
+1818,Digital Crafts,0,Egypt,2014.0
+1819,Road9 Media,0,Egypt,2016.0
+1820,Flareinn,0,Egypt,2017.0
+1821,Greens247,0,Egypt,2015.0
+1822,El Masna3,0,Egypt,2013.0
+1823,Bionic Limbs,0,Egypt,2016.0
+1824,Pan Arab Media,0,Egypt,2012.0
+1825,SpimeSense Labs,0,Egypt,2013.0
+1826,Engineering Syatems,0,Egypt,2014.0
+1827,Bare Entertainment,0,Egypt,2011.0
+1828,The Planet,0,Egypt,2010.0
+1829,Et3alem.com,0,Egypt,2013.0
+1830,Valeeno,0,Egypt,2018.0
+1831,Dimensions Real Estate,0,Egypt,2018.0
+1832,apt-9,0,Egypt,2014.0
+1833,Innovito,0,Egypt,2014.0
+1834,MKY Communications,0,Egypt,2019.0
+1835,Solid Integrated Solutions,0,Egypt,2017.0
+1836,Frien10,0,Egypt,2013.0
+1837,MedBold,0,Egypt,2018.0
+1838,Egybell,0,Egypt,2014.0
+1839,Embassi Identity Design,0,Egypt,2015.0
+1840,Contalents,0,Egypt,2019.0
+1841,Recyclobekia,0,Egypt,2014.0
+1842,HLPR,0,Egypt,2017.0
+1843,IBS Academy,0,Egypt,2014.0
+1844,realestate.eg,0,Egypt,2018.0
+1845,Sana3ly,0,Egypt,2018.0
+1846,Enkaaz,0,Egypt,2018.0
+1847,Yadaweya,0,Egypt,2012.0
+1848,Bsocial,0,Egypt,2010.0
+1849,iGrow Solutions,0,Egypt,2015.0
+1850,Tasweela,0,Egypt,2014.0
+1851,Elegate,0,Egypt,2018.0
+1852,ASSESS Talent Management,0,Egypt,2015.0
+1853,Nilecode,0,Egypt,2011.0
+1854,Argineering,0,Egypt,2017.0
+1855,Dailymedicalinfo.com,0,Egypt,2010.0
+1856,AT Instruments,0,Egypt,2018.0
+1857,Up-Fuse,0,Egypt,2013.0
+1858,Amgad,0,Egypt,2014.0
+1859,Fifth Dimension,0,Egypt,2013.0
+1860,Sendian Creations,0,Egypt,2017.0
+1861,Nezaker,0,Egypt,2016.0
+1862,WAFFARX,0,Egypt,2017.0
+1863,Akelni,0,Egypt,2017.0
+1864,ElCoach,0,Egypt,2018.0
+1865,Botme,0,Egypt,2017.0
+1866,VoxEra,0,Egypt,2016.0
+1867,Majecules,0,Egypt,2018.0
+1868,SCL,0,Egypt,2018.0
+1869,Cantalop,0,Egypt,2014.0
+1870,Estasharah ,0,Egypt,2017.0
+1871,Rkoba.com,0,Egypt,2014.0
+1872,LocName: Global Addressing Systems,0,Egypt,2013.0
+1873,Otmost,0,Egypt,2017.0
+1874,Handaz,0,Egypt,2016.0
+1875,PushBots,0,Egypt,2012.0
+1876,Dileny Technologies,0,Egypt,2016.0
+1877,Smardex,0,Egypt,2015.0
+1878,3Bont.com,0,Egypt,2015.0
+1879,Yodawy,0,Egypt,2018.0
+1880,Al3abMizo,0,Egypt,2013.0
+1881,Hospitalia,0,Egypt,2019.0
+1882,Raye7,0,Egypt,2015.0
+1883,Khayal Studio,0,Egypt,2016.0
+1884,MazenJobs,0,Egypt,2014.0
+1885,KarmSolar,0,Egypt,2011.0
+1886,Jobzella,0,Egypt,2013.0
+1887,Avelabs LLC Egypt,0,Egypt,2012.0
+1888,ExpandCart,0,Egypt,2013.0
+1889,Integreight,0,Egypt,2012.0
+1890,Unplugged,0,Egypt,2013.0
+1891,Speakol,0,Egypt,2016.0
+1892,SeeCureApp,0,Egypt,2016.0
+1893,Tayary,0,Egypt,2017.0
+1894,VRapeutic,0,Egypt,2018.0
+1895,Autotell,0,Egypt,2018.0
+1896,VOO,0,Egypt,2017.0
+1897,DevisionX,0,Egypt,2016.0
+1898,Nash2,0,Egypt,2018.0
+1899,Tomatiki,0,Egypt,2016.0
+1900,Homzmart,0,Egypt,2018.0
+1901,Belshifa,0,Egypt,2018.0
+1902,RedCab LLC,0,Egypt,2017.0
+1903,Ordera,0,Egypt,2017.0
+1904,AppGain.io,0,Egypt,2016.0
+1905,Go Ejaza,0,Egypt,2012.0
+1906,Tagaddod,0,Egypt,2013.0
+1907,Kijamii,0,Egypt,2012.0
+1908,Mermaid - getamermaid.com,0,Egypt,2016.0
+1909,Cyril Labs,0,Egypt,2012.0
+1910,Cloudinn,0,Egypt,2013.0
+1911,Cyber Talents,0,Egypt,2016.0
+1912,Entej,0,Egypt,2013.0
+1913,Jodyshop,0,Egypt,2016.0
+1914,Vidmy Inc,0,Egypt,2014.0
+1915,Filsekka,0,Egypt,2016.0
+1916,Faggala.com,0,Egypt,2016.0
+1917,Scoop Empire,0,Egypt,2012.0
+1918,Bus Pooling,0,Egypt,2013.0
+1919,Ship'nbag,0,Egypt,2017.0
+1920,5dVR,0,Egypt,2016.0
+1921,E7gezly,0,Egypt,2011.0
+1922,BotCommander,0,Egypt,2017.0
+1923,Hawak Radio,0,Egypt,2013.0
+1924,INTcore,0,Egypt,2012.0
+1925,Mobihall,0,Egypt,2012.0
+1926,DCBEgypt,0,Egypt,2014.0
+1927,YALLA NSADAR,0,Egypt,2016.0
+1928,Tanqeeb,0,Egypt,2011.0
+1929,Omash.com,0,Egypt,2014.0
+1930,Trolley,0,Egypt,2018.0
+1931,NowPay,0,United States,2018.0
+1932,Proteinea,0,Egypt,2019.0
+1933,Doctoorum,0,Egypt,2018.0
+1934,Ghana Code Club,0,Ghana,2015.0
+1935,BezoMoney,100000,Ghana,2019.0
+1936,CoFundie,100000,Ghana,2019.0
+1937,Massira,100000,Ghana,2019.0
+1938,Niqao,100000,Ghana,2019.0
+1939,Adi+Bolga,0,Ghana,2019.0
+1940,TalentsinAfrica,0,Ghana,2017.0
+1941,Tonaton.com,0,Ghana,2013.0
+1942,Rosak Consult,0,Ghana,2014.0
+1943,Terk Trendz,0,Ghana,2016.0
+1944,Edwa Global Company,0,Ghana,2016.0
+1945,JimahTech Limited,0,Ghana,2014.0
+1946,Sikasem Africa,0,Ghana,2017.0
+1947,Ahwenepa,0,Ghana,2014.0
+1948,CountryTales,0,Ghana,2017.0
+1949,A-Plus E-Learning,0,Ghana,2015.0
+1950,GhanaCompares,0,Ghana,2016.0
+1951,YALife,0,Ghana,2016.0
+1952,Avenir Ghana,0,Ghana,2015.0
+1953,Infinixel,0,Ghana,2015.0
+1954,PSS Ghana,0,Ghana,2017.0
+1955,Naasakle,0,United States,2015.0
+1956,MeQasa Ltd,0,Ghana,2013.0
+1957,Dopecard Holdings Limited,0,Ghana,2018.0
+1958,Surfline Communications,0,Ghana,2011.0
+1959,Beam,0,Ghana,2014.0
+1960,SynCommerce,0,Ghana,2014.0
+1961,Ghalani,0,Ghana,2010.0
+1962,Okumkom Mobile App & Community Food Stores,0,Ghana,2017.0
+1963,Fido,0,Ghana,2013.0
+1964,Alt Technologies LTD,0,Ghana,2016.0
+1965,Ahonya,0,Ghana,2013.0
+1966,Homechow,0,Ghana,2018.0
+1967,Bluconyx,0,Ghana,2018.0
+1968,Asoriba,0,Ghana,2015.0
+1969,Bitland Global,0,Ghana,2013.0
+1970,SliceBiz,0,Ghana,2012.0
+1971,Zoobashop,0,Ghana,2013.0
+1972,QualiTrace,0,Ghana,2017.0
+1973,Ghanamotion Limited,0,Ghana,2010.0
+1974,Ampersand Technologies,0,Ghana,2015.0
+1975,The BEIGE Group,0,Ghana,2012.0
+1976,Zished,0,Ghana,2013.0
+1977,PayLock,0,Ghana,2018.0
+1978,SnooCODE,0,Ghana,2014.0
+1979,Triva,0,Ghana,2017.0
+1980,Cocoa360,0,Ghana,2015.0
+1981,Farmable,0,Ghana,2013.0
+1982,Nandimobile,0,Ghana,2010.0
+1983,Pavelon,0,Ghana,2018.0
+1984,Curist Pharma,0,Ghana,2010.0
+1985,Apprise Music & Media,0,Ghana,2018.0
+1986,Orderwind,0,Ghana,2018.0
+1987,MarketExpress Solutions Ltd,0,Ghana,2016.0
+1988,Forhey,0,Ghana,2015.0
+1989,Deskit Technologies,0,Ghana,2016.0
+1990,Booomers International,0,Ghana,2014.0
+1991,3E Management Training & Research Institute,0,Ghana,2017.0
+1992,Codetrain,0,Ghana,2017.0
+1993,farmCap,0,Ghana,2017.0
+1994,TransGov Ghana,0,Ghana,2015.0
+1995,BookADoc Inc.,0,Ghana,2017.0
+1996,Dolphin Telecommunications,0,Ghana,2013.0
+1997,Mobile Web Ghana,0,Ghana,2010.0
+1998,Whisppa,0,Ghana,2013.0
+1999,Afreetune,0,Ghana,2018.0
+2000,AeroShutter,0,Ghana,2014.0
+2001,Jobberman Ghana,0,Ghana,2012.0
+2002,COLDSiS,0,Ghana,2010.0
+2003,Gh-Asoriba Ltd,0,Ghana,2015.0
+2004,KINGSCEL,0,Ghana,2018.0
+2005,Dekini,0,Ghana,2016.0
+2006,BeSaz Boutique,0,Ghana,2014.0
+2007,Pay Sail,0,Ghana,2014.0
+2008,Ovation Hall,0,Ghana,2018.0
+2009,Ndivo,0,Ghana,2018.0
+2010,PollAfrique,0,Ghana,2014.0
+2011,Moja Ride,0,United States,2017.0
+2012,Juakali Workforce,0,Kenya,2012.0
+2013,Intelipro,0,Kenya,2016.0
+2014,Data Science Ltd,0,Kenya,2013.0
+2015,GoodHope Insights,0,China,2018.0
+2016,Mr Green Africa,0,Kenya,2014.0
+2017,Wapi Pay,0,Kenya,2019.0
+2018,Nadia,100000,Kenya,2019.0
+2019,Saada,100000,Kenya,2019.0
+2020,Farmula,100000,Kenya,2019.0
+2021,Atabantu,0,Kenya,2017.0
+2022,Abigail distribution and sourcing ltd,0,Kenya,2016.0
+2023,Adlink LTD,0,Kenya,2014.0
+2024,Afrisol Technologies,0,Kenya,2016.0
+2025,AirKlip,0,Kenya,2014.0
+2026,Ajira Digital,0,Kenya,2016.0
+2027,Albella Systems,0,Kenya,2016.0
+2028,AmoebaX Ltd.,0,Kenya,2017.0
+2029,Antara Health,0,Kenya,2019.0
+2030,Acquire Adventures Safaris,0,Kenya,2009.0
+2031,Africa Health Business,0,Kenya,2015.0
+2032,Afri-CAN Sun,0,Kenya,2015.0
+2033,AfriAfya,0,Kenya,2001.0
+2034,Africa Data Centres,0,Kenya,2013.0
+2035,Africa Venture Safaris,0,Kenya,2007.0
+2036,African eDevelopment Resource Centre,0,Kenya,2005.0
+2037,Afritorial,0,Kenya,2012.0
+2038,Agrikaab,0,Kenya,2016.0
+2039,Akiira Geothermal Ltd,0,Kenya,2014.0
+2040,Aleri Consulting,0,Kenya,2008.0
+2041,Amani Institute,0,Kenya,2011.0
+2042,Amazing Kisumu,0,Kenya,2012.0
+2043,Angani,0,Kenya,2014.0
+2044,Angaza Elimu,0,Kenya,2017.0
+2045,Aqnel,0,Kenya,2017.0
+2046,Audio.Chat,0,Kenya,2016.0
+2047,Avenue Group,0,Kenya,
+2048,BabyMed by Jabotech,0,Kenya,2013.0
+2049,Baobab Circle,0,Kenya,2013.0
+2050,Brave Venture Labs,0,Kenya,2016.0
+2051,Brighter Monday,0,Kenya,2006.0
+2052,BookNow,0,Kenya,2011.0
+2053,Bunifu Technologies,0,Kenya,2011.0
+2054,BuyRentKenya.com,0,Kenya,2012.0
+2055,C4DLab,0,Kenya,2012.0
+2056,C-NET WiFi,0,Kenya,2015.0
+2057,Capsule,0,Kenya,2016.0
+2058,Cheki.co.ke,0,Kenya,2010.0
+2059,Closet49,0,Kenya,2012.0
+2060,Cloud Productivity Solutions,0,Kenya,2015.0
+2061,Connect Media Interactive,0,Kenya,2007.0
+2062,Cyber.co.ke,0,Kenya,2018.0
+2063,Cytonn Investments,0,Kenya,2014.0
+2064,Dapstrem Entertainment,0,Kenya,2016.0
+2065,Dime Hub,0,Kenya,2018.0
+2066,DiscoverBrands,0,Kenya,2017.0
+2067,Disrupt Africa,0,Kenya,2014.0
+2068,Dryland Seed Limited,0,Kenya,2004.0
+2069,EatOut.co.ke,0,Kenya,2010.0
+2070,East Afric Hi Tech Solutions,0,Kenya,2016.0
+2071,Fiber Misr,0,Kenya,2016.0
+2072,FrontlineSMS,0,Kenya,2005.0
+2073,FrootBasket,0,Kenya,2018.0
+2074,Gaming for Kenya,0,Kenya,2012.0
+2075,GiG,0,Kenya,2015.0
+2076,Gigwapi,0,Kenya,2012.0
+2077,GoBEBA,0,Kenya,2018.0
+2078,GoodLife Pharmacy,0,Kenya,2013.0
+2079,Gravity.Earth,0,Kenya,2017.0
+2080,Green Credit,0,Kenya,
+2081,GreenChar,0,Kenya,2013.0
+2082,Hexapt,0,Kenya,2017.0
+2083,HiviSasa.com,0,Kenya,2014.0
+2084,futaa.com,0,Kenya,2011.0
+2085,GENIUS DYNAMICS,0,Kenya,2015.0
+2086,GetaShopa,0,Kenya,2014.0
+2087,iAfrica Broadcasting,0,Kenya,2017.0
+2088,iBizAfrica,0,Kenya,2012.0
+2089,iHub,0,Kenya,2010.0
+2090,iLabAfrica,0,Kenya,2010.0
+2091,Illumina Africa Limited,0,Kenya,2016.0
+2092,Imani Labs Limited,0,Kenya,2017.0
+2093,IMOBI TECHNOLOGY LABS LIMITED,0,Kenya,2017.0
+2094,ImpalaCoin,0,Kenya,2011.0
+2095,Incubate Africa,0,Kenya,2017.0
+2096,InsureAfrika.com,0,Kenya,2015.0
+2097,Intellisoftplus,0,Kenya,2008.0
+2098,Irentlist.com,0,Kenya,2017.0
+2099,irisX,0,Kenya,2019.0
+2100,iVa Archive,0,Kenya,2013.0
+2101,Jacaranda Health,0,Kenya,2010.0
+2102,JamboPay,0,Kenya,2010.0
+2103,Jobonics,0,Kenya,2017.0
+2104,Joecalih,0,Kenya,2018.0
+2105,Jooist,0,Kenya,2012.0
+2106,Judith & James,0,Kenya,2012.0
+2107,Juhudi Kilimo,0,Kenya,2009.0
+2108,Jumuika,0,Kenya,2009.0
+2109,Just A Ride Limited,0,Kenya,2016.0
+2110,Kachwanya,0,Kenya,2009.0
+2111,Kawa Garments,0,Kenya,2009.0
+2112,KaziQuest,0,Kenya,2018.0
+2113,Kazisha,0,Kenya,2019.0
+2114,KejaHunt.com,0,Kenya,2014.0
+2115,KenyaPlex.com,0,Kenya,2008.0
+2116,Kenyayote.com,0,Kenya,2011.0
+2117,Kidogo,0,Kenya,2013.0
+2118,Kijani Software,0,Kenya,2018.0
+2119,KITO International,0,Kenya,2010.0
+2120,KunaJam,0,Kenya,2014.0
+2121,Lavishbeauty.co.ke,0,Kenya,2012.0
+2122,Live 99 Years,0,Kenya,2018.0
+2123,Loniwa Sacco,0,Kenya,2018.0
+2124,M-Changa,0,Kenya,2012.0
+2125,Mambo Microsystems Ltd,0,Kenya,2011.0
+2126,Mara Ison,0,Kenya,2010.0
+2127,Mdundo,0,Kenya,2012.0
+2128,Medbit,0,Kenya,2017.0
+2129,"Mesozi, Inc",0,Kenya,2013.0
+2130,MicroClinic Technologies Ltd,0,Kenya,2012.0
+2131,Mobidawa,0,Kenya,2015.0
+2132,MoVas,0,Kenya,
+2133,MTL Systems,0,Kenya,2011.0
+2134,Multi-Link Group,0,Kenya,2010.0
+2135,Muthurwa.com,0,Kenya,2017.0
+2136,Nabaleka Digital Solutions,0,Kenya,2015.0
+2137,Next Generation Sports,0,Kenya,2016.0
+2138,ZYFFY,0,Kenya,2018.0
+2139,White Web Kenya,0,Kenya,2016.0
+2140,Voxy,0,Kenya,2017.0
+2141,Usalama Tech Group,0,Kenya,2017.0
+2142,"Trustcom, Ltd",0,Kenya,2017.0
+2143,Thebhub,0,Kenya,2018.0
+2144,Strauss Energy,0,Kenya,2007.0
+2145,Snorezing Anti-Snoring Mouthpiece,0,Kenya,2016.0
+2146,Smatt Geeks Media,0,Kenya,2016.0
+2147,"Simpaul Design	Simpaul Design specialize in working with clients to create brands, tell stories and develop strategies from user-centered design.	Advertising, Consulting, CRM, Marketing	Nairobi, Nairobi Area, Kenya	12/12/2016	day	https://simpauldesign.com/	https://www.linkedin.com/company/simpauldesign/	https://twitter.com/simpauldesign/	https://facebook.com/simpauldesign/															",0,Kenya,2016.0
+2148,Senga Technologies,0,Kenya,2016.0
+2149,Saccotek,0,Kenya,2017.0
+2150,Request Africa,0,Kenya,2016.0
+2151,RedHunt Kenya,0,Kenya,2017.0
+2152,PAZO GROUP,0,Kenya,2018.0
+2153,Online Cyber Kenya,0,Kenya,2017.0
+2154,Ogaan Limited,0,Kenya,2017.0
+2155,Nomad Magazine,0,Kenya,2016.0
+2156,MyRide Africa,0,Kenya,2016.0
+2157,MumsVillage,0,Kenya,2015.0
+2158,MobiTech Water Solutions,0,Kenya,2016.0
+2159,Little Limited,0,Kenya,2016.0
+2160,Levitation Dynamics,0,Kenya,2017.0
+2161,Kuza Automotive,0,Kenya,2016.0
+2162,KISAFI,0,Kenya,2016.0
+2163,HydroIQ,0,Kenya,2017.0
+2164,HOPE TECH PLUS LIMITED,0,Kenya,2017.0
+2165,Healthy Foods Only,0,Kenya,2019.0
+2166,Gjenge Enterprises,0,Kenya,2017.0
+2167,Funza Mobile,0,Kenya,2018.0
+2168,FleekBook,0,Kenya,2017.0
+2169,"Eazzy Labs, LLC",0,Kenya,2019.0
+2170,e-Kodi,0,Kenya,2016.0
+2171,DrHub Kenya Ltd,0,Kenya,2017.0
+2172,Deaf eLimu Plus,0,Kenya,2016.0
+2173,Cocoa Cure Kenya,0,Kenya,2017.0
+2174,Biin.Online,0,Kenya,2017.0
+2175,Beba Mzigo,0,Kenya,2017.0
+2176,Africa Assets,0,Kenya,2011.0
+2177,Aisha Flowers,0,Kenya,2011.0
+2178,Ameya Technologies,0,Kenya,2013.0
+2179,ASAP Information Services Limited,0,Kenya,2015.0
+2180,Aslan Adventure Tours & Travel Ltd.,0,Kenya,2008.0
+2181,Bahati Ridge Development Limited,0,Kenya,2011.0
+2182,Big Square,0,Kenya,2013.0
+2183,Bytecity Technologies,0,Kenya,2011.0
+2184,Campus Discounts,0,Kenya,2014.0
+2185,Cancer Care Kenya,0,Kenya,2010.0
+2186,Cardplanet Solutions,0,Kenya,2011.0
+2187,Chura co ke,0,Kenya,2012.0
+2188,clean cook,0,Kenya,2012.0
+2189,Code For Africa,0,Kenya,2012.0
+2190,Countryside Dairy Ltd.,0,Kenya,2014.0
+2191,cretilike,0,Kenya,2014.0
+2192,Dairy Technologist,0,Kenya,2015.0
+2193,Digital Uniq Limited,0,Kenya,2014.0
+2194,east african compliant recycling,0,Kenya,2012.0
+2195,EcoPost Limited Kenya,0,Kenya,2010.0
+2196,eleni,0,Kenya,2012.0
+2197,Essen Investments Limited,0,Kenya,2015.0
+2198,FlashCast Ventures,0,Kenya,2011.0
+2199,FSD Africa,0,Kenya,2012.0
+2200,Ghafla!,0,Kenya,2011.0
+2201,GlobalMarket,0,Kenya,2015.0
+2202,Greensmart Solutions,0,Kenya,2019.0
+2203,Haltons Limited,0,Kenya,2013.0
+2204,Happy Wishy,0,Kenya,2014.0
+2205,International Transformation Foundation,0,Kenya,2010.0
+2206,Kejamove,0,Kenya,2010.0
+2207,Kili (Africa),0,Kenya,2013.0
+2208,Konza City,0,Kenya,2015.0
+2209,Kytabu,0,Kenya,2012.0
+2210,Mail & Guardian Africa,0,Kenya,2014.0
+2211,Mimi Africana Accessories Ltd,0,Kenya,2014.0
+2212,Mr. Green Africa,0,Kenya,2014.0
+2213,Mwananchi Microfinance,0,Kenya,2014.0
+2214,Nairobi Garage,0,Kenya,2013.0
+2215,Ndovu Card Limited,0,Kenya,2012.0
+2216,Niftecs Softwares,0,Kenya,2015.0
+2217,Node Africa Limited,0,Kenya,2015.0
+2218,Notonlab,0,Kenya,2015.0
+2219,OB Analytics,0,Kenya,2015.0
+2220,Ojay Greene,0,Kenya,2014.0
+2221,Ona,0,Kenya,2013.0
+2222,One Degree Solar,0,Kenya,2011.0
+2223,Optace,0,Kenya,2013.0
+2224,Peleza International,0,Kenya,2013.0
+2225,Pentagy Limited,0,Kenya,2012.0
+2226,pesabazaar.com,0,Kenya,2014.0
+2227,Plexus Energy Limited,0,Kenya,2010.0
+2228,Quest Website Developers Ltd,0,Kenya,2013.0
+2229,Rupu.co.ke,0,Kenya,2010.0
+2230,Ryanada Limited,0,Kenya,2011.0
+2231,Simba Digital Marketing,0,Kenya,2014.0
+2232,Simplifi Networks,0,Kenya,2014.0
+2233,Sinapis Group,0,Kenya,2010.0
+2234,SUPERFLUID LABS,0,Kenya,2015.0
+2235,Surf Kenya,0,Kenya,2015.0
+2236,TechArena,0,Kenya,2013.0
+2237,TechExquisite,0,Kenya,2014.0
+2238,Techhapa,0,Kenya,2012.0
+2239,The Able Wireless Company,0,Kenya,2012.0
+2240,The African Management Initiative (AMI),0,Kenya,2011.0
+2241,The Orion ImageCapital Communication Ltd,0,Kenya,2015.0
+2242,Totohealth,0,Kenya,2014.0
+2243,Tusqee Systems,0,Kenya,2011.0
+2244,Uhasibu,0,Kenya,2010.0
+2245,Uhired.Me,0,Kenya,2010.0
+2246,VoiceMemo,0,Kenya,2015.0
+2247,Wanda Organic Ltd,0,Kenya,2011.0
+2248,Websites for Restaurants,0,Kenya,2010.0
+2249,Wild Peak Adventures,0,Kenya,2012.0
+2250,WindGen Power Products,0,Kenya,2010.0
+2251,Yum Kenya,0,Kenya,2012.0
+2252,Zawatu,0,Kenya,2015.0
+2253,Zege Technologies,0,Kenya,2010.0
+2254,Bebabeba,0,Kenya,2018.0
+2255,Nopia,0,Kenya,2017.0
+2256,Safiri Express,0,Kenya,
+2257,MaraMoja,0,Kenya,2013.0
+2258,MyHire Kenya,0,Kenya,
+2259,Savvy Riders,0,Kenya,2018.0
+2260,Icode AI,0,Kenya,2018.0
+2261,Chanjo Plus,0,Kenya,2015.0
+2262,Erada Technology Alliance,0,Mauritius,2018.0
+2263,mDoc,0,Nigeria,2012.0
+2264,MorsunMed,0,China,
+2265,Vistafront,0,Nigeria,2019.0
+2266,Zuri,100000,Nigeria,2019.0
+2267,CoVibes,100000,Nigeria,2019.0
+2268,Babban Gona,0,Nigeria,2012.0
+2269,BuyPower,0,Nigeria,2016.0
+2270,TopCheck,0,Nigeria,2015.0
+2271,Tomato Jos,0,Nigeria,2014.0
+2272,i.Sec,0,Nigeria,2013.0
+2273,LEKOIL LTD,0,Nigeria,2010.0
+2274,KiaKia,0,Nigeria,2015.0
+2275,vasiti.com,0,Nigeria,2015.0
+2276,Zowasel.com,0,Nigeria,2016.0
+2277,Safi.NG,0,Nigeria,2016.0
+2278,Maocular Tech Expert,0,Nigeria,2010.0
+2279,Logiciel,0,Nigeria,2010.0
+2280,ChopUP,0,Nigeria,2013.0
+2281,Grit Systems,0,Nigeria,2015.0
+2282,Dochase Ads,0,Nigeria,2015.0
+2283,FoodStantly,0,Nigeria,2014.0
+2284,Ideacentric,0,Nigeria,2010.0
+2285,G Force Global Solutions Ltd,0,Nigeria,2012.0
+2286,Zidoff eCommerce,0,Nigeria,2013.0
+2287,Waploaded,0,Nigeria,2011.0
+2288,Edurecords Inc.,0,Nigeria,2016.0
+2289,LawPadi,0,Nigeria,2015.0
+2290,car mart nigeria,0,Nigeria,2019.0
+2291,Jekalo,0,Nigeria,2015.0
+2292,LagChat,0,Nigeria,2013.0
+2293,DavtonLearn,0,Nigeria,2016.0
+2294,Proteach,0,Nigeria,2016.0
+2295,MallforAfrica,0,Nigeria,2012.0
+2296,Pledge51,0,Nigeria,2012.0
+2297,Termii,0,Nigeria,2014.0
+2298,MyMusic.com.ng,0,Nigeria,2015.0
+2299,soRepairIt.com,0,Nigeria,2014.0
+2300,Sterling Virtual Offices,0,Nigeria,2012.0
+2301,GoSolar Africa,0,Nigeria,2010.0
+2302,Fibre Lifestyle,0,Nigeria,2016.0
+2303,Cheki.com.ng,0,Nigeria,2010.0
+2304,Ventures Africa,0,Nigeria,2012.0
+2305,projaro,0,Nigeria,2016.0
+2306,Naija News,0,Nigeria,2016.0
+2307,TechCabal,0,Nigeria,2013.0
+2308,Naij,0,Nigeria,2012.0
+2309,AtYourService.NG,0,Nigeria,2018.0
+2310,Vuga Music Associates,0,Nigeria,2013.0
+2311,FreeMe Digital Ltd,0,Nigeria,2013.0
+2312,Techpoint,0,Nigeria,2014.0
+2313,Maliyo Games,0,Nigeria,2012.0
+2314,MOP Entertainment,0,Nigeria,2013.0
+2315,HollaNow,0,Nigeria,2017.0
+2316,Spacebook,0,Nigeria,2016.0
+2317,RubiQube,0,Nigeria,2016.0
+2318,Chekkit Technologies Inc.,0,Nigeria,2017.0
+2319,Big Cabal Media,0,Nigeria,2014.0
+2320,Novadge,0,Nigeria,2012.0
+2321,TARLENT,0,Nigeria,2017.0
+2322,Dragon Africa,0,Nigeria,2016.0
+2323,Vanguard Media Limited,0,Nigeria,2012.0
+2324,eShop.com.ng,0,Nigeria,2015.0
+2325,Zippy Logistics,0,Nigeria,2013.0
+2326,SME9ja,0,Nigeria,2017.0
+2327,PushCV,0,Nigeria,2014.0
+2328,Premium Times Nigeria,0,Nigeria,2011.0
+2329,NATTERBASE LIMITED,0,Nigeria,2017.0
+2330,Pass,0,Nigeria,2014.0
+2331,CloudWare Technologies,0,Nigeria,2012.0
+2332,Kuluya,0,Nigeria,2012.0
+2333,Playfre,0,Nigeria,2019.0
+2334,Tata,0,Nigeria,2018.0
+2335,ETX-NG,0,Nigeria,2012.0
+2336,Qataloog,0,Nigeria,2017.0
+2337,MedRx App,0,Nigeria,2015.0
+2338,NetPlusDotCom,0,Nigeria,2010.0
+2339,Primera Africa Finance Group,0,Nigeria,2011.0
+2340,CliqCab,0,Nigeria,2018.0
+2341,Aimtoget.com,0,Nigeria,2016.0
+2342,MedEnhanz,0,Nigeria,2012.0
+2343,Asuqu,0,Nigeria,2014.0
+2344,CreditClan,0,Nigeria,2018.0
+2345,BabyBliss,0,Nigeria,2017.0
+2346,Sprinble,0,Nigeria,2018.0
+2347,Plaqad,0,Nigeria,2017.0
+2348,Realtor.ng,0,Nigeria,2018.0
+2349,GatePass,0,Nigeria,2017.0
+2350,SureCredit,0,Nigeria,2016.0
+2351,Argitech Limited,0,Nigeria,2016.0
+2352,Coreum,0,Nigeria,2018.0
+2353,Crypto Staunch,0,Nigeria,2017.0
+2354,Ngcareers,0,Nigeria,2013.0
+2355,Heels.com.ng,0,Nigeria,2013.0
+2356,Raadaa Partners Intl' Ltd,0,Nigeria,2017.0
+2357,DIYlaw,0,Nigeria,2015.0
+2358,Field Intelligence,0,Nigeria,2015.0
+2359,TechAtLast International,0,Nigeria,2010.0
+2360,Parseal,0,Nigeria,2017.0
+2361,PageOne,0,Nigeria,2016.0
+2362,Hutbay,0,Nigeria,2013.0
+2363,Rack Centre,0,Nigeria,2012.0
+2364,Genii Games,0,Nigeria,2012.0
+2365,Pingheap,0,Nigeria,2019.0
+2366,MainOne,0,Nigeria,2010.0
+2367,Devcenter,0,Nigeria,2014.0
+2368,Lendsqr,0,Nigeria,2018.0
+2369,Pepper Rest Africa,0,Nigeria,2018.0
+2370,Flushreview,0,Nigeria,2018.0
+2371,Twinpine Limited,0,Nigeria,2011.0
+2372,Drawp On-Demand,0,Nigeria,2018.0
+2373,Middleman.Com.Ng,0,Nigeria,2016.0
+2374,Insegna,0,Nigeria,2010.0
+2375,DoingSoon,0,Nigeria,2018.0
+2376,Cifwep,0,Nigeria,2017.0
+2377,Suvenia.com,0,Nigeria,2016.0
+2378,Moja,0,Nigeria,2014.0
+2379,HausRenta,0,Nigeria,2019.0
+2380,iQube Labs,0,Nigeria,2010.0
+2381,PredictionHQ,0,Nigeria,2017.0
+2382,Truppr,0,Nigeria,2014.0
+2383,My Medicines Pan African Limited,0,Nigeria,2017.0
+2384,Primetweets,0,Nigeria,2012.0
+2385,Qeturah.com Ltd,0,Nigeria,2017.0
+2386,Zeno,0,Nigeria,2018.0
+2387,AMPZ.TV,0,Nigeria,2017.0
+2388,ProNOV Health,0,Nigeria,2016.0
+2389,Kobolet,0,Nigeria,2018.0
+2390,NaijaTechGuy Inc,0,Nigeria,2015.0
+2391,Dado Online food,0,Nigeria,2017.0
+2392,Afritickets,0,Nigeria,2011.0
+2393,Patricia,0,Nigeria,2017.0
+2394,GEC Academy,0,Nigeria,2017.0
+2395,PreDiagn,0,Nigeria,2017.0
+2396,Afrimash,0,Nigeria,2016.0
+2397,Mediosa Healthcare,0,Nigeria,2017.0
+2398,Pan African Towers,0,Nigeria,2017.0
+2399,NextCounsel Limited,0,Nigeria,2017.0
+2400,Flashlearners,0,Nigeria,2016.0
+2401,Mplify Limited,0,Nigeria,2019.0
+2402,Toursom,0,Nigeria,2016.0
+2403,Render Health,0,Nigeria,2018.0
+2404,Save and Buy,0,Nigeria,2013.0
+2405,Packmyload,0,Nigeria,2015.0
+2406,Ibomstore,0,Nigeria,2013.0
+2407,AI Commons Global Limited,0,Nigeria,2018.0
+2408,VacantBoards,0,Nigeria,2014.0
+2409,TraciFy,0,Nigeria,2017.0
+2410,NUGI TECHNOLOGIES NIG LTD,0,Nigeria,2016.0
+2411,Zegist,0,Nigeria,2013.0
+2412,WellNewMe,0,Nigeria,2018.0
+2413,360nobs Limited,0,Nigeria,2010.0
+2414,Cartehub,0,Nigeria,2017.0
+2415,Zeta-Web Nigeria,0,Nigeria,2013.0
+2416,Alosfarm,0,Nigeria,2017.0
+2417,Naijaknowhow,0,Nigeria,2015.0
+2418,FresHires,0,Nigeria,2014.0
+2419,Leadspace,0,Nigeria,2016.0
+2420,switemtech.com,0,Nigeria,2014.0
+2421,pRocrea8 Technology Solutions Ltd,0,Nigeria,2014.0
+2422,Ojawara,0,Nigeria,2014.0
+2423,FreeNaija,0,Nigeria,2019.0
+2424,Miduman,0,Nigeria,2018.0
+2425,Wild Fusion,0,Nigeria,2010.0
+2426,Morebranches Media Africa ltd,0,Nigeria,2017.0
+2427,Intelics Solutions,0,Nigeria,2017.0
+2428,Wi-PAY Global,0,Nigeria,2012.0
+2429,Gibadi,0,Nigeria,2015.0
+2430,Havene,0,Nigeria,2017.0
+2431,StudySearch,0,Nigeria,2014.0
+2432,Techinnover,0,Nigeria,2014.0
+2433,SignalEats,0,Nigeria,2017.0
+2434,The Language Insider,0,Nigeria,2019.0
+2435,TeachersAroundMe.com,0,Nigeria,2017.0
+2436,Kurtiva,0,Nigeria,2010.0
+2437,Rushing Tap,0,Nigeria,2014.0
+2438,DientWeb,0,Nigeria,2014.0
+2439,terawork,0,Nigeria,2017.0
+2440,SUApp,0,Nigeria,2018.0
+2441,Edusko.com,0,Nigeria,2015.0
+2442,FlexiSAF,0,Nigeria,2012.0
+2443,YOUtv,0,Nigeria,2015.0
+2444,Gazhub,0,Nigeria,2015.0
+2445,Bomes Resources Consulting,0,Nigeria,2016.0
+2446,Fundit,0,Nigeria,2018.0
+2447,FLUXBIE,0,Nigeria,2018.0
+2448,Acadar,0,Nigeria,2011.0
+2449,Raoatech IT-Electromech Limited,0,Nigeria,2014.0
+2450,Compex Africa,0,Nigeria,2016.0
+2451,Jobsinnigeria.com.ng,0,Nigeria,2011.0
+2452,Frakem.com,0,Nigeria,2015.0
+2453,ChowHub,0,Nigeria,2015.0
+2454,Onebox,0,Nigeria,2018.0
+2455,Bookings Africa,0,Nigeria,2018.0
+2456,Reimnet Limited,0,Nigeria,2013.0
+2457,Techrabytes,0,Nigeria,2017.0
+2458,EmiratePad,0,Nigeria,2014.0
+2459,Owojela's Blog,0,Nigeria,2015.0
+2460,MaketAam,0,Nigeria,2018.0
+2461,iClean,0,Nigeria,2017.0
+2462,Brangenius,0,Nigeria,2019.0
+2463,Mylaw.ng,0,Nigeria,2018.0
+2464,Generation Y,0,Nigeria,2010.0
+2465,Bigcode Microsystems,0,Nigeria,2010.0
+2466,Zama,0,Nigeria,2018.0
+2467,The Audio Age Company,0,Nigeria,2012.0
+2468,Basenaija,0,Nigeria,2018.0
+2469,Furnish.NG,0,Nigeria,2016.0
+2470,TechSavvy,0,Nigeria,2013.0
+2471,Glamour.com.ng,0,Nigeria,2012.0
+2472,Instant Apartment,0,Nigeria,2017.0
+2473,Property Deal Zone,0,Nigeria,2011.0
+2474,Agribooth Technological Solutions Limited,0,Nigeria,2017.0
+2475,Kago,0,Nigeria,2019.0
+2476,Intellectric Systems,0,Nigeria,2015.0
+2477,DevWare,0,Nigeria,2018.0
+2478,Abule Graphics,0,Nigeria,2014.0
+2479,HealthFacts,0,Nigeria,2015.0
+2480,FlyBoku,0,Nigeria,2016.0
+2481,cameraman.ng,0,Nigeria,2017.0
+2482,Swish Ideas Limited,0,Nigeria,2011.0
+2483,Dockaysworld,0,Nigeria,2017.0
+2484,TechSuplex,0,Nigeria,2012.0
+2485,SchoolsFocus.net,0,Nigeria,2018.0
+2486,The Trent,0,Nigeria,2013.0
+2487,Hirefreehands,0,Nigeria,2015.0
+2488,Wow Effect Communications,0,Nigeria,2010.0
+2489,Sellvila,0,Nigeria,2018.0
+2490,MyWeb,0,Nigeria,2018.0
+2491,Questechie,0,Nigeria,2011.0
+2492,ShawSec,0,Nigeria,2017.0
+2493,Nikenga.com,0,Nigeria,2015.0
+2494,Nairapacket,0,Nigeria,2016.0
+2495,NaijaJobs,0,Nigeria,2013.0
+2496,Jatefoods,0,Nigeria,2018.0
+2497,Campus Trybe,0,Nigeria,2015.0
+2498,Simer,0,Nigeria,2012.0
+2499,Krafty Sprouts,0,Nigeria,2015.0
+2500,Filada.com,0,Nigeria,2016.0
+2501,Trickvile,0,Nigeria,2018.0
+2502,jaraCake,0,Nigeria,2016.0
+2503,Chigisoft,0,Nigeria,2016.0
+2504,Hojah Food Delivery,0,Nigeria,2015.0
+2505,Yipada,0,Nigeria,2019.0
+2506,Mouthytech,0,Nigeria,2015.0
+2507,Hoodtrends,0,Nigeria,2018.0
+2508,Flinoid Texvo,0,Nigeria,2016.0
+2509,Cashdown Nigeria,0,Nigeria,2014.0
+2510,ML Academy Limited,0,Nigeria,2017.0
+2511,Next Big Gadgets,0,Nigeria,2017.0
+2512,Kynect Health,0,Nigeria,2018.0
+2513,StoreFoundry,0,Nigeria,2014.0
+2514,Street Toolz,0,Nigeria,2012.0
+2515,Kodegenic,0,Nigeria,2018.0
+2516,MyUniHostels,0,Nigeria,2016.0
+2517,Techie Wiz,0,Nigeria,2019.0
+2518,YEMIPIDAN & CO,0,Nigeria,2014.0
+2519,Jensiv,0,Nigeria,2018.0
+2520,Regal Eagle,0,Nigeria,2014.0
+2521,Microbold Incorporated,0,Nigeria,2011.0
+2522,TechyPals Inc,0,Nigeria,2018.0
+2523,Afribary,0,Nigeria,2018.0
+2524,Salescabal,0,Nigeria,2018.0
+2525,Kennel Pride,0,Nigeria,2016.0
+2526,Codeplus Software Academy,0,Nigeria,2014.0
+2527,nlist,0,Nigeria,2016.0
+2528,Komotion Studios,0,Nigeria,2015.0
+2529,FuelVoucher,0,Nigeria,2013.0
+2530,Lukandi Digital,0,Nigeria,2018.0
+2531,Guide Tricks,0,Nigeria,2014.0
+2532,LawStrive,0,Nigeria,2016.0
+2533,Uzibox,0,Nigeria,2018.0
+2534,Food i Like,0,Nigeria,2014.0
+2535,Opticsms,0,Nigeria,2019.0
+2536,3AL Universal Trade,0,Nigeria,2010.0
+2537,Fazsion Group,0,Nigeria,2016.0
+2538,iLLuSys,0,Nigeria,2018.0
+2539,Eaxum,0,Nigeria,2015.0
+2540,Derihunter Aquatransport,0,Nigeria,2018.0
+2541,Festivilia,0,Nigeria,2018.0
+2542,WIFix.ng,0,Nigeria,2016.0
+2543,ByteHub Embedded,0,Nigeria,2017.0
+2544,Frienditeplus.com,0,Nigeria,2013.0
+2545,Schoolstoreng Ltd,0,Nigeria,2010.0
+2546,Mobifin,0,Nigeria,2010.0
+2547,Sharp Journal,0,Nigeria,2015.0
+2548,EscapadeNg.com,0,Nigeria,2016.0
+2549,Ritan360 Technologies,0,Nigeria,2017.0
+2550,NestSquare,0,Nigeria,2017.0
+2551,Gidimediacity,0,Nigeria,2011.0
+2552,Information Guide Africa,0,Nigeria,2017.0
+2553,PrimaTimes,0,Nigeria,2018.0
+2554,Todhost Web Hosting,0,Nigeria,2014.0
+2555,Livekampus,0,Nigeria,2016.0
+2556,Dumarto,0,Nigeria,2017.0
+2557,StepwiseFlow,0,Nigeria,2017.0
+2558,Aiki,0,Nigeria,2015.0
+2559,Unpeep,0,Nigeria,2018.0
+2560,iFwAxTeL,0,Nigeria,2017.0
+2561,Flexskool,0,Nigeria,2016.0
+2562,SmartDesigns Nigeria,0,Nigeria,2013.0
+2563,Kiote Services,0,Nigeria,2013.0
+2564,theMedia 360 Company,0,Nigeria,2013.0
+2565,Designub,0,Nigeria,2017.0
+2566,ProbityBooks,0,Nigeria,2014.0
+2567,CHiBEX TECHNOLOGIES,0,Nigeria,2010.0
+2568,Montwell Properties,0,Nigeria,2017.0
+2569,Iconway Media,0,Nigeria,2013.0
+2570,Afri Reviews,0,Nigeria,2017.0
+2571,The Lingerie Stories,0,Nigeria,2016.0
+2572,Cablax,0,Nigeria,2019.0
+2573,Gigabyte Developers,0,Nigeria,2015.0
+2574,Nultan,0,Nigeria,2012.0
+2575,Intellectual Apps,0,Nigeria,2015.0
+2576,Vibujor,0,Nigeria,2018.0
+2577,Dailydigest Nigeria,0,Nigeria,2016.0
+2578,Newhomes Nigeria,0,Nigeria,2017.0
+2579,Ndidiaa,0,Nigeria,2018.0
+2580,OnTripp.com,0,Nigeria,2018.0
+2581,e86,0,Nigeria,2017.0
+2582,Examstuts,0,Nigeria,2017.0
+2583,Gamfari,0,Nigeria,2016.0
+2584,Skiibo,0,Nigeria,2018.0
+2585,FansConnect Online Ltd.,0,Nigeria,2010.0
+2586,MyYard,0,Nigeria,2018.0
+2587,Healthng,0,Nigeria,2015.0
+2588,Mypartmart.com.ng,0,Nigeria,2019.0
+2589,Codeskill,0,Nigeria,2018.0
+2590,Rutdan Solutions Limited,0,Nigeria,2016.0
+2591,creativecram,0,Nigeria,2018.0
+2592,ArtisanOga,0,Nigeria,2016.0
+2593,Schoolphix,0,Nigeria,2016.0
+2594,Iroyin,0,Nigeria,2011.0
+2595,SkyWalker Travels,0,Nigeria,2014.0
+2596,Geekasoft,0,Nigeria,2015.0
+2597,Jobcentres Nigeria,0,Nigeria,2017.0
+2598,8o8wave Media,0,Nigeria,2011.0
+2599,Prodigy School Management solution,0,Nigeria,2014.0
+2600,Webfala Digital Limited,0,Nigeria,2017.0
+2601,OyaOya,0,Nigeria,2017.0
+2602,Schoolrosta,0,Nigeria,2012.0
+2603,GrubsExpress,0,Nigeria,2016.0
+2604,Digital Design247 Technologies,0,Nigeria,2015.0
+2605,Cheapy,0,Nigeria,2016.0
+2606,Minisaving,0,Nigeria,2014.0
+2607,Reachabl,0,Nigeria,2019.0
+2608,Websmart Digital SOlutions,0,Nigeria,2016.0
+2609,EiSofft Limited,0,Nigeria,2016.0
+2610,Tatafo,0,Nigeria,2018.0
+2611,Citikab Nigeria,0,Nigeria,
+2612,Tiny Hearts Technologies,0,Nigeria,2016.0
+2613,Babyl,0,United Kingdom,2014.0
+2614,M Funding,0,Rwanda,2017.0
+2615,Starlight,0,Rwanda,
+2616,The Ihangane Project,0,Rwanda,2008.0
+2617,iMed Tech Group,0,South Africa,2015.0
+2618,GotBot,0,South Africa,2016.0
+2619,Picup Technologies,0,South Africa,2014.0
+2620,VoiceMap,0,South Africa,2014.0
+2621,DigsConnect.com,0,South Africa,2017.0
+2622,IDEA Digital Education,0,South Africa,2014.0
+2623,JOOX,0,South Africa,2015.0
+2624,CarZar,0,South Africa,2016.0
+2625,Vectra,0,South Africa,2017.0
+2626,Kopano,0,South Africa,2016.0
+2627,Parcelninja,0,South Africa,2013.0
+2628,Peach Payments,0,South Africa,2012.0
+2629,Flowgear,0,South Africa,2010.0
+2630,CapeRay,0,South Africa,2010.0
+2631,Perk,0,South Africa,2012.0
+2632,Ekaya.com,0,South Africa,2013.0
+2633,CommuScore,0,South Africa,2017.0
+2634,MomSays,0,South Africa,2018.0
+2635,Zlto,0,South Africa,2016.0
+2636,Syft Analytics,0,South Africa,2016.0
+2637,EduOne,0,South Africa,2014.0
+2638,Every1Mobile,0,South Africa,2010.0
+2639,MySidekick,0,South Africa,2014.0
+2640,CloudOne.mobi,0,South Africa,2010.0
+2641,Siyavula Education,0,South Africa,2012.0
+2642,KINEKT Terminals,0,South Africa,2017.0
+2643,RIOT Network,0,South Africa,2015.0
+2644,Getbuild.Today,0,South Africa,2013.0
+2645,Pragmatic Master,0,South Africa,2016.0
+2646,Ryonic Robotics,0,South Africa,2014.0
+2647,Tented Adventures,0,South Africa,2016.0
+2648,NuvaLaw,0,South Africa,2016.0
+2649,iSearchPlant,0,South Africa,2016.0
+2650,Drifter Brewing Company,0,South Africa,2015.0
+2651,Plan My Wedding,0,South Africa,2014.0
+2652,Over,0,South Africa,2011.0
+2653,Qnum Analytics,0,South Africa,2018.0
+2654,Weetracker,0,South Africa,2018.0
+2655,Brownie Points,0,South Africa,2015.0
+2656,MiBRAND,0,South Africa,2016.0
+2657,iKhokha,0,South Africa,2012.0
+2658,X&Go,0,South Africa,2014.0
+2659,Skynamo,0,South Africa,2012.0
+2660,Neutrinos,0,South Africa,2015.0
+2661,Instill Education,0,South Africa,2015.0
+2662,Anylytical Technologies,0,South Africa,2013.0
+2663,Hwindi,0,South Africa,2015.0
+2664,SnapScan,0,South Africa,2013.0
+2665,The Social Collective,0,South Africa,2014.0
+2666,Superbalist,0,South Africa,2010.0
+2667,Yethu,0,South Africa,2015.0
+2668,Cassava FinTech,0,South Africa,2017.0
+2669,Dimension WebWorx,0,South Africa,2011.0
+2670,Fomo Travel,0,South Africa,2015.0
+2671,Vumatel,0,South Africa,2014.0
+2672,Webfluential,0,South Africa,2013.0
+2673,SampleBoard,0,South Africa,2010.0
+2674,Hello Doctor,0,South Africa,2011.0
+2675,Digital Twin,0,South Africa,2018.0
+2676,Howler,0,South Africa,2016.0
+2677,22Seven,0,South Africa,2012.0
+2678,Maxicash,0,South Africa,2015.0
+2679,Cognician ,0,South Africa,2010.0
+2680,easy2map,0,South Africa,2011.0
+2681,Vizre,0,South Africa,2012.0
+2682,Zulzi,0,South Africa,2014.0
+2683,Signific,0,South Africa,2019.0
+2684,UCook,0,South Africa,2014.0
+2685,Fincheck,0,South Africa,2015.0
+2686,Electrum,0,South Africa,2012.0
+2687,Seeds For Africa,0,South Africa,2011.0
+2688,SnapWidget,0,South Africa,2011.0
+2689,SovTech,0,South Africa,2012.0
+2690,Runwaysale,0,South Africa,2012.0
+2691,Wallettec,0,South Africa,2013.0
+2692,Snupit,0,South Africa,2012.0
+2693,Snappic,0,South Africa,2015.0
+2694,Token Capital,0,South Africa,2019.0
+2695,Eduze,0,South Africa,2013.0
+2696,Snapbill,0,South Africa,2011.0
+2697,Wisolar,0,South Africa,2016.0
+2698,BusinessOptics,0,South Africa,2011.0
+2699,My9Lives,0,South Africa,2014.0
+2700,The Loyalty Box,0,South Africa,2012.0
+2701,OurHood,0,South Africa,2014.0
+2702,IntelliCred,0,South Africa,2013.0
+2703,3X4Genetics,0,South Africa,2018.0
+2704,HostAfrica,0,South Africa,2015.0
+2705,FitKey,0,South Africa,2015.0
+2706,Hey Jude,0,South Africa,2015.0
+2707,Vinewave,0,South Africa,2011.0
+2708,Daptio,0,South Africa,2013.0
+2709,Sensorit.io,0,South Africa,2017.0
+2710,PetHeaven,0,South Africa,2012.0
+2711,HealthCloud,0,South Africa,2017.0
+2712,Ditto Hire,0,South Africa,2016.0
+2713,Super Simple Survey,0,South Africa,2012.0
+2714,Octobase,0,South Africa,2017.0
+2715,MySmartfarm,0,South Africa,2012.0
+2716,Scientrix,0,South Africa,2013.0
+2717,PayProp,0,South Africa,2011.0
+2718,ShoppingFeeder,0,South Africa,2014.0
+2719,Washr,0,South Africa,2013.0
+2720,Khula,0,South Africa,2016.0
+2721,Kisua,0,South Africa,2013.0
+2722,bountiXP,0,South Africa,2017.0
+2723,Strider Technology,0,South Africa,2013.0
+2724,Glucode,0,South Africa,2016.0
+2725,Muzi,0,South Africa,2016.0
+2726,airManaged,0,South Africa,2015.0
+2727,I-Drop Water,0,South Africa,2015.0
+2728,Denarii,0,South Africa,2015.0
+2729,Ooka,0,South Africa,2015.0
+2730,Cashbag,0,South Africa,2013.0
+2731,Diga Digital Intelligence,0,South Africa,2013.0
+2732,Drive Revenue ,0,South Africa,2013.0
+2733,Ukheshe,500000,South Africa,2015.0
+2734,Isazi Consulting,0,South Africa,2012.0
+2735,Destiny Changers Education Group,0,South Africa,2012.0
+2736,Agridrone,0,South Africa,2014.0
+2737,A2D24,0,South Africa,2015.0
+2738,Afrimart,0,South Africa,2016.0
+2739,WaxdPay,0,South Africa,2016.0
+2740,Tessara,0,South Africa,2015.0
+2741,Flow Software,0,South Africa,2015.0
+2742,TaxTim,0,South Africa,2011.0
+2743,AsaDuru,0,South Africa,2014.0
+2744,QuicklySign,0,South Africa,2014.0
+2745,Thoopid,0,South Africa,2013.0
+2746,Autopilot Workflow Solutions,0,South Africa,2014.0
+2747,Indico Information Systems,0,South Africa,2012.0
+2748,Glu Global,0,South Africa,2015.0
+2749,PAIX Data Centres,0,Netherlands,2016.0
+2750,Raru,0,South Africa,2014.0
+2751,Rubybox,0,South Africa,2011.0
+2752,Forj,0,South Africa,2017.0
+2753,Popping,0,South Africa,2019.0
+2754,Business Process Mechanics,0,South Africa,2014.0
+2755,Vibescout,0,South Africa,2015.0
+2756,Foschini,0,South Africa,2011.0
+2757,Merchant Services,0,South Africa,2012.0
+2758,Neural Sense,0,South Africa,2010.0
+2759,Terracam,0,South Africa,2012.0
+2760,CrashDetech,0,South Africa,2014.0
+2761,Sprout,0,South Africa,2013.0
+2762,Agilocity,0,South Africa,2012.0
+2763,Bluechip Retail Solutions,0,South Africa,2010.0
+2764,Ordercloud,0,South Africa,2011.0
+2765,Organica,0,South Africa,2016.0
+2766,Entry Ninja,0,South Africa,2014.0
+2767,WeCast,0,South Africa,2016.0
+2768,Paycode,0,South Africa,2014.0
+2769,iHouzit,0,South Africa,2016.0
+2770,Team6 Consulting,0,South Africa,2016.0
+2771,PST Sensors,0,South Africa,2010.0
+2772,Hoorah Digital,0,South Africa,2018.0
+2773,Tutorfy,0,South Africa,2016.0
+2774,Wezart,0,South Africa,2017.0
+2775,ProximityID,0,South Africa,2015.0
+2776,Vibio,0,South Africa,2018.0
+2777,Liquidity SA,0,South Africa,2014.0
+2778,Shopstar,0,South Africa,2013.0
+2779,Mulah,0,South Africa,2013.0
+2780,Shift One,0,South Africa,2011.0
+2781,Adclick Africa,0,South Africa,2013.0
+2782,Droppa,0,South Africa,2016.0
+2783,Errand Nomads,0,South Africa,2019.0
+2784,Prim-U,0,South Africa,2017.0
+2785,MathsGee,0,South Africa,2013.0
+2786,Aerovision SouthAfrica,0,South Africa,2012.0
+2787,MiiGuy,0,South Africa,2019.0
+2788,Recor,0,South Africa,2012.0
+2789,Euphoria,0,South Africa,2010.0
+2790,Innovo Networks,0,South Africa,2013.0
+2791,Dyme Beauty App,0,South Africa,2017.0
+2792,TradeSafe,0,South Africa,2014.0
+2793,R-Squared Digital,0,South Africa,2014.0
+2794,Real Foods Group,0,South Africa,2013.0
+2795,NMPi,0,South Africa,2003.0
+2796,FASTNET,0,South Africa,1994.0
+2797,IsiDuli,0,South Africa,2019.0
+2798,GetVanced,0,South Africa,
+2799,OkGO.Live,0,South Africa,
+2800,FundingHub,0,South Africa,2017.0
+2801,Oyi Medical Card,0,South Africa,2017.0
+2802,Mari,0,South Africa,
+2803,Olova,0,South Africa,
+2804,Budgie,0,South Africa,2018.0
+2805,Earlybird Educare@Work,0,South Africa,2017.0
+2806,Finfind,0,South Africa,2014.0
+2807,The Virtual Agent,0,South Africa,2015.0
+2808,Digemy,0,South Africa,2017.0
+2809,DataKeepers,0,South Africa,2016.0
+2810,Hello Pretty,0,South Africa,2012.0
+2811,Lepsta,0,South Africa,2013.0
+2812,Nutreats,0,South Africa,2012.0
+2813,Levergy,0,South Africa,2012.0
+2814,Cavalry Media,0,South Africa,2013.0
+2815,Airborne Drones,0,South Africa,2013.0
+2816,Wahi,0,South Africa,2017.0
+2817,Sponsorshop,0,South Africa,2016.0
+2818,Healr,0,South Africa,2017.0
+2819,Go Life Mobile Technologies,0,South Africa,2013.0
+2820,Realty Africa,0,South Africa,2014.0
+2821,Tour2.0,0,South Africa,2015.0
+2822,SpeakGeek,0,South Africa,2013.0
+2823,Spazapp,0,South Africa,2015.0
+2824,Cryptanalysis,0,South Africa,2017.0
+2825,Memeburn,0,South Africa,2010.0
+2826,Aerial Vision Africa,0,South Africa,2015.0
+2827,DashPay,0,South Africa,2013.0
+2828,Ydangle Apps,0,South Africa,2010.0
+2829,Mansa Digital,0,South Africa,2016.0
+2830,SafCoin,0,South Africa,2017.0
+2831,FreshProjects,0,South Africa,2014.0
+2832,Rethink Education,0,South Africa,2012.0
+2833,Turtlejar Tutors,0,South Africa,2018.0
+2834,Shandapa.com,0,South Africa,2018.0
+2835,Wixel,0,South Africa,2010.0
+2836,Provulo,0,South Africa,2013.0
+2837,Kukura Capital,0,South Africa,2016.0
+2838,MySOS,0,South Africa,2013.0
+2839,Teamgeek,0,South Africa,2012.0
+2840,Big5 Games,0,South Africa,2015.0
+2841,SouthPoint,0,South Africa,2013.0
+2842,Eazi Real Estate,0,South Africa,2016.0
+2843,click Africa Digital,0,South Africa,2016.0
+2844,Kasi Eats,0,South Africa,2017.0
+2845,ixio Analytics,0,South Africa,2012.0
+2846,Avo Owner,0,South Africa,2013.0
+2847,Simplus Innovation,0,South Africa,2016.0
+2848,Qurio,0,South Africa,2015.0
+2849,Totalstay,0,South Africa,2014.0
+2850,Lula Build,0,South Africa,2014.0
+2851,SkillsPassport,0,South Africa,2017.0
+2852,Dalmatian Advertising,0,South Africa,2011.0
+2853,Mindzu,0,South Africa,2015.0
+2854,ROK Originals,0,South Africa,2010.0
+2855,Snappsales,0,South Africa,2015.0
+2856,Zabercoin,0,South Africa,2017.0
+2857,3D Forms,0,South Africa,2014.0
+2858,Paper Video,0,South Africa,2014.0
+2859,Afridiligence,0,South Africa,2016.0
+2860,RevLeads,0,South Africa,2017.0
+2861,IQmates,0,South Africa,2013.0
+2862,UGoMyWay,0,South Africa,2014.0
+2863,Ghea Live,0,South Africa,2014.0
+2864,BrandRocket,0,South Africa,2014.0
+2865,Makanda Finance,0,South Africa,2010.0
+2866,Riovic Wallet,0,South Africa,2015.0
+2867,Zestly,0,South Africa,2015.0
+2868,iAfrikan,0,South Africa,2014.0
+2869,Zoom Connect,0,South Africa,2011.0
+2870,re:source Deisgn,0,South Africa,2015.0
+2871,VML ,0,South Africa,2010.0
+2872,Non-Fiction School,0,South Africa,2018.0
+2873,NaturallyGood,0,South Africa,2010.0
+2874,Emizen,0,South Africa,2015.0
+2875,Kweza,100000,South Africa,2019.0
+2876,MPULL,0,South Africa,2011.0
+2877,Clockwork Acorn,0,South Africa,2014.0
+2878,Digital Solut10n Foundry,0,South Africa,2017.0
+2879,SmartPrac,0,South Africa,2012.0
+2880,ClockInstant,0,South Africa,2019.0
+2881,Overscore AI,0,South Africa,2010.0
+2882,Easy Home Sales,0,South Africa,2010.0
+2883,Wrapistry,0,South Africa,2014.0
+2884,Diarize Me,0,South Africa,2014.0
+2885,Gracenet Logistics,0,South Africa,2014.0
+2886,FREI One Digital,0,South Africa,2017.0
+2887,Get Rewards,0,South Africa,2018.0
+2888,Netwerk24,0,South Africa,2015.0
+2889,HumanValue,0,South Africa,2015.0
+2890,Endurance Drones,0,South Africa,2014.0
+2891,Dimago,0,South Africa,2014.0
+2892,Do Digital,0,South Africa,2019.0
+2893,Involved Digital,0,South Africa,2016.0
+2894,iSpani,0,South Africa,2017.0
+2895,ComUnity,0,South Africa,2010.0
+2896,Tenebris Lab,0,South Africa,2017.0
+2897,SowetanLIve,0,South Africa,2010.0
+2898,WithNova Experience Management,0,South Africa,2016.0
+2899,SpaceDecode,0,South Africa,2013.0
+2900,Orgunite,0,South Africa,2015.0
+2901,Darkiepages,0,South Africa,2018.0
+2902,Ionizr,0,South Africa,2015.0
+2903,Hooros Digital,0,South Africa,2016.0
+2904,Goodies Hub,0,South Africa,2015.0
+2905,Cumii,0,South Africa,2015.0
+2906,We are Monsters,0,South Africa,2015.0
+2907,Pista,0,South Africa,2017.0
+2908,Lula Rent,0,South Africa,2017.0
+2909,The Digital Alliance,0,South Africa,2017.0
+2910,Now Boarding,0,South Africa,2010.0
+2911,CRSP dsgn,0,South Africa,2016.0
+2912,Glovent Solutions,0,South Africa,2012.0
+2913,Joblife,0,South Africa,2010.0
+2914,Zindi,0,South Africa,2018.0
+2915,Juicy Designs,0,South Africa,2015.0
+2916,Code 4 CT,0,South Africa,2014.0
+2917,TV Republic,0,South Africa,2012.0
+2918,Webalytics,0,South Africa,2015.0
+2919,Hitech Wireless,0,South Africa,2010.0
+2920,BuzzApex,0,South Africa,2018.0
+2921,Xtreme Accesories,0,South Africa,2015.0
+2922,Seebox,0,South Africa,2014.0
+2923,Daily Dish,0,South Africa,2012.0
+2924,Spritzed,0,South Africa,2016.0
+2925,PharmaLTX,0,South Africa,2015.0
+2926,NU Beginnings,0,South Africa,2010.0
+2927,Centurus Group of Schools,0,South Africa,2013.0
+2928,Cats and Shepherd,0,South Africa,2015.0
+2929,Shop Eat Sleep Worldwide,0,South Africa,2017.0
+2930,Avatar Brands,0,South Africa,2017.0
+2931,Wolf&Halo,0,South Africa,2017.0
+2932,Guns & Rain Art,0,South Africa,2014.0
+2933,SassyChic,0,South Africa,2011.0
+2934,Quick Connect Wireless,0,South Africa,2012.0
+2935,Legal Connection,0,South Africa,2016.0
+2936,Cape Town Office,0,South Africa,2011.0
+2937,Useful & Beautiful,0,South Africa,2014.0
+2938,Greenform,0,South Africa,2018.0
+2939,PowerOptimal,0,South Africa,2014.0
+2940,Isoflow,0,South Africa,2010.0
+2941,Stream Drinks,0,South Africa,2010.0
+2942,Key Connections,0,South Africa,2010.0
+2943,Servio,0,South Africa,2016.0
+2944,10Dot,0,South Africa,2015.0
+2945,RentDoc,0,South Africa,2015.0
+2946,Creatives Express,0,South Africa,2017.0
+2947,Vivi Dress South Africa,0,South Africa,2013.0
+2948,Bandela Media,0,South Africa,2013.0
+2949,Rental Retainer Club,0,South Africa,2014.0
+2950,Phakamo Holdings,0,South Africa,2010.0
+2951,Nona Digital ,0,South Africa,2012.0
+2952,Peruzal,0,South Africa,2013.0
+2953,Loeriesfontein Wind Farm,0,South Africa,2016.0
+2954,AI Media Group,0,South Africa,2017.0
+2955,Responsive Digital,0,United States,2010.0
+2956,Koala Design,0,South Africa,2013.0
+2957,PositiveSSL,0,South Africa,2011.0
+2958,Noupoort Wind Farm,0,South Africa,2016.0
+2959,Growing Agile,0,South Africa,2012.0
+2960,Datatracker,0,South Africa,2013.0
+2961,Mellow Cabs,0,South Africa,
+2962,Tautona,0,South Africa,2017.0
+2963,Bright On Capital,0,South Africa,2014.0
+2964,Akili Labs,0,South Africa,
+2965,3lyna,0,Sudan,
+2966,Rentx,0,Sudan,2017.0
+2967,Tazkerati,0,Sudan,
+2968,Nayla Prosthetics,0,Sudan,
+2969,Dopa,0,Sudan,
+2970,Care,0,Sudan,
+2971,Sahla,0,Sudan,
+2972,Dreen House,0,Sudan,
+2973,Zemam,0,Sudan,
+2974,I Beakon,0,Sudan,
+2975,Eventi,0,Sudan,
+2976,Maglag.com,0,Sudan,
+2977,Intelligent Analytics,0,Sudan,
+2978,Trabalkm,0,Sudan,
+2979,Epilert,0,Tunisia,2017.0
+2980,Charge Ko Technologies,1000,Uganda,2019.0
+2981,Paat Soil Clinic,10000,Uganda,2016.0
+2982,Pinktie,0,Uganda,2016.0
+2983,Africa Pay,0,Uganda,
+2984,Village of Lakes Safaris,0,Uganda,2016.0
+2985,Minute5,3000,Uganda,2018.0
+2986,Unified Learn,0,Zambia,2016.0
+2987,Mangwee Payment Systems,0,Zambia,2016.0
+2988,study.co.zw,0,Zimbabwe,
+2989,Magnetic Software,0,South Africa,2012.0
+2990,College SA,0,South Africa,2007.0
+2991,Ritual Studio,0,South Africa,2017.0
+2992,Zend Mobility,0,Nigeria ,2019.0
+2993,Datarica Analytics,0,Nigeria,2018.0
+2994,iLearn Africa,0,Uganda,2016.0
+2995,Africado ,0,Tanzania,2007.0
+2996,Kayfo Game Studio,0,Senegal,2018.0
+2997,PocketDoc,0,Morocco,2018.0
+2998,Kalido,0,South Africa,2014.0
+2999,AzarGen Biotechnologies,0,South Africa,2009.0
+3000,CenHealth,0,South Africa,2014.0
+3001,Chaka ,0,Nigeria,2018.0
+3002,EasyEquities,7150000,South Africa,2014.0
+3003,Global Partners,0,Benin,
+3004,Healthcent,0,South Africa,2007.0
+3005,HS- Geo Survey Limited,0,Angola,
+3006,KeshoLabs,0,Kenya,2018.0
+3007,Kriterion,0,South Africa,2018.0
+3008,MapTech,0,,
+3009,Marini Naturals,0,,
+3010,MicroDrone Africa,0,Kenya,2013.0
+3011,MOBIcure,100000,Nigeria,2015.0
+3012,Raino Tech4Impact,0,Kenya,2014.0
+3013,SkyTech Drones,0,Botswana,
+3014,Solarise Africa,0,Kenya,2018.0
+3015,SPARK Schools,9000000,South Africa,2012.0
+3016,Veritec Drone Services,0,Angola,
+3017,AC Group,0,Rwanda,2015.0
+3018,Access Afya,0,Kenya,2012.0
+3019,Africado,0,Tanzania,2007.0
+3020,AllLife,0,South Africa,2004.0
+3021,Aviro,0,South Africa,2012.0
+3022,Care Champ,0,South Africa,2016.0
+3023,Chitosan,0,Egypt,2015.0
+3024,Crop Nutrition Laboratory Services (Cropnuts),0,Kenya,1998.0
+3025,Dubci,0,Egypt,2019.0
+3026,Enko Education,2200000,South Africa,2013.0
+3027,Instrat Global Health Solutions,0,Nigeria,2010.0
+3028,InTouch,7900000,Senegal,2014.0
+3029,MedX eHealth Centre,0,Netherlands,2015.0
+3030,OculusID,0,South Africa,2013.0
+3031,Ride,0,Ethiopia,2014.0
+3032,ROK Film Studios,0,Nigeria,2013.0
+3033,Savannah Brands,0,Kenya,2017.0
+3034,Shuttlers,0,Nigeria,2017.0
+3035,Space In Africa,0,Nigeria,2018.0
+3036,The Rosehip Company,0,Lesotho,2006.0
+3037,Trendster.io,0,Egypt,2019.0
+3038,ClevR,0,South Africa,2016.0
+3039,Dopay,2400000,England,2014.0
+3040,PaySky,0,United Arab Emirates,2017.0
+3041,Mobii Systems,0,South Africa,2008.0
+3042,Wion Motors Limited,0,Uganda,2014.0
+3043,Wena Hardware,0,Uganda,2018.0
+3044,Altec MMXIV,0,Uganda,2014.0
+3045,Umba,0,Kenya,2017.0
+3046,WaziData,0,Kenya,2017.0
+3047,Recours Four Kenya,0,Kenya ,2012.0
+3048,BrightGreen Renewable Energy,0,Kenya,2015.0
+3049,Koola Water,0,Kenya,2014.0
+3050,Beiless Group,0,Kenya,2015.0
+3051,Glass House PR,0,Kenya ,2012.0
+3052,Agrix Tech,0,Cameroon,2018.0
+3053,UhuruLabs,0,Tanzania,2015.0
+3054,Agrinfo,0,Tanzania,2016.0
+3055,GEM Industrial Solutions,0,Ghana,2017.0
+3056,Charis Unmanned Aerial Solutions,0,Rwanda,2014.0
+3057,Imagens Aereas de Angola,0,Angola,2014.0
+3058,Drone Africa Service,0,Niger,2017.0
+3059,BeBlocky,0,Ethiopia,2017.0
+3060,Pennysmart,0,Ghana,2018.0
+3061,GladePay,0,Nigeria,2019.0
+3062,GONA,0,Nigeria,2018.0
+3063,RubiHealth,0,Nigeria,2017.0
+3064,Developers In Vogue,0,Ghana,2017.0
+3065,IlaraHealth,375000,Kenya,2018.0
+3066,Wealth Migrate,0,United Kingdom,2010.0
+3067,TechAdvance,0,Nigeria,2014.0
+3068,Codes Consult,0,Tanzania,2014.0
+3069,Twekobe Technologies,0,Uganda,2019.0
+3070,SiriusLabs,0,United States,2019.0
+3071,Kudoti,0,South Africa,2019.0
+3072,Wagon Shopping,0,Kenya,2017.0
+3073,biNu,0,Australia,2008.0
+3074,10X Investments,0,South Africa,2007.0
+3075,BeepTool,0,Nigeria,2014.0
+3076,Profish,0,Ghana,2018.0
+3077,Trackball Global Technologies,0,,
+3078,TechShelta Company Ltd,0,Ghana,2018.0
+3079,ArqamFC,0,Egypt,2017.0
+3080,Artcaffe,0,Kenya,2008.0
+3081,Career180,100000,Egypt,2016.0
+3082,Yebo Fresh,0,South Africa,2018.0
+3083,Maungo Craft,50000,Botswana,2017.0

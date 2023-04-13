@@ -1,0 +1,323 @@
+6_investors,Country/Town,"Deals Information, Level of Completeness",Disclosed ,Founded,Total  Disclosed Funding,DA Classification_African Company (Yes = 0; No = 1),Year,Month,Quarter,Half,Number of Investors,main_sector_encoded,funding_round_encoded,cat_Country
+Knife Capital,South Africa,0.9,0.0,2015.0,0.0,0.0,2018.0,11.0,4.0,2.0,1.0,12,3,23
+Ingressive Capital,Nigeria,0.9,0.0,2017.0,0.0,0.0,2018.0,11.0,4.0,2.0,1.0,10,12,19
+"EchoVC Partners, Kima Ventures, Founders Factory, Burda Principle Investments, First Minute Capital",Kenya,0.9,1.0,2014.0,2510000.0,0.0,2018.0,11.0,4.0,2.0,5.0,3,1,10
+GreenTec Capital Partners,Kenya,0.9,0.0,2015.0,250000.0,0.0,2018.0,11.0,4.0,2.0,1.0,2,1,10
+Draper Richards Kaplan Foundation,Ghana,0.9,1.0,2016.0,420000.0,0.0,2018.0,11.0,4.0,2.0,1.0,14,1,8
+Undisclosed,Nigeria,0.9,1.0,2018.0,1400.0,0.0,2018.0,11.0,4.0,2.0,1.0,6,12,19
+Sompo Holdings,Kenya,0.9,1.0,2013.0,14970000.0,0.0,2018.0,11.0,4.0,2.0,1.0,1,6,10
+Trace,Mauritius,0.9,0.0,2015.0,3100000.0,0.0,2018.0,11.0,4.0,2.0,1.0,5,17,15
+"International Finance Corporation, 1776 Ventures, Wamda Capital, TLcom Capital Partners, DOB Equity",Kenya,0.9,1.0,2013.0,40350000.0,0.0,2018.0,11.0,4.0,2.0,5.0,5,6,10
+Endure Capital,Egypt,0.9,1.0,2017.0,700000.0,0.0,2018.0,11.0,4.0,2.0,1.0,5,1,5
+"Kalon Venture Partners, Compass Capital",South Africa,0.9,1.0,2016.0,563000.0,0.0,2018.0,11.0,4.0,2.0,2.0,1,1,23
+Fall Armyworm Tech Prize,Kenya,0.9,1.0,2016.0,150000.0,0.0,2018.0,11.0,4.0,2.0,1.0,14,2,10
+Genesys Tech Hub,Nigeria,0.9,1.0,2018.0,15000.0,0.0,2018.0,11.0,4.0,2.0,1.0,8,1,19
+Fall Armyworm Tech Prize,Ghana,0.9,1.0,2013.0,50000.0,0.0,2018.0,11.0,4.0,2.0,1.0,6,2,8
+Fall Armyworm Tech Prize,Nigeria,0.9,1.0,2010.0,50000.0,0.0,2018.0,11.0,4.0,2.0,1.0,6,2,19
+Fall Armyworm Tech Prize,Ghana,0.9,1.0,2012.0,742000.0,0.0,2018.0,11.0,4.0,2.0,1.0,14,2,8
+HIMAngel,Egypt,0.9,1.0,2016.0,100000.0,0.0,2018.0,11.0,4.0,2.0,1.0,4,1,5
+Fall Armyworm Tech Prize,Uganda,0.9,1.0,2014.0,75000.0,0.0,2018.0,11.0,4.0,2.0,1.0,14,2,26
+IBM,South Africa,0.9,1.0,2018.0,34000.0,0.0,2018.0,11.0,4.0,2.0,1.0,8,2,23
+"BECO Capital, Raed Ventures, Silicon Badia, Arzan Venture Capital",Egypt,0.9,1.0,2017.0,80500000.0,0.0,2018.0,11.0,4.0,2.0,4.0,10,6,5
+Gray Matters Capital,Nigeria,0.9,1.0,2015.0,250000.0,0.0,2018.0,11.0,4.0,2.0,1.0,12,1,19
+"Justin Drennan, Frederik Gerner, Bas Hochstenbach",South Africa,0.9,1.0,2017.0,70000.0,0.0,2018.0,11.0,4.0,2.0,3.0,3,1,23
+European Investment Bank (EIB),Kenya,0.9,1.0,1999.0,40000000.0,0.0,2018.0,11.0,4.0,2.0,1.0,13,5,10
+Flat6Labs,Cameroon,0.9,1.0,2018.0,51000.0,0.0,2018.0,11.0,4.0,2.0,1.0,4,1,4
+Optimizer Foundation,Rwanda,0.9,1.0,2016.0,150000.0,0.0,2018.0,11.0,4.0,2.0,1.0,5,1,20
+Optimizer Foundation,Kenya,0.9,1.0,2013.0,100000.0,0.0,2018.0,11.0,4.0,2.0,1.0,3,1,10
+Motorola Solutions Foundation,Kenya,0.9,0.0,2010.0,0.0,0.0,2018.0,11.0,4.0,2.0,1.0,3,2,10
+GreenTec Capital Partners,Ivory Coast,0.9,0.0,2017.0,0.0,0.0,2018.0,11.0,4.0,2.0,1.0,8,1,9
+Smartcall,South Africa,0.9,1.0,2016.0,720000.0,0.0,2018.0,11.0,4.0,2.0,1.0,4,1,23
+Google Impact Challenge Nigeria,Nigeria,0.9,1.0,2013.0,250000.0,0.0,2018.0,11.0,4.0,2.0,1.0,12,2,19
+Google Impact Challenge Kenya,Kenya,0.9,1.0,2015.0,250000.0,0.0,2018.0,11.0,4.0,2.0,1.0,14,2,10
+Undisclosed,Rwanda,0.9,1.0,2017.0,150000.0,0.0,2018.0,11.0,4.0,2.0,1.0,10,1,20
+Google Impact Challenge Nigeria,Nigeria,0.9,1.0,2015.0,165000.0,0.0,2018.0,11.0,4.0,2.0,1.0,3,2,19
+Google Impact Challenge Kenya,Kenya,0.9,1.0,2016.0,125000.0,0.0,2018.0,11.0,4.0,2.0,1.0,3,2,10
+Google Impact Challenge Kenya,Kenya,0.9,1.0,2016.0,125000.0,0.0,2018.0,11.0,4.0,2.0,1.0,14,2,10
+Google Impact Challenge Nigeria,Nigeria,0.9,1.0,2018.0,125000.0,0.0,2018.0,11.0,4.0,2.0,1.0,9,2,19
+Itanna Accelerator,Nigeria,0.9,1.0,2015.0,75000.0,0.0,2018.0,11.0,4.0,2.0,1.0,1,1,19
+Itanna Accelerator,Nigeria,0.9,1.0,2017.0,25000.0,0.0,2018.0,11.0,4.0,2.0,1.0,1,1,19
+Itanna Accelerator,Nigeria,0.9,1.0,2017.0,25000.0,0.0,2018.0,11.0,4.0,2.0,1.0,22,1,19
+Itanna Accelerator,Nigeria,0.9,1.0,2018.0,25000.0,0.0,2018.0,11.0,4.0,2.0,1.0,5,1,19
+Undisclosed,Nigeria,0.9,1.0,2018.0,10000.0,0.0,2018.0,12.0,4.0,2.0,1.0,4,12,19
+Shenai Bridglall,South Africa,0.9,1.0,2018.0,2132.0,0.0,2018.0,12.0,4.0,2.0,1.0,5,12,23
+Undisclosed,Nigeria,0.9,1.0,2018.0,3424.0,0.0,2018.0,12.0,4.0,2.0,1.0,6,12,19
+"Battery Road Digital Holdings, Algebra Ventures",Egypt,0.9,1.0,2017.0,6909000.0,0.0,2018.0,12.0,4.0,2.0,2.0,10,3,5
+"Yellowwoods, Hollard Insurance",South Africa,0.9,1.0,2016.0,3600000.0,0.0,2018.0,12.0,4.0,2.0,2.0,1,3,23
+Kuramo Capital,Kenya,0.9,0.0,2016.0,550000.0,0.0,2018.0,12.0,4.0,2.0,1.0,1,3,10
+Vision Ventures,Egypt,0.9,0.0,2016.0,417000.0,0.0,2018.0,12.0,4.0,2.0,1.0,10,1,5
+"Nedbank, Sanari Capital, Convergence Partners",South Africa,0.9,1.0,2012.0,4000000.0,0.0,2018.0,12.0,4.0,2.0,3.0,6,3,23
+"International Finance Corporation, Y Combinator, TLcom Capital Partners",Nigeria,0.9,1.0,2017.0,37320000.0,0.0,2018.0,12.0,4.0,2.0,3.0,10,3,19
+International Finance Corporation,Egypt,0.9,1.0,2012.0,23500000.0,0.0,2018.0,12.0,4.0,2.0,1.0,12,8,5
+Technology Innovation Agency,South Africa,0.9,1.0,2015.0,152000.0,0.0,2018.0,12.0,4.0,2.0,1.0,6,2,23
+Technology Innovation Agency,South Africa,0.9,1.0,2012.0,41000.0,0.0,2018.0,12.0,4.0,2.0,1.0,12,2,23
+"Averroes Ventures, Egypt Ventures, 500 Startups, Endure Capital, Alex Angels",Egypt,0.9,1.0,2014.0,2150000.0,0.0,2018.0,12.0,4.0,2.0,5.0,12,1,5
+UNICEF Innovation Fund,Tunisia,0.9,1.0,2013.0,100000.0,0.0,2018.0,12.0,4.0,2.0,1.0,6,2,25
+Y Combinator,Tanzania,0.9,1.0,2017.0,420000.0,0.0,2018.0,12.0,4.0,2.0,1.0,1,1,24
+TechCrunch Startup Battlefield Africa,Uganda,0.9,1.0,2017.0,75000.0,0.0,2018.0,12.0,4.0,2.0,1.0,12,2,26
+Odey Asset Management,South Africa,0.9,1.0,2014.0,91700000.0,0.0,2018.0,12.0,4.0,2.0,1.0,1,6,23
+Omar Barakat,Egypt,0.9,1.0,2018.0,180000.0,0.0,2018.0,12.0,4.0,2.0,1.0,6,1,5
+African Entrepreneurship Award,Namibia,0.9,1.0,2013.0,150000.0,0.0,2018.0,12.0,4.0,2.0,1.0,3,2,18
+African Entrepreneurship Award,Senegal,0.9,1.0,2018.0,100000.0,0.0,2018.0,12.0,4.0,2.0,1.0,5,2,21
+African Entrepreneurship Award,Uganda,0.9,1.0,2016.0,100000.0,0.0,2018.0,12.0,4.0,2.0,1.0,10,2,26
+Undisclosed,Nigeria,0.9,1.0,2018.0,560000.0,0.0,2018.0,12.0,4.0,2.0,1.0,10,1,19
+African Entrepreneurship Award,France,0.9,1.0,2017.0,25000.0,1.0,2018.0,12.0,4.0,2.0,1.0,12,2,7
+African Entrepreneurship Award,Ghana,0.9,1.0,2017.0,25000.0,0.0,2018.0,12.0,4.0,2.0,1.0,3,2,8
+"ISAI,  Seventure Partners",Tunisia,0.9,1.0,2014.0,4500000.0,0.0,2018.0,12.0,4.0,2.0,2.0,1,3,25
+"AHL Venture Partners, Small Foundation , Jordan Engineering",Zambia,0.9,1.0,2010.0,2170000.0,0.0,2018.0,12.0,4.0,2.0,3.0,14,1,29
+"GSMA Ecosystem Accelerator, Seedstars",Ghana,0.9,1.0,2016.0,1150000.0,0.0,2018.0,12.0,4.0,2.0,2.0,14,1,8
+Fintec Ventures,South Africa,0.9,1.0,2015.0,6397000.0,0.0,2018.0,12.0,4.0,2.0,1.0,1,6,23
+Absa Bank,South Africa,0.9,1.0,2015.0,6397000.0,0.0,2018.0,12.0,4.0,2.0,1.0,1,2,23
+Undisclosed,Ethiopia,0.9,1.0,2016.0,126480.0,0.0,2018.0,12.0,4.0,2.0,1.0,8,2,6
+Undisclosed,Ethiopia,0.9,1.0,2012.0,200000.0,0.0,2018.0,12.0,4.0,2.0,1.0,19,2,6
+Undisclosed,South Africa,0.9,0.0,2016.0,0.0,0.0,2018.0,12.0,4.0,2.0,1.0,7,1,23
+Undisclosed,Tanzania,0.9,1.0,2016.0,2400000.0,0.0,2018.0,12.0,4.0,2.0,1.0,6,3,24
+Undisclosed,Nigeria,0.9,1.0,2018.0,2777.0,0.0,2018.0,12.0,4.0,2.0,1.0,18,12,19
+Pernod Ricard,Nigeria,0.9,1.0,2012.0,885400000.0,0.0,2018.0,12.0,4.0,2.0,1.0,5,18,19
+Kairos,Nigeria,0.9,1.0,2017.0,185000.0,0.0,2018.0,12.0,4.0,2.0,1.0,1,1,19
+Mastercard Foundation Fund for Rural Prosperity,Kenya,0.9,1.0,2014.0,1158000.0,0.0,2018.0,12.0,4.0,2.0,1.0,14,2,10
+LSE Generate,Uganda,0.9,1.0,2017.0,255000.0,0.0,2018.0,12.0,4.0,2.0,1.0,1,12,26
+The Carlyle Group,Nigeria,0.9,1.0,2008.0,40000000.0,0.0,2018.0,12.0,4.0,2.0,1.0,15,9,19
+Villgro Kenya,Kenya,0.9,1.0,2016.0,40000.0,0.0,2018.0,12.0,4.0,2.0,1.0,12,2,10
+Villgro Kenya,Kenya,0.9,1.0,2018.0,100000.0,0.0,2018.0,12.0,4.0,2.0,1.0,1,2,10
+DEEPCORE,Kenya,0.9,0.0,2017.0,250000.0,0.0,2018.0,12.0,4.0,2.0,1.0,19,1,10
+Pmaestro ,Egypt,0.9,1.0,2018.0,450000.0,0.0,2018.0,12.0,4.0,2.0,1.0,12,1,5
+"Seedstars, Silverback Capital, NISK Capital",Rwanda,0.9,1.0,2017.0,550000.0,0.0,2018.0,12.0,4.0,2.0,3.0,1,1,20
+Undisclosed,Egypt,0.9,1.0,2012.0,4000000.0,0.0,2018.0,12.0,4.0,2.0,1.0,5,3,5
+Undisclosed,Ethiopia,0.9,0.0,2018.0,0.0,0.0,2018.0,12.0,4.0,2.0,1.0,6,3,6
+Undisclosed,Angola,0.9,0.0,2019.0,0.0,0.0,2019.0,1.0,1.0,1.0,1.0,2,1,1
+FONERWA,Rwanda,0.9,1.0,2014.0,905400.0,0.0,2019.0,1.0,1.0,1.0,1.0,11,2,20
+Undisclosed,Egypt,0.9,1.0,2019.0,50000.0,0.0,2019.0,1.0,1.0,1.0,1.0,1,12,5
+Falak Startups,Egypt,0.9,1.0,2018.0,48000.0,0.0,2019.0,1.0,1.0,1.0,1.0,6,12,5
+ Family & Friends FF.,Egypt,0.9,1.0,2014.0,20000.0,0.0,2019.0,1.0,1.0,1.0,1.0,4,1,5
+Alterfin,Kenya,0.9,0.0,2013.0,0.0,0.0,2019.0,1.0,1.0,1.0,1.0,1,9,10
+"Goodwell Investments, Liil Ventures",South Africa,0.9,1.0,2015.0,5770000.0,0.0,2019.0,1.0,1.0,1.0,2.0,10,3,23
+Saviu Ventures,Ivory Coast,0.9,1.0,2012.0,1069000.0,0.0,2019.0,1.0,1.0,1.0,1.0,5,1,9
+Saviu Ventures,Ivory Coast,0.9,1.0,2018.0,697000.0,0.0,2019.0,1.0,1.0,1.0,1.0,10,1,9
+Daniel James,South Africa,0.9,1.0,2018.0,35300.0,0.0,2019.0,1.0,1.0,1.0,1.0,1,1,23
+Undisclosed,Ethiopia,0.9,0.0,2015.0,100000.0,0.0,2019.0,1.0,1.0,1.0,1.0,6,1,6
+French Development Agency,Kenya,0.9,1.0,2016.0,2975000.0,0.0,2019.0,1.0,1.0,1.0,1.0,1,5,10
+"Osman Ahmed Osman, Jabbar Internet Group, ACE & Company",Egypt,0.9,1.0,2012.0,500000.0,0.0,2019.0,1.0,1.0,1.0,3.0,6,6,5
+Saviu Ventures,Senegal,0.9,1.0,2016.0,1000000.0,0.0,2019.0,1.0,1.0,1.0,1.0,2,1,21
+Undisclosed,Uganda,0.9,1.0,2015.0,1510000.0,0.0,2019.0,1.0,1.0,1.0,1.0,12,16,26
+Goodwell Investments,Kenya,0.9,1.0,2012.0,22000000.0,0.0,2019.0,1.0,1.0,1.0,1.0,5,6,10
+CARTE Group,Tunisia,0.9,1.0,2016.0,660000.0,0.0,2019.0,1.0,1.0,1.0,1.0,12,1,25
+GreenTec Capital Partners,Kenya,0.9,0.0,2015.0,0.0,0.0,2019.0,1.0,1.0,1.0,1.0,6,3,10
+CDC Group,Mauritius,0.9,1.0,2016.0,2065760.0,0.0,2019.0,1.0,1.0,1.0,1.0,2,3,15
+Startupbootcamp FinTech Dubai,Ghana,0.9,0.0,2018.0,40000.0,0.0,2019.0,1.0,1.0,1.0,1.0,1,1,8
+Techpoint,Nigeria,0.9,1.0,2014.0,10000.0,0.0,2019.0,1.0,1.0,1.0,1.0,7,2,19
+Rowland Eno,Nigeria,0.9,1.0,2019.0,1000.0,0.0,2019.0,1.0,1.0,1.0,1.0,5,12,19
+Microtraction,Nigeria,0.9,0.0,2018.0,0.0,0.0,2019.0,1.0,1.0,1.0,1.0,12,1,19
+Kalon Venture Partners,South Africa,0.9,1.0,2017.0,1500000.0,0.0,2019.0,1.0,1.0,1.0,1.0,7,3,23
+"Blue Haven Initiative, Compass Venture Capital, Zephyr Acorn",Kenya,0.9,1.0,2016.0,3000000.0,0.0,2019.0,1.0,1.0,1.0,3.0,2,3,10
+Kupanda Holdings,Nigeria,0.9,0.0,2012.0,0.0,0.0,2019.0,1.0,1.0,1.0,1.0,4,9,19
+Qatar Investment Authority,United Kingdom,0.9,1.0,2000.0,200000000.0,1.0,2019.0,1.0,1.0,1.0,1.0,13,9,27
+Santam,South Africa,0.9,0.0,2017.0,0.0,0.0,2019.0,1.0,1.0,1.0,1.0,1,1,23
+500startups,Egypt,0.9,0.0,2019.0,50000.0,0.0,2019.0,2.0,1.0,1.0,1.0,4,1,5
+"EWB Canada, AK IMPACT INVESTORS, 1 to 4 Foundation, ADAP SEED FUND 2, The Lakes Charitable Foundation",Kenya,0.9,0.0,2014.0,0.0,0.0,2019.0,2.0,1.0,1.0,5.0,1,1,10
+Undisclosed,South Africa,0.9,0.0,2016.0,0.0,0.0,2019.0,2.0,1.0,1.0,1.0,6,12,23
+Shenall Bridglall,South Africa,0.9,1.0,2019.0,707000.0,0.0,2019.0,2.0,1.0,1.0,1.0,5,12,23
+"International Finance Corporation (IFC), Pharos Holding, AlexBank, German Agency for International Cooperation and Sustainable Development (GIZ), Visa, Ayady, Sanad’s Entrepreneurship Academy, Export Development Bank of Egypt (EBE)",Egypt,0.9,1.0,2018.0,25000.0,0.0,2019.0,2.0,1.0,1.0,8.0,1,12,5
+VestedWorld,Rwanda,0.9,0.0,2016.0,150000.0,0.0,2019.0,2.0,1.0,1.0,1.0,5,3,20
+Techstars,Nigeria,0.9,1.0,2017.0,120000.0,0.0,2019.0,2.0,1.0,1.0,1.0,1,1,19
+Undisclosed,South Africa,0.9,0.0,2015.0,0.0,0.0,2019.0,2.0,1.0,1.0,1.0,6,3,23
+PG Impact Investments,Uganda,0.9,1.0,2012.0,11080000.0,0.0,2019.0,2.0,1.0,1.0,1.0,1,5,26
+IntilaQ,Tunisia,0.9,1.0,2015.0,100000.0,0.0,2019.0,2.0,1.0,1.0,1.0,6,2,25
+IntilaQ,Tunisia,0.9,1.0,2018.0,70000.0,0.0,2019.0,2.0,1.0,1.0,1.0,10,2,25
+IntilaQ,Tunisia,0.9,1.0,2018.0,70000.0,0.0,2019.0,2.0,1.0,1.0,1.0,6,2,25
+IntilaQ,Tunisia,0.9,1.0,2007.0,50000.0,0.0,2019.0,2.0,1.0,1.0,1.0,6,2,25
+IntilaQ,Tunisia,0.9,1.0,0.0,50000.0,0.0,2019.0,2.0,1.0,1.0,1.0,6,2,25
+Undisclosed,Egypt,0.9,0.0,2018.0,0.0,0.0,2019.0,2.0,1.0,1.0,1.0,6,1,5
+"GreatPoint Ventures, Samsung NEXT Ventures",South Africa,0.9,1.0,2014.0,12000000.0,0.0,2019.0,2.0,1.0,1.0,2.0,6,3,23
+Wade Flemons,South Africa,0.9,1.0,2015.0,3500000.0,0.0,2019.0,2.0,1.0,1.0,1.0,19,1,23
+Justin Caldbeck,Kenya,0.9,0.0,2017.0,238000.0,0.0,2019.0,2.0,1.0,1.0,1.0,10,12,10
+Proparco,Kenya,0.9,0.0,2012.0,3500000.0,0.0,2019.0,2.0,1.0,1.0,1.0,6,3,10
+Algebra Ventures,Egypt,0.9,0.0,2013.0,750000.0,0.0,2019.0,2.0,1.0,1.0,1.0,5,3,5
+Techstars,Uganda,0.9,1.0,2017.0,255000.0,0.0,2019.0,2.0,1.0,1.0,1.0,1,12,26
+Techstars,Uganda,0.9,1.0,2017.0,255000.0,0.0,2019.0,2.0,1.0,1.0,1.0,1,12,26
+Telecoming,Tanzania,0.9,0.0,2013.0,25000.0,0.0,2019.0,2.0,1.0,1.0,1.0,3,17,24
+Sasfin,South Africa,0.9,0.0,2016.0,0.0,0.0,2019.0,2.0,1.0,1.0,1.0,1,17,23
+"Concentric, Blockchain.com, MakerDAO",South Africa,0.9,1.0,2017.0,1135000.0,0.0,2019.0,2.0,1.0,1.0,3.0,1,1,23
+"Algebra Ventures, Esther Dyson",Egypt,0.9,1.0,2018.0,600000.0,0.0,2019.0,2.0,1.0,1.0,2.0,10,12,5
+Undisclosed,South Africa,0.9,1.0,2018.0,768000.0,0.0,2019.0,2.0,1.0,1.0,1.0,1,1,23
+Paper Plane Ventures,South Africa,0.9,1.0,2014.0,4667000.0,0.0,2019.0,2.0,1.0,1.0,1.0,19,3,23
+Quantum Capital Partners,Nigeria,0.9,1.0,2015.0,5500000.0,0.0,2019.0,2.0,1.0,1.0,1.0,1,3,19
+Bittrex,South Africa,0.9,1.0,2018.0,1500000.0,0.0,2019.0,2.0,1.0,1.0,1.0,1,1,23
+Google,Egypt,0.9,1.0,2017.0,103900.0,0.0,2019.0,3.0,1.0,1.0,1.0,5,2,5
+Egypt Ventures,Egypt,0.9,0.0,2014.0,0.0,0.0,2019.0,3.0,1.0,1.0,1.0,6,3,5
+"Lireas Holdings, Compass Insure, 4Di Capital",South Africa,0.9,1.0,2015.0,685000.0,0.0,2019.0,3.0,1.0,1.0,3.0,1,1,23
+Crossfin Technology,South Africa,0.9,0.0,2011.0,0.0,0.0,2019.0,3.0,1.0,1.0,1.0,1,9,23
+Mastercard Foundation Fund for Rural Prosperity,Kenya,0.9,0.0,2014.0,0.0,0.0,2019.0,3.0,1.0,1.0,1.0,1,2,10
+Blue Haven Initiative,Kenya,0.9,1.0,2015.0,250000.0,0.0,2019.0,3.0,1.0,1.0,1.0,2,2,10
+Undisclosed,Kenya,0.9,1.0,2017.0,995000.0,0.0,2019.0,3.0,1.0,1.0,1.0,5,1,10
+Lendable,Nigeria,0.9,1.0,2012.0,15800000.0,0.0,2019.0,3.0,1.0,1.0,1.0,1,5,19
+Trine,Kenya,0.9,1.0,2008.0,2000000.0,0.0,2019.0,3.0,1.0,1.0,1.0,22,16,10
+Sandoz Healthcare Access Challenge,Uganda,0.9,1.0,2018.0,22000.0,0.0,2019.0,3.0,1.0,1.0,1.0,12,2,26
+Algebra Ventures & Ezdehar ,Egypt,0.9,0.0,2012.0,0.0,0.0,2019.0,3.0,1.0,1.0,1.0,6,3,5
+Stadia Ventures,South Africa,0.9,1.0,2010.0,100000.0,0.0,2019.0,3.0,1.0,1.0,1.0,4,1,23
+Undisclosed,South Africa,0.9,1.0,2017.0,830000.0,0.0,2019.0,3.0,1.0,1.0,1.0,6,1,23
+Y Combinator,Nigeria,0.9,1.0,2016.0,620000.0,0.0,2019.0,3.0,1.0,1.0,1.0,14,1,19
+Backstage Accelerator,Kenya,0.9,1.0,2017.0,100000.0,0.0,2019.0,3.0,1.0,1.0,1.0,12,1,10
+Undisclosed,Nigeria,0.9,1.0,2018.0,5000.0,0.0,2019.0,3.0,1.0,1.0,1.0,5,12,19
+"Polaris Partners, Africa Healthcare Fund",Mauritius,0.9,0.0,2015.0,0.0,0.0,2019.0,3.0,1.0,1.0,2.0,12,3,15
+Y Combinator,Nigeria,0.9,1.0,2016.0,620000.0,0.0,2019.0,3.0,1.0,1.0,1.0,14,1,19
+Y Combinator,Nigeria,0.9,1.0,2017.0,192000.0,0.0,2019.0,3.0,1.0,1.0,1.0,1,1,19
+Y Combinator,Nigeria,0.9,1.0,2018.0,190000.0,0.0,2019.0,3.0,1.0,1.0,1.0,1,1,19
+Y Combinator,Nigeria,0.9,1.0,2016.0,165000.0,0.0,2019.0,3.0,1.0,1.0,1.0,1,1,19
+500 Startups,Egypt,0.9,1.0,2019.0,50000.0,0.0,2019.0,3.0,1.0,1.0,1.0,4,1,5
+CRE Venture Capital,South Africa,0.9,1.0,2018.0,1200000.0,0.0,2019.0,3.0,1.0,1.0,1.0,1,1,23
+Y Combinator,Nigeria,0.9,1.0,2019.0,4650000.0,0.0,2019.0,3.0,1.0,1.0,1.0,12,1,19
+Microtraction,Nigeria,0.9,0.0,2016.0,0.0,0.0,2019.0,3.0,1.0,1.0,1.0,5,1,19
+Undisclosed,Mauritius,0.9,1.0,2017.0,26560000.0,0.0,2019.0,3.0,1.0,1.0,1.0,18,5,15
+"Persistent Energy Capital, Verod Capital Management",Mauritius,0.9,1.0,2017.0,26560000.0,0.0,2019.0,3.0,1.0,1.0,2.0,18,3,15
+"Cox Enterprises, Techstars, Ajayi solutions",Nigeria,0.9,1.0,2016.0,2450000.0,0.0,2019.0,3.0,1.0,1.0,3.0,1,1,19
+King Baudouin Foundation,Nigeria,0.9,1.0,2012.0,227000.0,0.0,2019.0,3.0,1.0,1.0,1.0,18,2,19
+Varkey Foundation,Tanzania,0.9,1.0,2013.0,25000.0,0.0,2019.0,3.0,1.0,1.0,1.0,3,2,24
+Undisclosed,Nigeria,0.9,1.0,2017.0,1235000.0,0.0,2019.0,3.0,1.0,1.0,1.0,1,1,19
+Tofino Capital Invests,Nigeria,0.9,1.0,2017.0,150000.0,0.0,2019.0,3.0,1.0,1.0,1.0,8,1,19
+HIMangel,Egypt,0.9,0.0,2016.0,100000.0,0.0,2019.0,3.0,1.0,1.0,1.0,4,1,5
+BNP Paribas,United States of America,0.9,1.0,2016.0,672000.0,1.0,2019.0,3.0,1.0,1.0,1.0,19,2,28
+Warner Music Group,Nigeria,0.9,0.0,2005.0,0.0,0.0,2019.0,3.0,1.0,1.0,1.0,4,17,19
+"4DX Ventures, Novastar Ventures, Unbound Ventures",Ghana,0.9,1.0,2014.0,25100000.0,0.0,2019.0,3.0,1.0,1.0,3.0,12,6,8
+Dakar Network Angels,Ivory Coast,0.9,1.0,2015.0,25000.0,0.0,2019.0,3.0,1.0,1.0,1.0,6,1,9
+MARLINVEST,Nigeria,0.9,1.0,2018.0,560000.0,0.0,2019.0,3.0,1.0,1.0,1.0,10,1,19
+Newton Partners,South Africa,0.9,0.0,2017.0,0.0,0.0,2019.0,4.0,2.0,1.0,1.0,19,1,23
+Skoll Foundation,Ghana,0.9,1.0,2014.0,25100000.0,0.0,2019.0,4.0,2.0,1.0,1.0,12,2,8
+"Algebra Ventures, Endure Capital, Flat6Labs, 500Startups",Egypt,0.9,1.0,2017.0,800000.0,0.0,2019.0,4.0,2.0,1.0,4.0,10,1,5
+"Maison Capital, Seas Capital",Nigeria,0.9,1.0,2015.0,20000000.0,0.0,2019.0,4.0,2.0,1.0,2.0,4,3,19
+Partech Partners,Nigeria,0.9,1.0,2016.0,5120000.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,3,19
+Bill & Melinda Gates Foundation,Nigeria,0.9,1.0,2017.0,1440000.0,0.0,2019.0,4.0,2.0,1.0,1.0,12,1,19
+Bill & Melinda Gates Foundation,South Africa,0.9,1.0,2016.0,10000.0,0.0,2019.0,4.0,2.0,1.0,1.0,12,1,23
+Devenish,Kenya,0.9,1.0,2011.0,2250000.0,0.0,2019.0,4.0,2.0,1.0,1.0,14,3,10
+"SUNU CAPITAL, Axel Johnson Inc",Uganda,0.9,1.0,2015.0,1510000.0,0.0,2019.0,4.0,2.0,1.0,2.0,12,1,26
+Undisclosed,South Africa,0.9,1.0,2016.0,91400.0,0.0,2019.0,4.0,2.0,1.0,1.0,6,16,23
+Ahmed Kamal Selim,Egypt,0.9,1.0,2018.0,800000.0,0.0,2019.0,4.0,2.0,1.0,1.0,6,1,5
+Idris Ayodeji Bello,Nigeria,0.9,0.0,2019.0,0.0,0.0,2019.0,4.0,2.0,1.0,1.0,3,4,19
+Sabvest Limited,South Africa,1.0,0.0,2018.0,768000.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,9,23
+Sozala Media,South Africa,0.9,0.0,2017.0,0.0,0.0,2019.0,4.0,2.0,1.0,1.0,8,1,23
+ Founders Factory Africa.,Ghana,0.9,1.0,2017.0,490000.0,0.0,2019.0,4.0,2.0,1.0,1.0,6,12,8
+ Founders Factory Africa.,Nigeria,0.9,1.0,2018.0,190000.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,12,19
+ Founders Factory Africa.,Kenya,0.9,1.0,2015.0,40000.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,12,10
+ Founders Factory Africa.,Nigeria,0.9,1.0,2015.0,40000.0,0.0,2019.0,4.0,2.0,1.0,1.0,5,12,19
+ Founders Factory Africa.,Uganda,0.9,1.0,2017.0,40000.0,0.0,2019.0,4.0,2.0,1.0,1.0,6,12,26
+MIT Enterprise Forum Pan Arab,Tunisia,0.9,1.0,2019.0,10000.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,2,25
+Southern Nigerian angel network,Nigeria,0.9,1.0,2018.0,5500.0,0.0,2019.0,4.0,2.0,1.0,1.0,14,1,19
+MIT Enterprise Forum Pan Arab,Egypt,0.9,1.0,2017.0,5000.0,0.0,2019.0,4.0,2.0,1.0,1.0,5,2,5
+Calvin Ayre,South Africa,0.9,1.0,2017.0,1300000.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,3,23
+Undisclosed,Ghana,0.9,1.0,2017.0,490000.0,0.0,2019.0,4.0,2.0,1.0,1.0,6,1,8
+Undisclosed,Nigeria,0.9,0.0,2016.0,15000.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,2,19
+Undisclosed,Nigeria,0.9,0.0,2017.0,192000.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,2,19
+Undisclosed,Nigeria,0.9,0.0,2018.0,0.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,2,19
+Undisclosed,Nigeria,0.9,0.0,2014.0,0.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,2,19
+Undisclosed,Nigeria,0.9,0.0,2018.0,0.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,2,19
+Undisclosed,Nigeria,0.9,0.0,2002.0,0.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,2,19
+Undisclosed,Nigeria,0.9,0.0,2019.0,0.0,0.0,2019.0,4.0,2.0,1.0,1.0,12,12,19
+Undisclosed,Cameroon,0.9,1.0,2013.0,555000.0,0.0,2019.0,4.0,2.0,1.0,1.0,4,16,4
+500 Startups,Egypt,0.9,1.0,2016.0,417000.0,0.0,2019.0,4.0,2.0,1.0,1.0,10,1,5
+500 Startups,Egypt,0.9,1.0,2016.0,415000.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,1,5
+500 Startups,Egypt,0.9,1.0,2016.0,255000.0,0.0,2019.0,4.0,2.0,1.0,1.0,15,1,5
+500 Startups,Egypt,0.9,1.0,2017.0,150000.0,0.0,2019.0,4.0,2.0,1.0,1.0,6,1,5
+ Blue Garnet Ventures,South Africa,0.9,0.0,2016.0,200000.0,0.0,2019.0,4.0,2.0,1.0,1.0,1,9,23
+" Embassy of France, French Institute in South Africa (IFAS)",Zimbabwe,0.9,0.0,2019.0,0.0,0.0,2019.0,5.0,2.0,1.0,2.0,5,2,30
+" Embassy of France, French Institute in South Africa (IFAS)",South Africa,0.9,0.0,2017.0,0.0,0.0,2019.0,5.0,2.0,1.0,2.0,1,2,23
+Ventures Platform,Nigeria,0.9,0.0,2016.0,8300.0,0.0,2019.0,5.0,2.0,1.0,1.0,1,1,19
+"AfricInvest, Endeavor Catalyst",United Kingdom,0.9,1.0,2014.0,7000000.0,1.0,2019.0,5.0,2.0,1.0,2.0,6,3,27
+UK’s Department for International Development (DFID),Kenya,0.9,1.0,2018.0,95000.0,0.0,2019.0,5.0,2.0,1.0,1.0,8,2,10
+UK’s Department for International Development (DFID),Kenya,0.9,1.0,2008.0,95000.0,0.0,2019.0,5.0,2.0,1.0,1.0,14,2,10
+" Embassy of France, French Institute in South Africa (IFAS)",Ghana,0.9,1.0,2018.0,3000.0,0.0,2019.0,5.0,2.0,1.0,2.0,4,2,8
+Marlinvest SAS,Nigeria,0.9,1.0,2018.0,560000.0,0.0,2019.0,5.0,2.0,1.0,1.0,10,1,19
+"Allianz X, Go-Ventures",Uganda,0.9,0.0,2015.0,1327000.0,0.0,2019.0,5.0,2.0,1.0,2.0,10,6,26
+Thawer Fund Management,Zimbabwe,0.9,1.0,2017.0,13000000.0,0.0,2019.0,5.0,2.0,1.0,1.0,1,3,30
+"Seven Seas Capital Management, Indigo Venture Partners",Kenya,0.9,1.0,2015.0,8000000.0,0.0,2019.0,5.0,2.0,1.0,2.0,12,3,10
+Saeed Al Jaberi,Egypt,0.9,1.0,2017.0,180000.0,0.0,2019.0,5.0,2.0,1.0,1.0,5,1,5
+Google,Uganda,0.9,1.0,2018.0,1300000.0,0.0,2019.0,5.0,2.0,1.0,1.0,22,2,26
+Trine,Mauritius,0.9,1.0,2017.0,26560000.0,0.0,2019.0,5.0,2.0,1.0,1.0,18,20,15
+UK’s Department for International Development (DFID),Kenya,0.9,1.0,2017.0,3895000.0,0.0,2019.0,5.0,2.0,1.0,1.0,8,2,10
+"PharmAccess Group, ELMA Investments",Kenya,0.9,1.0,2015.0,45000000.0,0.0,2019.0,5.0,2.0,1.0,2.0,1,3,10
+Kuria Capital,Kenya,0.9,0.0,2016.0,0.0,0.0,2019.0,5.0,2.0,1.0,1.0,8,1,10
+Undisclosed,Egypt,0.9,1.0,2018.0,285000.0,0.0,2019.0,5.0,2.0,1.0,1.0,1,12,5
+Undisclosed,South Africa,0.9,1.0,2017.0,4190000.0,0.0,2019.0,5.0,2.0,1.0,1.0,6,20,23
+Undisclosed,South Africa,0.9,1.0,2015.0,3920000.0,0.0,2019.0,5.0,2.0,1.0,1.0,1,1,23
+Pure Consulting,Egypt,0.9,1.0,2014.0,2750000.0,0.0,2019.0,5.0,2.0,1.0,1.0,5,1,5
+"500 Startups, A15",Egypt,0.9,0.0,2015.0,450000.0,0.0,2019.0,5.0,2.0,1.0,2.0,5,1,5
+"Rise Capital, Adventure Capital,  First MidWest Group, IC Global Partners",Nigeria,0.9,1.0,2017.0,12507300.0,0.0,2019.0,5.0,2.0,1.0,4.0,10,3,19
+Undisclosed,Nigeria,0.9,1.0,2018.0,10000.0,0.0,2019.0,5.0,2.0,1.0,1.0,14,12,19
+Blue Startups Accelerator,Egypt,0.9,1.0,2016.0,500000.0,0.0,2019.0,5.0,2.0,1.0,1.0,6,1,5
+"Oui Capital, Neon Ventures, Zircon Marine",Nigeria,0.9,1.0,2018.0,100000.0,0.0,2019.0,5.0,2.0,1.0,3.0,10,12,19
+HarbourVest,South Africa,0.9,0.0,1999.0,40000000.0,0.0,2019.0,5.0,2.0,1.0,1.0,15,5,23
+Capital Appreciation,South Africa,0.9,1.0,2016.0,1400000.0,0.0,2019.0,5.0,2.0,1.0,1.0,6,5,23
+Undisclosed,Kenya,0.9,1.0,2016.0,14895000.0,0.0,2019.0,5.0,2.0,1.0,1.0,10,3,10
+Undisclosed,South Africa,0.9,1.0,2017.0,4190000.0,0.0,2019.0,5.0,2.0,1.0,1.0,6,16,23
+"International Finance Corporation (IFC), Pharos Holding, AlexBank, German Agency for International Cooperation and Sustainable Development (GIZ), Visa, Ayady, Sanad’s Entrepreneurship Academy, Export Development Bank of Egypt (EBE)",Egypt,0.9,1.0,2016.0,25000.0,0.0,2019.0,5.0,2.0,1.0,8.0,1,12,5
+"International Finance Corporation (IFC), Pharos Holding, AlexBank, German Agency for International Cooperation and Sustainable Development (GIZ), Visa, Ayady, Sanad’s Entrepreneurship Academy, Export Development Bank of Egypt (EBE)",Egypt,0.9,1.0,2018.0,25000.0,0.0,2019.0,5.0,2.0,1.0,8.0,1,12,5
+"International Finance Corporation (IFC), Pharos Holding, AlexBank, German Agency for International Cooperation and Sustainable Development (GIZ), Visa, Ayady, Sanad’s Entrepreneurship Academy, Export Development Bank of Egypt (EBE)",Egypt,0.9,1.0,2018.0,25000.0,0.0,2019.0,5.0,2.0,1.0,8.0,1,12,5
+"International Finance Corporation (IFC), Pharos Holding, AlexBank, German Agency for International Cooperation and Sustainable Development (GIZ), Visa, Ayady, Sanad’s Entrepreneurship Academy, Export Development Bank of Egypt (EBE)",Egypt,0.9,1.0,2016.0,25000.0,0.0,2019.0,5.0,2.0,1.0,8.0,1,12,5
+"International Finance Corporation (IFC), Pharos Holding, AlexBank, German Agency for International Cooperation and Sustainable Development (GIZ), Visa, Ayady, Sanad’s Entrepreneurship Academy, Export Development Bank of Egypt (EBE)",Egypt,0.9,1.0,2019.0,25000.0,0.0,2019.0,5.0,2.0,1.0,8.0,1,12,5
+"International Finance Corporation (IFC), Pharos Holding, AlexBank, German Agency for International Cooperation and Sustainable Development (GIZ), Visa, Ayady, Sanad’s Entrepreneurship Academy, Export Development Bank of Egypt (EBE)",Egypt,0.9,1.0,2018.0,25000.0,0.0,2019.0,5.0,2.0,1.0,8.0,5,12,5
+"International Finance Corporation (IFC), Pharos Holding, AlexBank, German Agency for International Cooperation and Sustainable Development (GIZ), Visa, Ayady, Sanad’s Entrepreneurship Academy, Export Development Bank of Egypt (EBE)",Egypt,0.9,1.0,2019.0,25000.0,0.0,2019.0,5.0,2.0,1.0,8.0,1,12,5
+Savant,South Africa,0.9,1.0,2016.0,665000.0,0.0,2019.0,6.0,2.0,1.0,1.0,12,1,23
+The Royal Academy Of Engineering,South Africa,0.9,1.0,2015.0,32000.0,0.0,2019.0,6.0,2.0,1.0,1.0,12,2,23
+"Ethos Private Equity, African Rainbow Partners",South Africa,0.9,1.0,2012.0,13630000.0,0.0,2019.0,6.0,2.0,1.0,2.0,1,9,23
+HAVAIC,Kenya,0.9,0.0,2016.0,117000.0,0.0,2019.0,6.0,2.0,1.0,1.0,6,1,10
+"Algebra Ventures​, NFX Capital",Egypt,0.9,1.0,2014.0,500000.0,0.0,2019.0,6.0,2.0,1.0,2.0,3,1,5
+Creadev ,Kenya,0.9,1.0,2013.0,40350000.0,0.0,2019.0,6.0,2.0,1.0,1.0,5,9,10
+Lateral Capital,Kenya,0.9,1.0,2017.0,3895000.0,0.0,2019.0,6.0,2.0,1.0,1.0,8,3,10
+TechCircle,Ghana,0.9,1.0,2018.0,102700.0,0.0,2019.0,6.0,2.0,1.0,1.0,10,2,8
+"Goodwell Investments, RGAx, Allan Gray",South Africa,0.9,1.0,2015.0,1560000.0,0.0,2019.0,6.0,2.0,1.0,3.0,1,3,23
+Meltwater Entrepreneurial School of Technology (MEST),South Africa,0.9,1.0,2016.0,75000.0,0.0,2019.0,6.0,2.0,1.0,1.0,6,2,23
+Meltwater Entrepreneurial School of Technology (MEST),Kenya,0.9,1.0,2016.0,75000.0,0.0,2019.0,6.0,2.0,1.0,1.0,1,2,10
+Microsoft,South Africa,0.9,1.0,2016.0,75000.0,0.0,2019.0,6.0,2.0,1.0,1.0,6,5,23
+Microsoft,Kenya,0.9,1.0,2016.0,75000.0,0.0,2019.0,6.0,2.0,1.0,1.0,1,5,10
+"Novastar Ventures, Yamaha, Breakthrough Energy Ventures, Zrosk Investment Management, Alitheia Capital",Nigeria,0.9,1.0,2015.0,8100000.0,0.0,2019.0,6.0,2.0,1.0,5.0,10,3,19
+"Novastar Ventures, Yamaha, Breakthrough Energy Ventures, Zrosk Investment Management, Alitheia Capital",Nigeria,0.9,1.0,2015.0,8100000.0,0.0,2019.0,6.0,2.0,1.0,5.0,10,2,19
+500 Startups,Egypt,0.9,0.0,2017.0,0.0,0.0,2019.0,6.0,2.0,1.0,1.0,4,1,5
+African Development Bank,Ghana,0.9,0.0,2012.0,742000.0,0.0,2019.0,6.0,2.0,1.0,1.0,14,2,8
+Chandaria Capital,Kenya,0.9,0.0,2017.0,0.0,0.0,2019.0,6.0,2.0,1.0,1.0,5,1,10
+MIT D-Lab Scale-Ups fellowship,Kenya,0.9,1.0,2015.0,20000.0,0.0,2019.0,6.0,2.0,1.0,1.0,7,2,10
+MIT D-Lab Scale-Ups fellowship,Uganda,0.9,1.0,2016.0,20000.0,0.0,2019.0,6.0,2.0,1.0,1.0,1,2,26
+MIT D-Lab Scale-Ups fellowship,Tanzania,0.9,1.0,2017.0,20000.0,0.0,2019.0,6.0,2.0,1.0,1.0,6,2,24
+500 Startups,Egypt,0.9,0.0,2017.0,0.0,0.0,2019.0,6.0,2.0,1.0,1.0,4,1,5
+"Vostok New Ventures, BECO Capital, Endeavor Catalyst, OTF Jasoor Venture, Sawari Ventures, DASH Ventures",Egypt,0.9,1.0,2017.0,80500000.0,0.0,2019.0,6.0,2.0,1.0,6.0,10,8,5
+Naspers Foundry,South Africa,0.9,1.0,2014.0,2700000.0,0.0,2019.0,6.0,2.0,1.0,1.0,8,6,23
+"Consonance Investment Managers, Techstars, Finca Ventures, Greetree Investment Company",Nigeria,0.9,1.0,2016.0,1280000.0,0.0,2019.0,6.0,2.0,1.0,4.0,12,1,19
+Seamless North Africa,Egypt,0.9,1.0,2018.0,50000.0,0.0,2019.0,6.0,2.0,1.0,1.0,1,2,5
+Gray Matters Capital,Kenya,0.9,1.0,2016.0,100000.0,0.0,2019.0,6.0,2.0,1.0,1.0,14,1,10
+Catalyst Fund,Kenya,0.9,0.0,2018.0,100000.0,0.0,2019.0,6.0,2.0,1.0,1.0,1,1,10
+Undisclosed,Nigeria,0.9,0.0,2013.0,0.0,0.0,2019.0,6.0,2.0,1.0,1.0,6,1,19
+GreenTec Capital Partners,Zambia,0.9,0.0,2016.0,0.0,0.0,2019.0,6.0,2.0,1.0,1.0,22,1,29
+Kalon Venture Partners,South Africa,0.9,0.0,2014.0,710000.0,0.0,2019.0,6.0,2.0,1.0,1.0,1,3,23
+Undisclosed,Nigeria,0.9,1.0,2016.0,140000.0,0.0,2019.0,6.0,2.0,1.0,1.0,3,12,19
+Julian Dames,Egypt,0.9,0.0,2011.0,1500000.0,0.0,2019.0,6.0,2.0,1.0,1.0,5,6,5
+"500 Startups, Mohamed El Sewedy",Egypt,0.9,0.0,2017.0,150000.0,0.0,2019.0,6.0,2.0,1.0,2.0,5,3,5
+Imprimatur Capital,Uganda,0.9,0.0,2016.0,0.0,0.0,2019.0,6.0,2.0,1.0,1.0,6,1,26
+Y Combinator,Egypt,1.0,1.0,2017.0,150000.0,0.0,2019.0,6.0,2.0,1.0,1.0,5,1,5
+"Labs By ARM, Ventures Platform Foundation",Nigeria,0.9,1.0,2017.0,8300.0,0.0,2019.0,6.0,2.0,1.0,2.0,5,2,19
+"Labs By ARM, Ventures Platform Foundation",Nigeria,0.9,1.0,2017.0,8300.0,0.0,2019.0,6.0,2.0,1.0,2.0,1,2,19
+"Labs By ARM, Ventures Platform Foundation",Nigeria,0.9,1.0,2018.0,8300.0,0.0,2019.0,6.0,2.0,1.0,2.0,1,2,19
+"Labs By ARM, Ventures Platform Foundation",Nigeria,0.9,1.0,2017.0,8300.0,0.0,2019.0,6.0,2.0,1.0,2.0,1,2,19
+"Labs By ARM, Ventures Platform Foundation",Nigeria,0.9,1.0,2016.0,8300.0,0.0,2019.0,6.0,2.0,1.0,2.0,1,2,19
+"Labs By ARM, Ventures Platform Foundation",Nigeria,0.9,1.0,2017.0,8300.0,0.0,2019.0,6.0,2.0,1.0,2.0,1,2,19
+Made Agency,South Africa,1.0,0.0,2017.0,0.0,0.0,2019.0,6.0,2.0,1.0,1.0,4,1,23
+"International Finance Corporation, Quona Capital",South Africa,0.9,1.0,2014.0,6500000.0,0.0,2019.0,6.0,2.0,1.0,2.0,1,3,23
+Pearl Capital Partners,Uganda,0.9,1.0,2012.0,1055000.0,0.0,2019.0,6.0,2.0,1.0,1.0,14,9,26
+Catalyst Fund,Kenya,0.9,1.0,2018.0,100000.0,0.0,2019.0,6.0,2.0,1.0,1.0,1,2,10
+Growth Capital,Nigeria,0.9,0.0,2012.0,0.0,0.0,2019.0,6.0,2.0,1.0,1.0,12,1,19
+Business Valley,Egypt,0.9,0.0,2016.0,50000.0,0.0,2019.0,6.0,2.0,1.0,1.0,6,1,5
+Undisclosed,South Africa,1.0,0.0,2017.0,0.0,0.0,2019.0,7.0,3.0,2.0,1.0,1,1,23
+"Better Ventures,  Fifty Years Fund, Hack VC, Techammer, KdT Ventures, Y Combinator",Nigeria,0.9,1.0,2019.0,4650000.0,0.0,2019.0,7.0,3.0,2.0,6.0,12,1,19
+"Knife Capital,",South Africa,0.9,0.0,2000.0,0.0,0.0,2019.0,7.0,3.0,2.0,2.0,6,3,23
+Triple Jump BV,Zambia,0.9,1.0,2010.0,2170000.0,0.0,2019.0,7.0,3.0,2.0,1.0,14,9,29
+TechStars,Ghana,0.9,1.0,2016.0,420000.0,0.0,2019.0,7.0,3.0,2.0,1.0,14,1,8
+TechStars,Nigeria,0.9,1.0,2014.0,120000.0,0.0,2019.0,7.0,3.0,2.0,1.0,6,1,19
+One Thousand And One Voices,Lesotho,0.9,0.0,2006.0,0.0,0.0,2019.0,7.0,3.0,2.0,1.0,14,9,11
+"GSR Ventures, IDG Capital, Meituan Dianping, Opera, Source Code Capital, Sequoia Capital China",Nigeria,0.9,1.0,2018.0,50000000.0,0.0,2019.0,7.0,3.0,2.0,6.0,1,3,19
+"Trond Riiber Knudsen Group, Shravan Shroff",Kenya,0.9,1.0,2014.0,320000.0,0.0,2019.0,7.0,3.0,2.0,2.0,24,1,10
+MAGIC Global Accelerator Programme,Kenya,0.9,1.0,2018.0,500000.0,0.0,2019.0,7.0,3.0,2.0,1.0,8,1,10
+AC Ventures,Nigeria,0.9,0.0,2018.0,0.0,0.0,2019.0,7.0,3.0,2.0,1.0,6,1,19
+Edventures,Egypt,0.9,1.0,2015.0,100000.0,0.0,2019.0,7.0,3.0,2.0,1.0,3,1,5
+"Alexandria Angels, Cairo Angels",United States of America,0.9,0.0,2015.0,0.0,1.0,2019.0,7.0,3.0,2.0,2.0,4,1,28
+"AHL Venture Partners, DOB Equity",Kenya,0.9,0.0,1998.0,0.0,0.0,2019.0,7.0,3.0,2.0,2.0,14,9,10
+AgDevCo,Tanzania,0.9,0.0,2007.0,0.0,0.0,2019.0,7.0,3.0,2.0,1.0,14,9,24
+Undisclosed,South Africa,0.9,1.0,2013.0,4700000.0,0.0,2019.0,7.0,3.0,2.0,1.0,3,10,23
+RENEW,Uganda,0.9,1.0,2014.0,60000.0,0.0,2019.0,7.0,3.0,2.0,1.0,5,1,26
+Undisclosed,Kenya,0.9,1.0,2015.0,330000.0,0.0,2019.0,7.0,3.0,2.0,1.0,10,5,10
